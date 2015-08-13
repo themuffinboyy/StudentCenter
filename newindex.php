@@ -41,11 +41,16 @@
 
 <section id="homepage">
   <div class="row home_header">
-    <div class="large-4 columns">
-      <img src="images/csc_logo.png">
+    <div class="large-4 medium-4 small-12 columns">
+      <div class="row no_top">
+        <img src="images/csc_logo.png">
+      </div>
+      <div class="row nested">
+        <a href="event.php" class="event button">Plan an Event</a>
+      </div>
     </div>
 
-    <div class="large-8 columns">
+    <div class="large-8 medium-8 small-12 columns">
         <ul class="example_orbit" data-orbit>
           <li>
             <a href="event.php"><img src="images/make_it_happen_home_banner.png" alt="slide 1" /></a>
