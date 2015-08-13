@@ -1,0 +1,263 @@
+@charset "UTF-8";
+/* CSS Document */
+
+// Fonts.
+
+$rowan_gold: #FFCA05;
+$rowan_brown: #5A180A;
+$rowan_silver: rgba(153, 153, 153, 0.6);
+$spotlight_blue: #5CADD2;
+$trivia_orange: #EB8528;
+
+#footer{
+    	height: 50px;
+    	color: #aaa;
+    	text-align: center;
+      left: 140px;
+    	width: 980px;
+      position: absolute;
+      bottom: 0px;
+    }
+
+#mainstuff {
+    background-image: url("https://c4.staticflickr.com/4/3868/15209183262_d10f7ff438_k.jpg");
+}
+
+body{
+	background-image: url(../images/background.jpeg);
+  background-repeat: repeat;
+  height: 1300px;
+}
+
+#policies{
+	margin-left: 85px;
+}
+
+#indent{
+  margin-left: 40px;
+}
+
+#heavy_indent{
+  margin-left: 90px;
+}
+
+#list_indent{
+  list-style-position: inside;
+}
+
+#sidebyside{
+  padding-left: 100px;
+  width: 40%;
+  float: left;
+}
+
+#social {
+  margin-bottom: 0 !important;
+  margin-left: 0; 
+}
+
+#homepage {
+  .label {
+    background: $rowan_silver;
+  }
+
+  #event_button {
+    padding: 0;
+    background-color: $rowan_brown;
+  }
+
+  #event_button:hover {
+    background-image: url(../images/event_button_hover.png)
+  }
+
+  .button {
+    background-image: url(../images/event_button.png);
+  }
+
+  #slider {
+    padding: 0;
+
+    .orbit-slide-number {
+      display: none;
+    }
+
+    .orbit-bullets-container {
+      display: none;
+    }
+
+    .orbit-prev {
+      height: 100%;
+      margin-top: 0;
+      height: 100%;
+      top: 0;
+    }
+
+    .orbit-next {
+      height: 100%;
+      margin-top: 0;
+      height: 100%;
+      top: 0;
+    }
+
+    .orbit-timer {
+      display: none;
+    }
+  }
+
+  #social_feeds {
+    #twitter-widget-0 {
+      height: 446px;
+    }
+  }
+
+  #hours {
+    #bold {
+      font-weight: bold;
+    }
+
+    #small {
+      font-size: 11px;
+    }
+
+    .content {
+      padding: 0;
+    }
+
+    .panel {
+      margin-top: 24px;
+
+      p {
+        margin-bottom: 10px;
+      }
+    }
+  }
+}
+
+
+//Custom Foundations Stuff.
+
+.tabs:before, .tabs:after {
+  content: " ";
+  display: table; 
+}
+
+.tabs:after {
+  clear: both; 
+}
+
+.tabs dd, .tabs .tab-title {
+  float: left;
+  list-style: none;
+  margin-bottom: 0 !important;
+  position: relative;
+}
+
+.tabs dd > a, .tabs .tab-title > a {
+  outline: none;
+  display: block;
+  background-color: $rowan_silver;
+
+  &#small {
+    background-color: #e4e4e4;
+  }
+
+  color: #222222;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 0.75rem;
+  padding: 0.5rem 1rem;
+}
+
+.tabs dd > a:hover, .tabs .tab-title > a:hover {
+  background-color: #e1e1e1;
+
+  &#small {
+    background-color: rgba(153, 153, 153, 0.6);
+  }
+}
+
+.tabs dd.active a, .tabs .tab-title.active a {
+  background-color: #ffcf44;
+
+  &#small {
+    background-color: #ffcf44;
+  }
+
+  color: #222222;
+}
+
+.tabs.radius dd:first-child a, .tabs.radius .tab:first-child a {
+  -webkit-border-bottom-left-radius: 3px;
+  -webkit-border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+}
+
+.tabs.radius dd:last-child a, .tabs.radius .tab:last-child a {
+  -webkit-border-bottom-right-radius: 3px;
+  -webkit-border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.tabs.vertical dd, .tabs.vertical .tab-title {
+  position: inherit;
+  float: none;
+  display: block;
+  top: auto;
+}
+
+.tabs-content {
+  margin-bottom: 1.5rem;
+  width: 100%; 
+}
+
+.tabs-content:before, .tabs-content:after {
+  content: " ";
+  display: table; 
+}
+
+.tabs-content:after {
+  clear: both; 
+}
+
+.tabs-content > .content {
+  display: none;
+  float: left;
+  padding: 0.9375rem 0;
+  width: 100%;
+}
+
+.tabs-content > .content.active {
+  display: block;
+  float: none;
+}
+
+.tabs-content > .content.contained {
+  padding: 0.9375rem;
+}
+
+.tabs-content.vertical {
+  display: block;
+}
+
+.tabs-content.vertical > .content {
+  padding: 0 0.9375rem;
+}
+
+@media only screen and (min-width: 40.0625em) {
+  .tabs.vertical {
+    float: left;
+    margin: 0;
+    margin-bottom: 1.25rem !important;
+    max-width: 20%;
+    width: 20%;
+  }
+
+  .tabs-content.vertical {
+    float: left;
+    margin-left: -1px;
+    max-width: 80%;
+    padding-left: 1rem;
+    width: 80%; 
+  } 
+}

@@ -1,0 +1,31 @@
+#trivia_page img {
+  width: 100%;
+  height: 415px; }
+#trivia_page .row {
+  padding: 0 20px;
+  margin: 30px auto 0 auto;
+  max-width: 1200px; }
+  #trivia_page .row.nested {
+    padding: 0; }
+#trivia_page .columns {
+  padding: 0; }
+#trivia_page #footer {
+  text-align: center; }
+#trivia_page .label {
+  font-size: 1.5em;
+  line-height: 1.5;
+  width: 100%; }
+#trivia_page .small-12 {
+  width: 100%; }
+@media only screen and (min-width: 40.0625em) {
+  #trivia_page .medium-12 {
+    width: 100%; } }
+@media only screen and (min-width: 64.0625em) {
+  #trivia_page .large-4 {
+    width: 31.8%; }
+  #trivia_page .large-6 {
+    width: 48%; }
+  #trivia_page .large-7 {
+    width: 66.2%; } }
+
+/*# sourceMappingURL=trivia.css.map */
