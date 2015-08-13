@@ -32,7 +32,7 @@
 <section id="spotlight_page">
     <div class="row" id="trivia_header">
       <div class="large-4 columns">
-        <img src="images/csc_logo.png">
+        <img src="images/spotlight_logo.png">
       </div>
       <div class="large-8 columns">
         <img src="images/spotlight_page_banner.png">

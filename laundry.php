@@ -30,7 +30,7 @@
   <section id="laundry_page">
     <div class="row">
       <div class="large-12 columns">
-      	<img src="images/csc_logo.png">
+      	<img src="images/laundry_header.png">
       </div>
     </div>
 

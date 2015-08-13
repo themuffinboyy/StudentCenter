@@ -30,7 +30,7 @@
     <section id="marketing_page">
       <div class="row">
         <div class="large-12 columns">
-          <img src="images/csc_logo.png">
+          <img src="images/marketing_header.png">
         </div>
       </div>
 

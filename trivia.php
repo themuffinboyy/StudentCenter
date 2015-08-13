@@ -30,16 +30,16 @@
   include("header.html");
 ?>
 <section id="trivia_page">
-    <div class="row" id="trivia_header">
+    <div class="row trivia_header">
       <div class="large-4 columns">
-        <img src="images/csc_logo.png">
+        <img src="images/trivia_logo.png">
       </div>
       <div class="large-8 columns">
         <img src="images/trivia_page_banner.png">
       </div>
     </div>
 
-    <div class="row" id="information">
+    <div class="row">
       <div class="small-12 medium-12 large-7 columns">
         <div class="label">Meet Our Hosts</div>
 
@@ -72,11 +72,14 @@
 
         <div class="row nested">
           <div class="large-12 columns">
-            <div class="panel">The Chamberlain Student Center serves as
-            a safe, welcoming and inclusive environment for all members 
-            of the Rowan community. Through quality services and facilities 
-            the Chamberlain Student Center provides limitless student development 
-            opportunities and learning experiences.</div>
+            <div class="panel">
+              <p>Trivia night will be held every Tuesday night at 9:00 p.m. in Prof's Place, 
+              in the Chamberlain Student Center, starting September 8th. Get together with up to five (5) 
+              friends to create a team to compete for prizes every week. Trivia topics include current events, 
+              sports, music, history, theme nights, and more! Each week you will have the chance to win $50 in 
+              gift cards, and will compete for semester grand prizes. This event is free to all Rowan students. 
+              Bring your RowanCard and get ready to play!<p>
+            </div>
           </div>
         </div>
       </div>
