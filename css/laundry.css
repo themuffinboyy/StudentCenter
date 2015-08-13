@@ -2,6 +2,8 @@
   padding: 0 5px;
   margin: 30px auto 0 auto;
   max-width: 1200px; }
+#laundry_page .laundry_header {
+  margin-top: 15px; }
 #laundry_page img {
   width: 100%;
   height: 310px; }

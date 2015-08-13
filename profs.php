@@ -28,9 +28,9 @@
 <?php include("header.html"); ?>
 
   <section id="profs_page">
-    <div class="row">
+    <div class="row profs_header">
       <div class="large-12 columns">
-      	<img src="images/profs_header.png">
+      	<img src="images/profs_header.jpg">
       </div>
     </div>
 

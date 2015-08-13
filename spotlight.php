@@ -30,7 +30,7 @@
   include("header.html");
 ?>
 <section id="spotlight_page">
-    <div class="row" id="trivia_header">
+    <div class="row spotlight_header">
       <div class="large-4 columns">
         <img src="images/spotlight_logo.png">
       </div>

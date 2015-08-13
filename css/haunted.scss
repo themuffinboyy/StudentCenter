@@ -1,11 +1,11 @@
-#gameroom_page {
+#haunted_page {
 	.row {
 		padding: 0 5px;
 		margin: 30px auto 0 auto;
 		max-width: 1200px;
 	}
 
-	.gameroom_header {
+	.haunted_header {
 		margin-top: 15px;
 	}
 
@@ -40,6 +40,16 @@
 			&.active a {
 				background-color: #ffcf44;
 			}
+		}
+	}
+
+	.button-group {
+		li {
+			width: 50%;
+		}
+
+		a {
+			width: 100%;
 		}
 	}
 }

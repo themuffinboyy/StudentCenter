@@ -1,18 +1,18 @@
-#gameroom_page .row {
+#haunted_page .row {
   padding: 0 5px;
   margin: 30px auto 0 auto;
   max-width: 1200px; }
-#gameroom_page .gameroom_header {
+#haunted_page .haunted_header {
   margin-top: 15px; }
-#gameroom_page img {
+#haunted_page img {
   width: 100%;
   height: 310px; }
-#gameroom_page .label {
+#haunted_page .label {
   font-size: 1.5em;
   line-height: 1.5;
   width: 100%;
   margin-bottom: 10px; }
-#gameroom_page .tabs a {
+#haunted_page .tabs a {
   width: 100%;
   height: 42px;
   text-align: center;
@@ -22,9 +22,13 @@
   background-color: rgba(153, 153, 153, 0.6);
   font-size: 0.75rem;
   padding: 0.5rem 1rem; }
-#gameroom_page .tabs .tab-title {
+#haunted_page .tabs .tab-title {
   width: 33.33%; }
-  #gameroom_page .tabs .tab-title.active a {
+  #haunted_page .tabs .tab-title.active a {
     background-color: #ffcf44; }
+#haunted_page .button-group li {
+  width: 50%; }
+#haunted_page .button-group a {
+  width: 100%; }
 
-/*# sourceMappingURL=gameroom.css.map */
+/*# sourceMappingURL=haunted.css.map */

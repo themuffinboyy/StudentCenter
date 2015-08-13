@@ -30,7 +30,7 @@
   include("header.html");
 ?>
 <section id="mission_page">
-    <div class="row" id="mission_header">
+    <div class="row mission_header">
       <div class="large-4 columns">
       	<img src="images/csc_logo.png">
       </div>

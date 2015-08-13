@@ -8,6 +8,8 @@
   #spotlight_page .row.nested {
     padding: 0;
     margin-top: 15px; }
+#spotlight_page .spotlight_header {
+  margin-top: 15px; }
 #spotlight_page .columns {
   padding: 0; }
 #spotlight_page #footer {
