@@ -4629,7 +4629,7 @@ blockquote p {
   white-space: nowrap;
   padding: 0.25rem 0.5rem 0.25rem;
   font-size: 0.6875rem;
-  background-color: #008CBA;
+  background: rgba(153, 153, 153, 0.6);
   color: #FFFFFF; }
   .label.radius {
     border-radius: 3px; }
