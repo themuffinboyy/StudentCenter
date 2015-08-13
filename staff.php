@@ -88,7 +88,7 @@
               
             <div class="row">
                 <div class="large-2 columns">
-              <a class="th" href="./images/staff/Susan.jpg"><img src="./images/staff/Susan.jpg"></a>
+              <a class="th" href="./images/staff/Susan.png"><img src="./images/staff/Susan.png"></a>
             </div>
               <div class="large-10 columns">
               <p><strong>Susan Chard</strong><br>
@@ -130,7 +130,7 @@
 
             <div class="row">
                 <div class="large-2 columns">
-              <a class="th" href="./images/staff/Amy.jpg"><img src="./images/staff/Amy.jpg"></a>
+              <a class="th" href="./images/staff/Amy.png"><img src="./images/staff/Amy.png"></a>
             </div>
               <div class="large-10 columns">
               <p><strong>Amy Stehman</strong><br>

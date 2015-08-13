@@ -1,114 +1,46 @@
-#newindex .row {
-  padding: 0 20px;
+#homepage .row {
+  padding: 0 5px;
   margin: 30px auto 0 auto;
   max-width: 1200px; }
-  #newindex .row.nested {
-    padding: 0; }
-  #newindex .row.csc img {
-    width: 100%; }
-#newindex .columns {
-  padding: 0; }
-#newindex .button {
-  background-color: #5A180A;
+#homepage .home_header {
+  margin-top: 15px; }
+#homepage img {
   width: 100%;
-  padding: 35px 0; }
-#newindex .top {
-  margin-top: 0; }
-#newindex .bottom {
-  margin-top: 28px; }
-@media only screen and (min-width: 40.0625em) {
-  #newindex .logo.medium-4 {
-    width: 31%; } }
-#newindex #social_feeds #twitter-widget-0 {
-  height: 446px; }
-#newindex #hours #bold {
-  font-weight: bold; }
-#newindex #hours #small {
-  font-size: 11px; }
-#newindex #hours .content {
-  padding: 0; }
-#newindex #hours .panel {
-  margin-top: 24px; }
-#newindex .tabs:before, #newindex .tabs:after {
-  content: " ";
-  display: table; }
-#newindex .tabs:after {
-  clear: both; }
-#newindex .tabs dd, #newindex .tabs .tab-title {
-  width: 50%;
+  height: 310px; }
+#homepage .label {
+  font-size: 1.5em;
+  line-height: 1.5;
+  width: 100%;
+  margin-bottom: 10px; }
+#homepage .tabs a {
+  width: 100%;
+  height: 42px;
   text-align: center;
-  float: left;
-  list-style: none;
-  margin-bottom: 0 !important;
-  position: relative; }
-#newindex .tabs dd > a, #newindex .tabs .tab-title > a {
+  line-height: 2.4;
+  font-weight: bold;
   outline: none;
-  display: block;
   background-color: rgba(153, 153, 153, 0.6);
-  color: #222222;
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-size: 0.75rem;
   padding: 0.5rem 1rem; }
-  #newindex .tabs dd > a#small, #newindex .tabs .tab-title > a#small {
-    background-color: #e4e4e4; }
-#newindex .tabs dd > a:hover, #newindex .tabs .tab-title > a:hover {
-  background-color: #e1e1e1; }
-  #newindex .tabs dd > a:hover#small, #newindex .tabs .tab-title > a:hover#small {
-    background-color: rgba(153, 153, 153, 0.6); }
-#newindex .tabs dd.active a, #newindex .tabs .tab-title.active a {
-  background-color: #ffcf44;
-  color: #222222; }
-  #newindex .tabs dd.active a#small, #newindex .tabs .tab-title.active a#small {
+#homepage .tabs .tab-title {
+  width: 33.33%; }
+  #homepage .tabs .tab-title.active a {
     background-color: #ffcf44; }
-#newindex .tabs.radius dd:first-child a, #newindex .tabs.radius .tab:first-child a {
-  -webkit-border-bottom-left-radius: 3px;
-  -webkit-border-top-left-radius: 3px;
-  border-bottom-left-radius: 3px;
-  border-top-left-radius: 3px; }
-#newindex .tabs.radius dd:last-child a, #newindex .tabs.radius .tab:last-child a {
-  -webkit-border-bottom-right-radius: 3px;
-  -webkit-border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-  border-top-right-radius: 3px; }
-#newindex .tabs.vertical dd, #newindex .tabs.vertical .tab-title {
-  position: inherit;
-  float: none;
-  display: block;
-  top: auto; }
-#newindex .tabs-content {
-  margin-bottom: 1.5rem;
-  width: 100%; }
-#newindex .tabs-content:before, #newindex .tabs-content:after {
-  content: " ";
-  display: table; }
-#newindex .tabs-content:after {
-  clear: both; }
-#newindex .tabs-content > .content {
-  display: none;
-  float: left;
-  padding: 0.9375rem 0;
-  width: 100%; }
-#newindex .tabs-content > .content.active {
-  display: block;
-  float: none; }
-#newindex .tabs-content > .content.contained {
-  padding: 0.9375rem; }
-#newindex .tabs-content.vertical {
-  display: block; }
-#newindex .tabs-content.vertical > .content {
-  padding: 0 0.9375rem; }
-@media only screen and (min-width: 40.0625em) {
-  #newindex .tabs.vertical {
-    float: left;
-    margin: 0;
-    margin-bottom: 1.25rem !important;
-    max-width: 20%;
-    width: 20%; }
-  #newindex .tabs-content.vertical {
-    float: left;
-    margin-left: -1px;
-    max-width: 80%;
-    padding-left: 1rem;
-    width: 80%; } }
+#homepage .example_orbit {
+  padding: 0; }
+  #homepage .example_orbit .orbit-slide-number {
+    display: none; }
+  #homepage .example_orbit .orbit-prev {
+    height: 100%;
+    margin-top: 0;
+    height: 100%;
+    top: 0; }
+  #homepage .example_orbit .orbit-next {
+    height: 100%;
+    margin-top: 0;
+    height: 100%;
+    top: 0; }
+  #homepage .example_orbit .orbit-timer {
+    display: none; }
 
 /*# sourceMappingURL=newindex.css.map */
