@@ -73,11 +73,13 @@
 
         <div class="row nested">
           <div class="large-12 columns">
-            <div class="panel">The Chamberlain Student Center serves as
-            a safe, welcoming and inclusive environment for all members 
-            of the Rowan community. Through quality services and facilities 
-            the Chamberlain Student Center provides limitless student development 
-            opportunities and learning experiences.</div>
+            <div class="panel">
+              <ul>
+                <li>September 7th
+                <li>October 6th
+                <li>November 3rd
+              <ul>
+            </div>
           </div>
         </div>
       </div>
