@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="css/styles.css" />
 <link rel="stylesheet" href="css/banner.css" />
 <link rel="stylesheet" href="css/rowanheader.css" />
+<link rel="stylesheet" href="css/policies.css" />
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js"></script>
 <script type="text/javascript" src="js/js_jnv80YOwCwlPiNZ0W1fOaWsUliw1fl3r-iYl0nsElnY.js"></script>
 <script type="text/javascript" src="js/js_jckA-4t9p22mBBR89owx6Ksvb40v5gsspPqsDK3Q0oM.js"></script>
@@ -17,25 +18,31 @@
 <script type="text/javascript" src="js/js_IDBX5SzkJ9gGNq7x-qOE_2DZsexqguTJQGMKvi4w-Uw.js"></script>
 <script type="text/javascript" src="js/js_q7cpEY7s0Al6EkhNnFajyKCyiVdTKqAcAvZS1arQ-D8.js"></script>
 <script type="text/javascript" src="js/js_lpa3ttN1nRqoLlwqFJjkpfFvmjM6Z09FecPa_kywAeM.js"></script>
+<script src="js/vendor/jquery.js"></script>
 <script src="js/vendor/modernizr.js"></script>
+<script src="js/foundation/foundation.js"></script>
+<script src="js/foundation/foundation.orbit.js"></script>
+<script src="js/foundation/foundation.accordion.js"></script>
+<script src="js/foundation/foundation.tab.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
 <body style="height:850px">
 
-<?php 
-  include("header.html");
-?>
-    
+<?php include("header.html");?>
+  <section id="policies">
     <div class="large-9 large-centered column">
       <div class="panel">
               <h1 id="top-bar">Policies &amp; Procedures</h1>
               <hr>
             <div class="row">
-              <iframe id="policies" src="http://docs.google.com/gview?url=elvis.rowan.edu/~hollyj71/Foundations1/policies.pdf&embedded=true" style="width:718px; height:500px;" frameborder="0"></iframe>              
+              <div class="large-12 column">
+                <iframe id="policies" src="http://docs.google.com/gview?url=elvis.rowan.edu/~hollyj71/StudentCenter/policies.pdf&embedded=true" style="width:718px; height:500px;" frameborder="0"></iframe>              
+              </div>
             </div>
 </div>
   </div>
 
+</section>
 <?php 
   include("footer.html");
 ?>
