@@ -5,6 +5,9 @@
   #homepage .row.nested {
     padding: 0;
     margin-top: 15px; }
+  #homepage .row.social {
+    margin-top: 10px;
+    padding: 0; }
 #homepage .home_header {
   margin-top: 15px; }
 #homepage .no_top {
@@ -12,6 +15,8 @@
   padding: 0; }
 #homepage img {
   width: 100%;
+  height: 415px; }
+#homepage .logo {
   height: 310px; }
 #homepage .label {
   font-size: 1.5em;
@@ -29,9 +34,22 @@
   font-size: 0.75rem;
   padding: 0.5rem 1rem; }
 #homepage .tabs .tab-title {
-  width: 33.33%; }
+  width: 50%; }
+  #homepage .tabs .tab-title.third {
+    width: 33.33%; }
+  #homepage .tabs .tab-title.fourth {
+    width: 25%; }
+  #homepage .tabs .tab-title.fifth {
+    width: 20%; }
+  #homepage .tabs .tab-title.big {
+    width: 30%; }
   #homepage .tabs .tab-title.active a {
     background-color: #ffcf44; }
+#homepage .tabs-content {
+  margin-bottom: 0; }
+  #homepage .tabs-content .content {
+    padding-top: 0;
+    padding-bottom: 0; }
 #homepage .orbit-container {
   padding: 0; }
   #homepage .orbit-container .orbit-slide-number {
@@ -46,8 +64,20 @@
     top: 0; }
   #homepage .orbit-container .orbit-timer {
     display: none; }
+  #homepage .orbit-container .orbit-bullets {
+    margin-bottom: 15px; }
 #homepage .event {
   width: 100%;
-  height: 50px; }
+  height: 90px;
+  padding-top: 1.7rem;
+  font-size: 2rem; }
+#homepage .add_top {
+  margin-top: 15px; }
+#homepage input {
+  margin-bottom: 15px; }
+#homepage .panel p {
+  margin-bottom: 10px; }
+#homepage .panel textarea {
+  resize: none; }
 
 /*# sourceMappingURL=newindex.css.map */

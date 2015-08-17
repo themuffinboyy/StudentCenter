@@ -43,10 +43,11 @@
   <div class="row home_header">
     <div class="large-4 medium-4 small-12 columns">
       <div class="row no_top">
-        <img src="images/csc_logo.png">
-      </div>
-      <div class="row nested">
-        <a href="event.php" class="event button">Plan an Event</a>
+        <img class="logo" src="images/csc_logo.png">
+
+        <div class="row nested">
+          <a href="event.php" class="event button">Plan an Event</a>
+        </div>
       </div>
     </div>
 
@@ -62,6 +63,166 @@
            <a href="spotlight.php"><img src="images/spotlight_home_banner.png" alt="slide 3" /></a>
           </li>
         </ul>
+    </div>
+  </div>
+
+  <div class="row no_top">
+    <div class="large-4 medium-4 small-12 columns">
+      <div clsss="row nested">
+        <ul class="tabs" data-tab>
+            <li class="tab-title active">
+              <a href="#panel4">Twitter</a>
+            </li>
+            <li class="tab-title">
+              <a href="#panel5">Facebook</a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="row social">
+        <div class="tabs-content">
+          <div class="content active" id="panel4" style="padding: 0;">
+            <a class="twitter-timeline" data-dnt="true"  href="https://twitter.com/RUStudentCenter" data-widget-id="599293371673354240">Tweets by @RUStudentCenter</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
+          <div class="content" id="panel5" style="padding: 0;">
+            <div class="fb-page" data-href="https://www.facebook.com/RUStudentCenter1974" data-width="372" data-height="445" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/RUStudentCenter1974"><a href="https://www.facebook.com/RUStudentCenter1974">RUStudentCenter</a></blockquote></div></div>  
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="large-4 medium-4 small-12 columns">
+      <div class="row no_top">
+        <div class="label">Hours of Operation</div>
+      </div>
+
+      <div class="row no_top">
+        <ul class="tabs" data-tab>
+          <li class="tab-title third"><a href="#panel1">Regular</a></li>
+          <li class="tab-title third active"><a href="#panel2">Summer</a></li>
+          <li class="tab-title third"><a href="#panel3">Winter</a></li>
+        </ul>
+      </div>
+
+      <div class="row no_top">
+        <div class="tabs-content">
+          <div class="content" id="panel1">
+            <ul class="tabs" data-tab>
+              <li class="tab-title fifth active"><a href="#panel1a">Building</a></li>
+              <li class="tab-title fourth"><a href="#panel1b">Info Desk</a></li>
+              <li class="tab-title fourth"><a href="#panel1c">Gameroom</a></li>
+              <li class="tab-title big"><a href="#panel1d">Profs Place</a></li>
+            </ul>
+
+            <div class="tabs-content">
+              <div class="content add_top active" id="panel1a">
+                <div class="panel">
+                  <?php include("_hours/building_regular.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel1b">
+                <div class="panel">
+                  <?php include("_hours/info_regular.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel1c">
+                <div class="panel">
+                  <?php include("_hours/gameroom_regular.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel1d">
+                <div class="panel">
+                  <?php include("_hours/profs_regular.html"); ?>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="content active" id="panel2">
+            <ul class="tabs" data-tab>
+              <li class="tab-title fifth active"><a href="#panel2a">Building</a></li>
+              <li class="tab-title fourth"><a href="#panel2b">Info Desk</a></li>
+              <li class="tab-title fourth"><a href="#panel2c">Gameroom</a></li>
+              <li class="tab-title big"><a href="#panel2d">Profs Place</a></li>
+            </ul>
+
+            <div class="tabs-content">
+              <div class="content add_top active" id="panel2a">
+                <div class="panel">
+                  <?php include("_hours/building_summer.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel2b">
+                <div class="panel">
+                  <?php include("_hours/info_summer.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel2c">
+                <div class="panel">
+                  <?php include("_hours/gameroom_summer.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel2d">
+                <div class="panel">
+                  <?php include("_hours/profs_summer.html"); ?>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="content" id="panel3">
+            <ul class="tabs" data-tab>
+            <li class="tab-title fifth active"><a href="#panel3a">Building</a></li>
+            <li class="tab-title fourth"><a href="#panel3b">Info Desk</a></li>
+            <li class="tab-title fourth"><a href="#panel3c">Gameroom</a></li>
+            <li class="tab-title big"><a href="#panel3d">Profs Place</a></li>
+            </ul>
+
+            <div class="tabs-content">
+              <div class="content add_top active" id="panel3a">
+                <div class="panel">
+                  <?php include("_hours/building_winter.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel3b">
+                <div class="panel">
+                  <?php include("_hours/info_winter.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel3c">
+                <div class="panel">
+                  <?php include("_hours/gameroom_winter.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel3d">
+                <div class="panel">
+                  <?php include("_hours/profs_winter.html"); ?>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>      
+    </div>
+
+    <div class="large-4 medium-4 small-12 columns">
+      <div class="row no_top">
+        <div class="label">Contact Us</div>
+      </div>
+
+      <div class="row no_top">
+        <div class="panel">
+          <form name="contactform" method="post" action="send_form_email.php">
+            <input  type="text" name="first_name" maxlength="50" size="53" placeholder="First Name">
+            <input  type="text" name="last_name" maxlength="50" size="53" placeholder="Last Name">
+            <input  type="text" name="email" maxlength="80" size="53" placeholder="Email Address">
+            <input  type="text" name="telephone" maxlength="30" size="53" placeholder="Phone Number">
+            <textarea  name="comments" maxlength="1000" cols="25" rows="11" placeholder="Comments"></textarea>
+            <input type="submit" value="Submit">
+          </form>
+        </div>
+      </div>
     </div>
   </div>
 </section>

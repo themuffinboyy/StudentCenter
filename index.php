@@ -86,111 +86,111 @@
     Hours of Operation
   </div>
 
-  <div id="hours" style="position: absolute; width:372px; height: 450px; top:641px; left: 450px;">
-    <ul class="tabs" data-tab>
-  <li class="tab-title"><a href="#panel1" id="bold" style="width: 124px; height: 42px; text-align: center; line-height: 2.4;">Regular</a></li>
-  <li class="tab-title active"><a href="#panel2" id="bold" style="width: 124px; height: 42px; text-align: center; line-height: 2.4;">Summer</a></li>
-  <li class="tab-title"><a href="#panel3" id="bold" style="width: 124px; height: 42px; text-align: center; line-height: 2.4;">Winter</a></li>
-</ul>
+<div id="hours" style="position: absolute; width:372px; height: 450px; top:641px; left: 450px;">
+  <ul class="tabs" data-tab>
+    <li class="tab-title"><a href="#panel1" id="bold" style="width: 124px; height: 42px; text-align: center; line-height: 2.4;">Regular</a></li>
+    <li class="tab-title active"><a href="#panel2" id="bold" style="width: 124px; height: 42px; text-align: center; line-height: 2.4;">Summer</a></li>
+    <li class="tab-title"><a href="#panel3" id="bold" style="width: 124px; height: 42px; text-align: center; line-height: 2.4;">Winter</a></li>
+  </ul>
 
-<div class="tabs-content">
-  <div class="content" id="panel1">
-    <ul class="tabs" data-tab>
-      <li class="tab-title active"><a href="#panel1a" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Building</a></li>
-      <li class="tab-title"><a href="#panel1b" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Info Desk</a></li>
-      <li class="tab-title"><a href="#panel1c" id="small" style="width: 92px; height: 42px; text-align: center; line-height: 2.4;">Gameroom</a></li>
-      <li class="tab-title"><a href="#panel1d" id="small" style="width: 94px; height: 42px; text-align: center; line-height: 2.4;">Profs Place</a></li>
-    </ul>
+  <div class="tabs-content">
+    <div class="content" id="panel1">
+      <ul class="tabs" data-tab>
+        <li class="tab-title active"><a href="#panel1a" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Building</a></li>
+        <li class="tab-title"><a href="#panel1b" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Info Desk</a></li>
+        <li class="tab-title"><a href="#panel1c" id="small" style="width: 92px; height: 42px; text-align: center; line-height: 2.4;">Gameroom</a></li>
+        <li class="tab-title"><a href="#panel1d" id="small" style="width: 94px; height: 42px; text-align: center; line-height: 2.4;">Profs Place</a></li>
+      </ul>
 
-    <div class="tabs-content">
-      <div class="content active" id="panel1a">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/building_regular.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel1b">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/info_regular.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel1c">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/gameroom_regular.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel1d">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/profs_regular.html"); ?>
-        </span>
+      <div class="tabs-content">
+        <div class="content active" id="panel1a">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/building_regular.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel1b">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/info_regular.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel1c">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/gameroom_regular.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel1d">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/profs_regular.html"); ?>
+          </span>
+        </div>
       </div>
     </div>
-  </div>
 
-  <div class="content active" id="panel2">
-    <ul class="tabs" data-tab>
-      <li class="tab-title active"><a href="#panel2a" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Building</a></li>
-      <li class="tab-title"><a href="#panel2b" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Info Desk</a></li>
-      <li class="tab-title"><a href="#panel2c" id="small" style="width: 92px; height: 42px; text-align: center; line-height: 2.4;">Gameroom</a></li>
-      <li class="tab-title"><a href="#panel2d" id="small" style="width: 94px; height: 42px; text-align: center; line-height: 2.4;">Profs Place</a></li>
-    </ul>
+    <div class="content active" id="panel2">
+      <ul class="tabs" data-tab>
+        <li class="tab-title active"><a href="#panel2a" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Building</a></li>
+        <li class="tab-title"><a href="#panel2b" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Info Desk</a></li>
+        <li class="tab-title"><a href="#panel2c" id="small" style="width: 92px; height: 42px; text-align: center; line-height: 2.4;">Gameroom</a></li>
+        <li class="tab-title"><a href="#panel2d" id="small" style="width: 94px; height: 42px; text-align: center; line-height: 2.4;">Profs Place</a></li>
+      </ul>
 
-    <div class="tabs-content">
-      <div class="content active" id="panel2a">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/building_summer.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel2b">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/info_summer.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel2c">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/gameroom_summer.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel2d">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/profs_summer.html"); ?>
-        </span>
+      <div class="tabs-content">
+        <div class="content active" id="panel2a">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/building_summer.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel2b">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/info_summer.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel2c">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/gameroom_summer.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel2d">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/profs_summer.html"); ?>
+          </span>
+        </div>
       </div>
     </div>
-  </div>
 
-  <div class="content" id="panel3">
-        <ul class="tabs" data-tab>
-      <li class="tab-title active"><a href="#panel3a" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Building</a></li>
-      <li class="tab-title"><a href="#panel3b" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Info Desk</a></li>
-      <li class="tab-title"><a href="#panel3c" id="small" style="width: 92px; height: 42px; text-align: center; line-height: 2.4;">Gameroom</a></li>
-      <li class="tab-title"><a href="#panel3d" id="small" style="width: 94px; height: 42px; text-align: center; line-height: 2.4;">Profs Place</a></li>
-    </ul>
+    <div class="content" id="panel3">
+          <ul class="tabs" data-tab>
+        <li class="tab-title active"><a href="#panel3a" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Building</a></li>
+        <li class="tab-title"><a href="#panel3b" id="small" style="width: 93px; height: 42px; text-align: center; line-height: 2.4;">Info Desk</a></li>
+        <li class="tab-title"><a href="#panel3c" id="small" style="width: 92px; height: 42px; text-align: center; line-height: 2.4;">Gameroom</a></li>
+        <li class="tab-title"><a href="#panel3d" id="small" style="width: 94px; height: 42px; text-align: center; line-height: 2.4;">Profs Place</a></li>
+      </ul>
 
-    <div class="tabs-content">
-      <div class="content active" id="panel3a">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/building_winter.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel3b">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/info_winter.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel3c">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/gameroom_winter.html"); ?>
-        </span>
-      </div>
-      <div class="content" id="panel3d">
-        <span class="panel" style="width: 372px; position: absolute;">
-          <?php include("_hours/profs_winter.html"); ?>
-        </span>
+      <div class="tabs-content">
+        <div class="content active" id="panel3a">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/building_winter.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel3b">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/info_winter.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel3c">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/gameroom_winter.html"); ?>
+          </span>
+        </div>
+        <div class="content" id="panel3d">
+          <span class="panel" style="width: 372px; position: absolute;">
+            <?php include("_hours/profs_winter.html"); ?>
+          </span>
+        </div>
       </div>
     </div>
   </div>
 </div>
-  </div>
 
   <div id="contact_label" class="label" style="position: absolute; width:372px; height: 45px; top: 586px; left: 843px; font-size: 1.5em; line-height: 1.5;">
     Contact Us
