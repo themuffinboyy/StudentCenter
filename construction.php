@@ -32,7 +32,7 @@
     <div class="row">
       <div class="large-12 columns">
       	<div class="panel">
-	        <h3>Sorry! This page is still under construction.</h3>
+	        <img src="images/construction.png">
       	</div>
       </div>
     </div>

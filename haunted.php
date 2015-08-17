@@ -44,7 +44,7 @@
             the Chamberlain Student Center.  The Haunted Student Center is a free event that provides children, in 
             grades K-5, the opportunity to trick-or-treat room to room throughout the Chamberlain Student Center. 
             The event allows children and their parents to have a fun, safe and friendly environment to trick-or-treat in.
-            Please email Jeff at williamsje@rowan.edu if you have any questions.<p>
+            Please email Jeff at <em class="email"><a href="mailto:williamsje@rowan.edu">williamsje@rowan.edu</a></em> if you have any questions.<p>
           </div>
         </div>
 
