@@ -23,6 +23,7 @@
 <script src="js/foundation/foundation.orbit.js"></script>
 <script src="js/foundation/foundation.accordion.js"></script>
 <script src="js/foundation/foundation.tab.js"></script>
+<script src="js/foundation/foundation.topbar.js"></script>
 </head>
 <body>
 <?php include("header.html"); ?>

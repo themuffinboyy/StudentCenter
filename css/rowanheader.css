@@ -2816,7 +2816,7 @@ li {
     text-align: left;
     padding-left: 7%; }
   #rowan_header_new #header .nav .content ul li a:after {
-    content: "Â»";
+    content: "»";
     color: #ffcf44;
     font-size: 1.2em;
     font-weight: normal;
