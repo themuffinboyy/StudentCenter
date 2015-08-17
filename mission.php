@@ -70,26 +70,30 @@
 
 	    	<div class="row nested">
 	    		<div class="large-12 columns">
-	    			<div class="panel"><strong>Community Building- </strong>
-					We are dedicated to creating a culture where collaboration, participation, care and 
-					respect are modeled.<br>
-
-					<strong>Student Development- </strong>
-					We strive to create an environment that enhances student learning, self-discovery, 
-					exploration and leadership development.<br>
-
-					<strong>Service Excellence- </strong>
-					We aim to exceed customer expectations by providing the best possible experience to 
-					those we serve.<br>
-
-					<strong>Integrity- </strong>
-					We believe in honesty, accountability and professionalism in all that we do.<br>
-
-					<strong>Continuous Improvement- </strong>
-					We are committed to continuously improving our organization and ourselves by embracing 
-					change and innovation while respecting and valuing tradition.<br>
-
-					<strong>WE ARE MORE THAN JUST A BUILDING!</strong></div>
+            <div class="panel">
+              <table>
+                <tr>
+                  <td><strong>Community Building</strong><br>
+                    We are dedicated to creating a culture where collaboration, participation, care and 
+                    respect are modeled.</td>
+                  <td><strong>Student Development</strong><br>
+                  We strive to create an environment that enhances student learning, self-discovery, 
+                  exploration and leadership development.</td>
+                </tr>
+                <tr>
+                  <td><strong>Service Excellence</strong><br>
+                  We aim to exceed customer expectations by providing the best possible experience to 
+                  those we serve.</td>
+                  <td><strong>Integrity</strong><br>
+                  We believe in honesty, accountability and professionalism in all that we do.</td>
+                </tr>
+                <tr>
+                  <td><strong>Continuous Improvement</strong><br>
+                  We are committed to continuously improving our organization and ourselves by embracing 
+                  change and innovation while respecting and valuing tradition.</td>
+                </tr>
+              </table>
+            </div>
 	    		</div>
 	    	</div>
 	    </div>

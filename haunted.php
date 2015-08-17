@@ -59,7 +59,8 @@
             If you are assigned a table, your organization must provide at least 10 bags of candy in order for you to 
             receive a service letter.  It is the responsibility of your organization to decorate the space that you are 
             assigned. Please consider helping with this event so that these children can have a fun, safe Halloween. 
-            If you are interested in participating, please email Jeff at williamsje@rowan.edu.<p>
+            If you are interested in participating, please email Jeff at 
+            <em class="email"><a href="mailto:williamsje@rowan.edu">williamsje@rowan.edu</a></em>.<p>
           </div>
         </div>
       </div>
