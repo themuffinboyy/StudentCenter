@@ -65,7 +65,8 @@
   #homepage .orbit-container .orbit-timer {
     display: none; }
   #homepage .orbit-container .orbit-bullets {
-    margin-bottom: 15px; }
+    margin-bottom: 15px;
+    margin-top: -10px; }
 #homepage .event {
   width: 100%;
   height: 90px;
@@ -74,7 +75,8 @@
 #homepage .add_top {
   margin-top: 15px; }
 #homepage input {
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  width: 100%; }
 #homepage .panel p {
   margin-bottom: 10px; }
 #homepage .panel textarea {

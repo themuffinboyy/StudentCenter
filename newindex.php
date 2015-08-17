@@ -214,10 +214,10 @@
       <div class="row no_top">
         <div class="panel">
           <form name="contactform" method="post" action="send_form_email.php">
-            <input  type="text" name="first_name" maxlength="50" size="53" placeholder="First Name">
-            <input  type="text" name="last_name" maxlength="50" size="53" placeholder="Last Name">
-            <input  type="text" name="email" maxlength="80" size="53" placeholder="Email Address">
-            <input  type="text" name="telephone" maxlength="30" size="53" placeholder="Phone Number">
+            <input  type="text" name="first_name" maxlength="50" placeholder="First Name">
+            <input  type="text" name="last_name" maxlength="50" placeholder="Last Name">
+            <input  type="text" name="email" maxlength="80" placeholder="Email Address">
+            <input  type="text" name="telephone" maxlength="30" placeholder="Phone Number">
             <textarea  name="comments" maxlength="1000" cols="25" rows="11" placeholder="Comments"></textarea>
             <input type="submit" value="Submit">
           </form>
