@@ -4,7 +4,7 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "hollyj71@students.rowan.edu";
+    $email_to = "studentcenter@rowan.edu";
  
     $email_subject = "Student Center Website Comment";
  
@@ -139,7 +139,7 @@ $headers = 'From: '.$email_from."\r\n".
 <html>
   <head>
     <title>IU Webmaster redirect</title>
-    <META http-equiv="refresh" content="0;URL=/~hollyj71/StudentCenter?sent=true">
+    <META http-equiv="refresh" content="0;URL=/studentaffairs/studentcenter?sent=true">
   </head>
 </html>
   

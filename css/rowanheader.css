@@ -794,7 +794,7 @@
   display: block;
   width: 316px;
   height: 58px;
-  background: url(/~hollyj71/header_files/rowan-logo-mobile.png) no-repeat;
+  background: url(/studentaffairs/studentcenter/header_files/rowan-logo-mobile.png) no-repeat;
   background-size: 100%;
   text-indent: -10000px;
   margin-top: 20px;
@@ -1210,7 +1210,7 @@
 #rowan_header_new #footer .copyright {
   margin-top: 32px;
   width: 50%;
-  background: url(/~hollyj71/header_files/RowanLogo.png) no-repeat;
+  background: url(/studentaffairs/studentcenter/header_files/RowanLogo.png) no-repeat;
   background-size: 190px;
   background-position: 1px 17px;
   padding-top: 43px; }
@@ -1368,7 +1368,7 @@
   #rowan_header_new .container {
     padding: 0 7px; }
   #rowan_header_new #header .site-logo > .content > a#logo {
-    background: url(/~hollyj71/header_files/rowan-logo-mobile.png) no-repeat;
+    background: url(/studentaffairs/studentcenter/header_files/rowan-logo-mobile.png) no-repeat;
     background-size: 100%;
     width: 166px;
     height: 78px;
@@ -6103,7 +6103,7 @@ li {
   display: block;
   width: 550px;
   height: 58px;
-  background: url(/~hollyj71/header_files/RowanLogo.png) no-repeat;
+  background: url(/studentaffairs/studentcenter/header_files/RowanLogo.png) no-repeat;
   background-size: 100%;
   text-indent: -10000px;
   margin-top: 1em;
@@ -7501,22 +7501,22 @@ li {
 @font-face {
   #rowan_header_new {
     font-family: 'proxima_nova_ltsemibold';
-    src: url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.eot);
-    src: url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.eot?#iefix) format("embedded-opentype"), url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.woff) format("woff"), url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.ttf) format("truetype"), url(/home/sites/all/themes/rowan/styles/fonts/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.svg#proxima_nova_ltsemibold) format("svg");
+    src: url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.eot);
+    src: url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.eot?#iefix) format("embedded-opentype"), url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.woff) format("woff"), url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.ttf) format("truetype"), url(/home/sites/all/themes/rowan/styles/fonts/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.svg#proxima_nova_ltsemibold) format("svg");
     font-weight: normal;
     font-style: normal; } }
 @font-face {
   #rowan_header_new {
     font-family: 'proxima_nova_rgregular';
     src: url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot);
-    src: url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot?#iefix) format("embedded-opentype"), url(/~hollyj71/header_files/ProximaNova-Reg-webfont.woff) format("woff"), url(/~hollyj71/header_files/ProximaNova-Reg-webfont.ttf) format("truetype"), url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.svg#proxima_nova_rgregular) format("svg");
+    src: url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot?#iefix) format("embedded-opentype"), url(/studentaffairs/studentcenter/header_files/ProximaNova-Reg-webfont.woff) format("woff"), url(/studentaffairs/studentcenter/header_files/ProximaNova-Reg-webfont.ttf) format("truetype"), url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.svg#proxima_nova_rgregular) format("svg");
     font-weight: normal;
     font-style: normal; } }
 @font-face {
   #rowan_header_new {
     font-family: 'proxima_nova_rgbold';
     src: url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot);
-    src: url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot?#iefix) format("embedded-opentype"), url(/~hollyj71/header_files/ProximaNova-Bold-webfont.woff) format("woff"), url(/~hollyj71/header_files/ProximaNova-Bold-webfont.ttf) format("truetype"), url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.svg#proxima_nova_rgbold) format("svg");
+    src: url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot?#iefix) format("embedded-opentype"), url(/studentaffairs/studentcenter/header_files/ProximaNova-Bold-webfont.woff) format("woff"), url(/studentaffairs/studentcenter/header_files/ProximaNova-Bold-webfont.ttf) format("truetype"), url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.svg#proxima_nova_rgbold) format("svg");
     font-weight: normal;
     font-style: normal; } }
 @font-face {
@@ -7677,7 +7677,7 @@ li {
   list-style-image: url(/home/misc/menu-collapsed.png);
   list-style-type: disc; }
 #rowan_header_new ul li.leaf {
-  list-style-image: url(/home/misc/menu-leaf.png);
+  /*list-style-image: url(/home/misc/menu-leaf.png);*/
   list-style-type: square; }
 #rowan_header_new li.expanded, #rowan_header_new li.collapsed, #rowan_header_new li.leaf {
   padding: 0.2em 0.5em 0 0;
@@ -7891,9 +7891,9 @@ li {
 #rowan_header_new [class*='nav'] .content ul {
   margin-left: 10px; }
 
-  @font-face{font-family:'proxima_nova_ltsemibold';src:url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.eot);src:url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.eot?#iefix) format('embedded-opentype'),url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.woff) format('woff'),url(/~hollyj71/header_files/ProximaNova-Sbold-webfont.ttf) format('truetype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.svg#proxima_nova_ltsemibold) format('svg');font-weight:normal;font-style:normal;}
-@font-face{font-family:'proxima_nova_rgregular';src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot);src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot?#iefix) format('embedded-opentype'),url(/~hollyj71/header_files/ProximaNova-Reg-webfont.woff) format('woff'),url(/~hollyj71/header_files/ProximaNova-Reg-webfont.ttf) format('truetype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.svg#proxima_nova_rgregular) format('svg');font-weight:normal;font-style:normal;}
-@font-face{font-family:'proxima_nova_rgbold';src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot);src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot?#iefix) format('embedded-opentype'),url(/~hollyj71/header_files/ProximaNova-Bold-webfont.woff) format('woff'),url(/~hollyj71/header_files/ProximaNova-Bold-webfont.ttf) format('truetype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.svg#proxima_nova_rgbold) format('svg');font-weight:normal;font-style:normal;}
+  @font-face{font-family:'proxima_nova_ltsemibold';src:url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.eot);src:url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.eot?#iefix) format('embedded-opentype'),url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.woff) format('woff'),url(/studentaffairs/studentcenter/header_files/ProximaNova-Sbold-webfont.ttf) format('truetype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_semibold_macroman/ProximaNova-Sbold-webfont.svg#proxima_nova_ltsemibold) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'proxima_nova_rgregular';src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot);src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot?#iefix) format('embedded-opentype'),url(/studentaffairs/studentcenter/header_files/ProximaNova-Reg-webfont.woff) format('woff'),url(/studentaffairs/studentcenter/header_files/ProximaNova-Reg-webfont.ttf) format('truetype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.svg#proxima_nova_rgregular) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'proxima_nova_rgbold';src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot);src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot?#iefix) format('embedded-opentype'),url(/studentaffairs/studentcenter/header_files/ProximaNova-Bold-webfont.woff) format('woff'),url(/studentaffairs/studentcenter/header_files/ProximaNova-Bold-webfont.ttf) format('truetype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.svg#proxima_nova_rgbold) format('svg');font-weight:normal;font-style:normal;}
 @font-face{font-family:'proxima_nova_blblack';src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_black_macroman/ProximaNova-Black-webfont.eot);src:url(/home/sites/all/themes/rowan/styles/fonts/proximanova_black_macroman/ProximaNova-Black-webfont.eot?#iefix) format('embedded-opentype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_black_macroman/ProximaNova-Black-webfont.woff) format('woff'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_black_macroman/ProximaNova-Black-webfont.ttf) format('truetype'),url(/home/sites/all/themes/rowan/styles/fonts/proximanova_black_macroman/ProximaNova-Black-webfont.svg#proxima_nova_blblack) format('svg');font-weight:normal;font-style:normal;}
 
 /*# sourceMappingURL=output.css.map */
