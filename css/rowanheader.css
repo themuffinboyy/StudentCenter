@@ -25,6 +25,12 @@
 }
 
 /*CSS for the header*/
+.excuse_us {
+  text-align: center;
+  background-color: #ffcf44;
+  margin-bottom: 0;
+}
+
 #rowan_header_new .moveup {
   top: 34px;
   margin-left: 10px;
