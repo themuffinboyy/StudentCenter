@@ -25,6 +25,11 @@
 }
 
 /*CSS for the header*/
+.construction_mobile {
+  text-align: center;
+  background-color: #ffcf44;
+}
+
 .excuse_us {
   text-align: center;
   background-color: #ffcf44;
