@@ -23,8 +23,10 @@
 		padding: 0;
 	}
 
-	#footer {
-		text-align: center;
+	.panel {
+		&.center {
+			//text-align: center;
+		}
 	}
 
 	.label {
@@ -34,6 +36,10 @@
 	}
 
 	@media only screen and (min-width: 64.0625em){
+		.large-2 {
+			width: 17.76667%;
+		}
+
 		.large-4 {
 			width: 32.47%;
 		}
@@ -43,7 +49,7 @@
 		}
 
 		.large-7 {
-			width: 66.2%;
+			width: 54.5%;
 		}
 	}
 

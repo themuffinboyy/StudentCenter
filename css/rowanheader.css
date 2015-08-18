@@ -1,4 +1,30 @@
 @charset "UTF-8";
+/*CSS for the footer*/
+#footer {
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: none !important;
+  bottom: 0% !important;
+  position: relative !important;
+}
+
+#footer .panel {
+  text-align: center !important;
+  width: 100% !important;
+  margin: 0 !important;
+  background-color: rgba(153, 153, 153, 0.6) !important;
+}
+
+#footer img {
+  width: initial;
+  height: initial;
+}
+
+#footer .rowan {
+  height: 30px;
+}
+
+/*CSS for the header*/
 #rowan_header_new .moveup {
   top: 34px;
   margin-left: 10px;

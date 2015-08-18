@@ -81,5 +81,9 @@
   margin-bottom: 10px; }
 #homepage .panel textarea {
   resize: none; }
+#homepage .alert-box.hidden {
+  display: none; }
+#homepage .alert-box.true {
+  display: block; }
 
 /*# sourceMappingURL=index.css.map */

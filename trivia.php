@@ -46,23 +46,11 @@
 
         <div class="row nested">
           <div class="large-6 columns">
-            <div class="panel"><strong>Community Building- </strong>
-              We are dedicated to creating a culture where collaboration, participation, care and 
-              respect are modeled.<br>
-
-              <strong>Student Development- </strong>
-              We strive to create an environment that enhances student learning, self-discovery, 
-              exploration and leadership development.<br>
+            <div class="panel"><strong>Coming Soon</strong>
             </div>
           </div>
           <div class="large-6 columns">
-            <div class="panel"><strong>Community Building- </strong>
-              We are dedicated to creating a culture where collaboration, participation, care and 
-              respect are modeled.<br>
-
-              <strong>Student Development- </strong>
-              We strive to create an environment that enhances student learning, self-discovery, 
-              exploration and leadership development.<br>
+            <div class="panel"><strong>Coming Soon</strong>
             </div>
           </div>
         </div>

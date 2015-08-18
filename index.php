@@ -24,6 +24,7 @@
 <script src="js/foundation/foundation.accordion.js"></script>
 <script src="js/foundation/foundation.tab.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
+<script src="js/foundation/foundation.alert.js"></script>
 </head>
 <body>
   
@@ -222,6 +223,11 @@
             <textarea  name="comments" maxlength="1000" cols="25" rows="11" placeholder="Comments"></textarea>
             <input type="submit" value="Submit">
           </form>
+
+          <div data-alert class="alert-box success radius hidden <?php echo htmlspecialchars($_GET["sent"]); ?>">
+            Thank you. Your submission has been received.
+            <a href="#" class="close">&times;</a>
+          </div>
         </div>
       </div>
     </div>

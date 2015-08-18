@@ -12,19 +12,19 @@
   margin-top: 15px; }
 #spotlight_page .columns {
   padding: 0; }
-#spotlight_page #footer {
-  text-align: center; }
 #spotlight_page .label {
   font-size: 1.5em;
   line-height: 1.5;
   width: 100%; }
 @media only screen and (min-width: 64.0625em) {
+  #spotlight_page .large-2 {
+    width: 17.76667%; }
   #spotlight_page .large-4 {
     width: 32.47%; }
   #spotlight_page .large-6 {
     width: 48%; }
   #spotlight_page .large-7 {
-    width: 66.2%; } }
+    width: 54.5%; } }
 #spotlight_page .right_space {
   margin-right: 15px; }
 #spotlight_page .no_padding {

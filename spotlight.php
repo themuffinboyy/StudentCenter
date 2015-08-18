@@ -41,7 +41,7 @@
     </div>
 
     <div class="row" id="information">
-      <div class="small-12 medium-12 large-4 columns right_space">
+      <div class="small-12 medium-12 large-3 columns right_space">
         <div class="label">What is Profs Spotlight?</div>
 
         <div class="row nested">
@@ -56,28 +56,27 @@
         </div>
       </div>
 
-      <div class="small-12 medium-12 large-4 columns right_space">
+      <div class="small-12 medium-12 large-7 columns right_space">
         <div class="label">Sign Up to Perform</div>
 
         <div class="row nested">
           <div class="large-12 columns">
               <iframe src="https://docs.google.com/forms/d/1BMyU4Rap7dfUKmPyMsnrmh-XPX0zoRAEbe8A1xFyb2A/viewform?embedded=true"
-              width="375" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+              width="100%" height="330" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
           </div>
         </div>
       </div>
 
-      <div class="small-12 medium-12 large-4 columns end">
+      <div class="small-12 medium-12 large-2 columns end">
         <div class="label">Upcoming Shows</div>
 
         <div class="row nested">
           <div class="large-12 columns">
-            <div class="panel">
-              <ul>
-                <li>September 7th
-                <li>October 6th
-                <li>November 3rd
-              <ul>
+            <div class="panel center">
+              September 7th<br>
+              October 6th<br>
+              November 3rd<br>
+              
             </div>
           </div>
         </div>
