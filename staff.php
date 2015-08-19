@@ -25,7 +25,7 @@
 <script src="js/foundation/foundation.tab.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
-<body style="height:2150px">
+<body>
 
 <?php 
   include("header.html");

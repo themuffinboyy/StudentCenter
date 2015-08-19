@@ -20,7 +20,7 @@
 <script src="js/vendor/modernizr.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
-<body style="height:500px">
+<body>
 <?php 
   include("header.html");
 ?>

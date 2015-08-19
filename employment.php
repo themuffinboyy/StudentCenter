@@ -30,10 +30,16 @@
     <div class="row">
       <div class="large-12 columns">
       	<div class="panel">
+          <h1>Looking for an On-Campus Job?</h1>
           <p>
             The Chamberlain Student Center offers employment opportunities at the Information Desk
             & Prof's Place, as well as the Game Room & Profs Place. If you are interested in applying,
             please follow the link below.
+          <p>
+          <p>
+            The hiring process takes place early in the Spring semester,
+            for employment the following Fall semester. We accept applications year-round. Thank you
+            for your interest in joining the Student Center team.
           <p>
 	        <script type="text/javascript" id="rbox-loader-script">
             if(!window._rbox){
@@ -47,12 +53,6 @@
                 }})(document, 'script');
             }
           </script>
-          <p>
-            The Chamberlain Student Center hiring process takes place early in the Spring semester,
-            for employment the following Fall semester. We accept applications year-round. Thank you
-            for your interest in joining the Student Center team.
-          <p>
-
       	</div>
       </div>
     </div>
