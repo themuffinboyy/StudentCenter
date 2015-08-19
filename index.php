@@ -48,7 +48,7 @@
         <img class="logo" src="images/csc_logo.png">
 
         <div class="row nested">
-          <a href="event.php" class="event button">PLAN AN EVENT</a>
+          <a href="construction.php" class="event button">PLAN AN EVENT</a>
         </div>
       </div>
     </div>
@@ -56,7 +56,7 @@
     <div class="large-8 medium-8 small-12 columns">
         <ul class="example_orbit" data-orbit>
           <li>
-            <a href="event.php"><img src="images/make_it_happen_home_banner.png" alt="slide 1" /></a>
+            <a href="construction.php"><img src="images/make_it_happen_home_banner.png" alt="slide 1" /></a>
           </li>
           <li class="active">
             <a href="trivia.php"><img src="images/trivia_home_banner.png" alt="slide 2" /></a>
