@@ -101,16 +101,14 @@
 
       <div class="row no_top">
         <ul class="tabs" data-tab>
-          <li class="tab-title fourth"><a href="#panel1">Regular</a></li>
-          <li class="tab-title fourth active"><a href="#panel2">Summer</a></li>
-          <li class="tab-title fourth"><a href="#panel3">Winter</a></li>
-          <li class="tab-title fourth"><a href="#panel4">Special</a></li>
+          <li class="tab-title active"><a href="#panel1">Regular</a></li>
+          <li class="tab-title"><a href="#panel4">Special</a></li>
         </ul>
       </div>
 
       <div class="row no_top">
         <div class="tabs-content">
-          <div class="content" id="panel1">
+          <div class="content active" id="panel1">
             <ul class="tabs" data-tab>
               <li class="tab-title fifth active"><a href="#panel1a">Building</a></li>
               <li class="tab-title fourth"><a href="#panel1b">Info Desk</a></li>
@@ -142,74 +140,13 @@
             </div>
           </div>
 
-          <div class="content active" id="panel2">
-            <ul class="tabs" data-tab>
-              <li class="tab-title fifth active"><a href="#panel2a">Building</a></li>
-              <li class="tab-title fourth"><a href="#panel2b">Info Desk</a></li>
-              <li class="tab-title fourth"><a href="#panel2c">Gameroom</a></li>
-              <li class="tab-title big"><a href="#panel2d">Profs Place</a></li>
-            </ul>
-
-            <div class="tabs-content">
-              <div class="content add_top active" id="panel2a">
-                <div class="panel">
-                  <?php include("_hours/building_summer.html"); ?>
-                </div>
-              </div>
-              <div class="content add_top" id="panel2b">
-                <div class="panel">
-                  <?php include("_hours/info_summer.html"); ?>
-                </div>
-              </div>
-              <div class="content add_top" id="panel2c">
-                <div class="panel">
-                  <?php include("_hours/gameroom_summer.html"); ?>
-                </div>
-              </div>
-              <div class="content add_top" id="panel2d">
-                <div class="panel">
-                  <?php include("_hours/profs_summer.html"); ?>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="content" id="panel3">
-            <ul class="tabs" data-tab>
-            <li class="tab-title fifth active"><a href="#panel3a">Building</a></li>
-            <li class="tab-title fourth"><a href="#panel3b">Info Desk</a></li>
-            <li class="tab-title fourth"><a href="#panel3c">Gameroom</a></li>
-            <li class="tab-title big"><a href="#panel3d">Profs Place</a></li>
-            </ul>
-
-            <div class="tabs-content">
-              <div class="content add_top active" id="panel3a">
-                <div class="panel">
-                  <?php include("_hours/building_winter.html"); ?>
-                </div>
-              </div>
-              <div class="content add_top" id="panel3b">
-                <div class="panel">
-                  <?php include("_hours/info_winter.html"); ?>
-                </div>
-              </div>
-              <div class="content add_top" id="panel3c">
-                <div class="panel">
-                  <?php include("_hours/gameroom_winter.html"); ?>
-                </div>
-              </div>
-              <div class="content add_top" id="panel3d">
-                <div class="panel">
-                  <?php include("_hours/profs_winter.html"); ?>
-                </div>
-              </div>
-            </div>
-          </div>
-
           <div class="content" id="panel4">
-                <div class="panel special_hours">
-                  <?php include("_hours/building_regular.html"); ?>
-                </div>
+            <div class="panel special_hours">
+              <a href="images/winter_hours.pdf">Winter Hours</a><br>
+              <a href="images/summer_hours.pdf">Summer Hours</a><br>
+              <a href="construction.php">Thanksgiving Hours</a><br>
+              <a href="construction.php">Finals Week Hours</a><br>
+            </div>
           </div>
         </div>
       </div>      
