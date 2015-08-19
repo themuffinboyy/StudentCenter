@@ -24,7 +24,8 @@
 <script src="js/foundation/foundation.tab.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
-<body style="height:500px">
+<body>
+	<div class="wrapper">
 <?php 
   include("header.html");
 ?>
@@ -40,6 +41,6 @@
 <?php 
   include("footer.html");
 ?>
-
+</div>
 </body>
 </html>

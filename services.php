@@ -26,6 +26,7 @@
       <script src="js/foundation/foundation.topbar.js"></script>
   </head>
   <body>
+    <div class="wrapper">
     <?php include("header.html"); ?>
 
     <section id="services_page">
@@ -80,6 +81,7 @@
       </div>
 
       <?php include("footer.html"); ?>
-    </section>    
+    </section>
+    </div>    
   </body>
 </html>

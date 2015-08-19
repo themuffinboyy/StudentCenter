@@ -26,6 +26,7 @@
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
 <body>
+  <div class="wrapper">
 
 <?php 
   include("header.html");
@@ -104,5 +105,6 @@
 ?>
 
 </section>
+</div>
 </body>
 </html>

@@ -24,43 +24,43 @@
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
 <body>
+  <div class="wrapper">
+    <?php include("header.html"); ?>
+      <section id="employment_page">
+        <div class="row">
+          <div class="large-12 columns">
+          	<div class="panel">
+              <p>
+                The Chamberlain Student Center offers employment opportunities at the Information Desk
+                & Prof's Place, as well as the Game Room & Profs Place. If you are interested in applying,
+                please follow the link below.
+              <p>
+    	        <script type="text/javascript" id="rbox-loader-script">
+                if(!window._rbox){
+                window._rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
+                (function(d, e) {
+                    var s, t, i, src=['/static/client-src-served/widget/32116/rbox_api.js', '/static/client-src-served/widget/32116/rbox_impl.js'];
+                    t = d.getElementsByTagName(e); t=t[t.length - 1];
+                    for(i=0; i<src.length; i++) {
+                        s = d.createElement(e); s.src = _rbox.host_protocol + '//w.recruiterbox.com' + src[i];
+                        t.parentNode.insertBefore(s, t.nextSibling);
+                    }})(document, 'script');
+                }
+              </script>
+              <p>
+                The Chamberlain Student Center hiring process takes place early in the Spring semester,
+                for employment the following Fall semester. We accept applications year-round. Thank you
+                for your interest in joining the Student Center team.
+              <p>
 
-<?php include("header.html"); ?>
-  <section id="employment_page">
-    <div class="row">
-      <div class="large-12 columns">
-      	<div class="panel">
-          <p>
-            The Chamberlain Student Center offers employment opportunities at the Information Desk
-            & Prof's Place, as well as the Game Room & Profs Place. If you are interested in applying,
-            please follow the link below.
-          <p>
-	        <script type="text/javascript" id="rbox-loader-script">
-            if(!window._rbox){
-            window._rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
-            (function(d, e) {
-                var s, t, i, src=['/static/client-src-served/widget/32116/rbox_api.js', '/static/client-src-served/widget/32116/rbox_impl.js'];
-                t = d.getElementsByTagName(e); t=t[t.length - 1];
-                for(i=0; i<src.length; i++) {
-                    s = d.createElement(e); s.src = _rbox.host_protocol + '//w.recruiterbox.com' + src[i];
-                    t.parentNode.insertBefore(s, t.nextSibling);
-                }})(document, 'script');
-            }
-          </script>
-          <p>
-            The Chamberlain Student Center hiring process takes place early in the Spring semester,
-            for employment the following Fall semester. We accept applications year-round. Thank you
-            for your interest in joining the Student Center team.
-          <p>
-
-      	</div>
-      </div>
-    </div>
-  </section>
-    
-<?php 
-  include("footer.html");
-?>
-
+          	</div>
+          </div>
+        </div>
+      </section>
+        
+    <?php 
+      include("footer.html");
+    ?>
+  </div>
 </body>
 </html>

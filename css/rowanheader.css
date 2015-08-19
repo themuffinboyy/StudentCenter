@@ -5,7 +5,7 @@
   margin: 0 !important;
   max-width: none !important;
   bottom: 0% !important;
-  position: relative !important;
+  position: absolute !important;
 }
 
 #footer .panel {
