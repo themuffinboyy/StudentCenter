@@ -101,9 +101,10 @@
 
       <div class="row no_top">
         <ul class="tabs" data-tab>
-          <li class="tab-title third"><a href="#panel1">Regular</a></li>
-          <li class="tab-title third active"><a href="#panel2">Summer</a></li>
-          <li class="tab-title third"><a href="#panel3">Winter</a></li>
+          <li class="tab-title fourth"><a href="#panel1">Regular</a></li>
+          <li class="tab-title fourth active"><a href="#panel2">Summer</a></li>
+          <li class="tab-title fourth"><a href="#panel3">Winter</a></li>
+          <li class="tab-title fourth"><a href="#panel4">Special</a></li>
         </ul>
       </div>
 
@@ -203,6 +204,12 @@
                 </div>
               </div>
             </div>
+          </div>
+
+          <div class="content" id="panel4">
+                <div class="panel special_hours">
+                  <?php include("_hours/building_regular.html"); ?>
+                </div>
           </div>
         </div>
       </div>      

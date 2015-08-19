@@ -85,5 +85,7 @@
   display: none; }
 #homepage .alert-box.true {
   display: block; }
+#homepage .special_hours {
+  margin-top: 15px; }
 
 /*# sourceMappingURL=index.css.map */
