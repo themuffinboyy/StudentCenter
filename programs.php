@@ -20,8 +20,7 @@
 <script src="js/vendor/modernizr.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
-<body>
-	<div class="wrapper">
+<body style="height:500px">
 <?php 
   include("header.html");
 ?>
@@ -37,7 +36,6 @@
 <?php 
   include("footer.html");
 ?>
-</div>
 
 </body>
 </html>

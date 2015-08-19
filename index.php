@@ -27,7 +27,7 @@
 <script src="js/foundation/foundation.alert.js"></script>
 </head>
 <body>
-  <div class="wrapper">
+  
 <?php 
   include("header.html");
 ?>
@@ -183,6 +183,5 @@
 <?php 
 include("footer.html");
 ?> 
-</div>
 </body>
 </html>   
