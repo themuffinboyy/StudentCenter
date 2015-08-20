@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="css/styles.css" />
 <link rel="stylesheet" href="css/banner.css" />
 <link rel="stylesheet" href="css/rowanheader.css" />
+<link rel="stylesheet" href="css/staff.css" />
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js"></script>
 <script type="text/javascript" src="js/js_jnv80YOwCwlPiNZ0W1fOaWsUliw1fl3r-iYl0nsElnY.js"></script>
 <script type="text/javascript" src="js/js_jckA-4t9p22mBBR89owx6Ksvb40v5gsspPqsDK3Q0oM.js"></script>
@@ -30,10 +31,9 @@
 <?php 
   include("header.html");
 ?>
-    
+  <section id="staff_page">
     <div class="large-9 large-centered column">
       <div class="panel">
-        <div id="mission"></div>
               <h1 id="top-bar">Meet the Staff</h1>
               <hr>
               <div class="row">
@@ -155,6 +155,7 @@
             </div>
 </div>
   </div>
+</section>
 
 <?php 
   include("footer.html");

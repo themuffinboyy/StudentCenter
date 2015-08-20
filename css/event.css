@@ -1,69 +1,71 @@
-#event_page .accordion a {
-  padding: 0 0 0 5px;
-  margin-bottom: 6px;
-  background-color: darkgray;
-  color: white;
-  font-size: 1.4rem; }
-  #event_page .accordion a:hover, #event_page .accordion a[aria-expanded=true] {
-    background-color: #3B3131; }
-#event_page .accordion .content {
-  margin-bottom: 6px; }
-#event_page .accordion ul {
-  list-style-type: disc; }
-#event_page .accordion .side {
-  display: inline-block;
-  margin-left: 10%; }
-#event_page .accordion table {
-  background-color: black;
-  margin: 0 auto 30px; }
-  #event_page .accordion table tr {
-    background-color: #F9F9F9; }
-  #event_page .accordion table .black {
-    background-color: black; }
-  #event_page .accordion table .bold {
-    font-weight: bold; }
-  #event_page .accordion table .right {
-    text-align: right; }
-  #event_page .accordion table thead tr {
-    background-color: grey; }
-#event_page .accordion .less_bottom {
-  margin-bottom: 5px; }
-#event_page .accordion .push_right {
-  margin-left: 50px; }
-#event_page .accordion #panel11a ol {
-  margin-left: 0; }
-#event_page .accordion .level1 {
-  list-style-type: none;
-  margin-left: 0; }
-  #event_page .accordion .level1 li:before {
-    content: "Level I:";
-    padding-right: 40px;
-    font-weight: bold; }
-  #event_page .accordion .level1 p {
+#event_page {
+  overflow: hidden; }
+  #event_page .accordion a {
+    padding: 0 0 0 5px;
+    margin-bottom: 6px;
+    background-color: darkgray;
+    color: white;
+    font-size: 1.4rem; }
+    #event_page .accordion a:hover, #event_page .accordion a[aria-expanded=true] {
+      background-color: #3B3131; }
+  #event_page .accordion .content {
+    margin-bottom: 6px; }
+  #event_page .accordion ul {
+    list-style-type: disc; }
+  #event_page .accordion .side {
+    display: inline-block;
+    margin-left: 10%; }
+  #event_page .accordion table {
+    background-color: black;
+    margin: 0 auto 30px; }
+    #event_page .accordion table tr {
+      background-color: #F9F9F9; }
+    #event_page .accordion table .black {
+      background-color: black; }
+    #event_page .accordion table .bold {
+      font-weight: bold; }
+    #event_page .accordion table .right {
+      text-align: right; }
+    #event_page .accordion table thead tr {
+      background-color: grey; }
+  #event_page .accordion .less_bottom {
+    margin-bottom: 5px; }
+  #event_page .accordion .push_right {
     margin-left: 50px; }
-#event_page .accordion .level2 {
-  list-style-type: none;
-  margin-left: 0; }
-  #event_page .accordion .level2 li:before {
-    content: "Level II:";
-    padding-right: 40px;
-    font-weight: bold; }
-  #event_page .accordion .level2 p {
-    margin-left: 50px; }
-#event_page .accordion .level3 {
-  list-style-type: none;
-  margin-left: 0; }
-  #event_page .accordion .level3 li:before {
-    content: "Level III:";
-    padding-right: 40px;
-    font-weight: bold; }
-  #event_page .accordion .level3 p {
-    margin-left: 50px; }
-#event_page .accordion .examples {
-  margin-left: 25px; }
-  #event_page .accordion .examples ul {
-    margin-left: 130px; }
-#event_page .accordion #panel14a li {
-  margin-left: 10px; }
+  #event_page .accordion #panel11a ol {
+    margin-left: 0; }
+  #event_page .accordion .level1 {
+    list-style-type: none;
+    margin-left: 0; }
+    #event_page .accordion .level1 li:before {
+      content: "Level I:";
+      padding-right: 40px;
+      font-weight: bold; }
+    #event_page .accordion .level1 p {
+      margin-left: 50px; }
+  #event_page .accordion .level2 {
+    list-style-type: none;
+    margin-left: 0; }
+    #event_page .accordion .level2 li:before {
+      content: "Level II:";
+      padding-right: 40px;
+      font-weight: bold; }
+    #event_page .accordion .level2 p {
+      margin-left: 50px; }
+  #event_page .accordion .level3 {
+    list-style-type: none;
+    margin-left: 0; }
+    #event_page .accordion .level3 li:before {
+      content: "Level III:";
+      padding-right: 40px;
+      font-weight: bold; }
+    #event_page .accordion .level3 p {
+      margin-left: 50px; }
+  #event_page .accordion .examples {
+    margin-left: 25px; }
+    #event_page .accordion .examples ul {
+      margin-left: 130px; }
+  #event_page .accordion #panel14a li {
+    margin-left: 10px; }
 
 /*# sourceMappingURL=event.css.map */

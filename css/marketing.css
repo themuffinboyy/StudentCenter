@@ -1,73 +1,75 @@
-#marketing_page .accordion a {
-  padding: 0 0 0 5px;
-  margin-bottom: 6px;
-  background-color: darkgray;
-  color: white;
-  font-size: 1.4rem; }
-  #marketing_page .accordion a:hover, #marketing_page .accordion a[aria-expanded=true] {
-    background-color: #3B3131; }
-#marketing_page .accordion .content {
-  margin-bottom: 6px; }
-#marketing_page .accordion ul {
-  list-style-type: disc; }
-#marketing_page .accordion .side {
-  display: inline-block;
-  margin-left: 10%; }
-#marketing_page .accordion table {
-  background-color: black;
-  margin: 0 auto 30px; }
-  #marketing_page .accordion table tr {
-    background-color: #F9F9F9; }
-  #marketing_page .accordion table .black {
-    background-color: black; }
-  #marketing_page .accordion table .bold {
-    font-weight: bold; }
-  #marketing_page .accordion table .right {
-    text-align: right; }
-  #marketing_page .accordion table thead tr {
-    background-color: grey; }
-#marketing_page .accordion .less_bottom {
-  margin-bottom: 5px; }
-#marketing_page .accordion .push_right {
-  margin-left: 50px; }
-#marketing_page .accordion #panel11a ol {
-  margin-left: 0; }
-#marketing_page .accordion .level1 {
-  list-style-type: none;
-  margin-left: 0; }
-  #marketing_page .accordion .level1 li:before {
-    content: "Level I:";
-    padding-right: 40px;
-    font-weight: bold; }
-  #marketing_page .accordion .level1 p {
+#marketing_page {
+  overflow: hidden; }
+  #marketing_page .accordion a {
+    padding: 0 0 0 5px;
+    margin-bottom: 6px;
+    background-color: darkgray;
+    color: white;
+    font-size: 1.4rem; }
+    #marketing_page .accordion a:hover, #marketing_page .accordion a[aria-expanded=true] {
+      background-color: #3B3131; }
+  #marketing_page .accordion .content {
+    margin-bottom: 6px; }
+  #marketing_page .accordion ul {
+    list-style-type: disc; }
+  #marketing_page .accordion .side {
+    display: inline-block;
+    margin-left: 10%; }
+  #marketing_page .accordion table {
+    background-color: black;
+    margin: 0 auto 30px; }
+    #marketing_page .accordion table tr {
+      background-color: #F9F9F9; }
+    #marketing_page .accordion table .black {
+      background-color: black; }
+    #marketing_page .accordion table .bold {
+      font-weight: bold; }
+    #marketing_page .accordion table .right {
+      text-align: right; }
+    #marketing_page .accordion table thead tr {
+      background-color: grey; }
+  #marketing_page .accordion .less_bottom {
+    margin-bottom: 5px; }
+  #marketing_page .accordion .push_right {
     margin-left: 50px; }
-#marketing_page .accordion .level2 {
-  list-style-type: none;
-  margin-left: 0; }
-  #marketing_page .accordion .level2 li:before {
-    content: "Level II:";
-    padding-right: 40px;
-    font-weight: bold; }
-  #marketing_page .accordion .level2 p {
-    margin-left: 50px; }
-#marketing_page .accordion .level3 {
-  list-style-type: none;
-  margin-left: 0; }
-  #marketing_page .accordion .level3 li:before {
-    content: "Level III:";
-    padding-right: 40px;
-    font-weight: bold; }
-  #marketing_page .accordion .level3 p {
-    margin-left: 50px; }
-#marketing_page .accordion .examples {
-  margin-left: 25px; }
-  #marketing_page .accordion .examples ul {
-    margin-left: 130px; }
-#marketing_page .accordion #panel14a li {
-  margin-left: 10px; }
-#marketing_page .accordion .button-group li {
-  width: 50%; }
-#marketing_page .accordion .button-group a {
-  width: 100%; }
+  #marketing_page .accordion #panel11a ol {
+    margin-left: 0; }
+  #marketing_page .accordion .level1 {
+    list-style-type: none;
+    margin-left: 0; }
+    #marketing_page .accordion .level1 li:before {
+      content: "Level I:";
+      padding-right: 40px;
+      font-weight: bold; }
+    #marketing_page .accordion .level1 p {
+      margin-left: 50px; }
+  #marketing_page .accordion .level2 {
+    list-style-type: none;
+    margin-left: 0; }
+    #marketing_page .accordion .level2 li:before {
+      content: "Level II:";
+      padding-right: 40px;
+      font-weight: bold; }
+    #marketing_page .accordion .level2 p {
+      margin-left: 50px; }
+  #marketing_page .accordion .level3 {
+    list-style-type: none;
+    margin-left: 0; }
+    #marketing_page .accordion .level3 li:before {
+      content: "Level III:";
+      padding-right: 40px;
+      font-weight: bold; }
+    #marketing_page .accordion .level3 p {
+      margin-left: 50px; }
+  #marketing_page .accordion .examples {
+    margin-left: 25px; }
+    #marketing_page .accordion .examples ul {
+      margin-left: 130px; }
+  #marketing_page .accordion #panel14a li {
+    margin-left: 10px; }
+  #marketing_page .accordion .button-group li {
+    width: 50%; }
+  #marketing_page .accordion .button-group a {
+    width: 100%; }
 
 /*# sourceMappingURL=marketing.css.map */
