@@ -463,38 +463,44 @@
             Chamberlain Student Center Events Staff. These events require, at a minimum, a
             reservation through 25Live and a room diagram submission.<p></li>
           </ol>
-          Examples:
-          <ul>
-            <li>General meetings</li>
-            <li>Vendor table reservations</li>
-          </ul>
+          <span class="examples">
+            Examples:
+            <ul>
+              <li><i>General meetings</i></li>
+              <li><i>Vendor table reservations</i></li>
+            </ul>
+          </span>
 
           <ol class="level2">
             <li><p>Events that fall under this category will generally require a meeting with the Chamberlain
-          Student Center Events Staff. Security needs for these events will be evaluated on a case-bycase
-          basis. Public Safety costs run $18-23 per hour per officer.<p></li>
+            Student Center Events Staff. Security needs for these events will be evaluated on a case-bycase
+            basis. Public Safety costs run $18-23 per hour per officer.<p></li>
           </ol>
-          Examples:
-          <ul>
-            <li>Fundraising events</li>
-            <li>Special facility set-up requests</li>
-            <li>Food served</li>
-          </ul>
+          <span class="examples">
+            Examples:
+            <ul>
+              <li><i>Fundraising events</i></li>
+              <li><i>Special facility set-up requests</i></li>
+              <li><i>Food served</i></li>
+            </ul>
+          </span>
 
           <ol class="level3">
             <li><p>Events that may include a contract being issued, public safety presence, non-Rowan
-          community attendees, catering, major sound and stage requirements, or events taking place
-          in a location outside of the Student Center. Security needs for these events will be
-          evaluated on a case-by-case basis. Public Safety costs run $18-23 per hour per officer.<p></li>
+            community attendees, catering, major sound and stage requirements, or events taking place
+            in a location outside of the Student Center. Security needs for these events will be
+            evaluated on a case-by-case basis. Public Safety costs run $18-23 per hour per officer.<p></li>
           </ol>
+          <span class="examples">
           Examples:
-          <ul>
-            <li>Ticketed events</li>
-            <li>Dance parties</li>
-            <li>Performances</li>
-            <li>Events held outside of regular hours of operation</li>
-            <li>Any event that may pose a security concern for any reason</li>
-          </ul>
+            <ul>
+              <li><i>Ticketed events</i></li>
+              <li><i>Dance parties</i></li>
+              <li><i>Performances</i></li>
+              <li><i>Events held outside of regular hours of operation</i></li>
+              <li><i>Any event that may pose a security concern for any reason</i></li>
+            </ul>
+          </span><br>
 
           *All events are subject to additional requirements that may be determined by the University, Public Safety,
           or the Student Center Special Events Staff, handled on a case-by-case basis. The classifications above are
@@ -503,79 +509,85 @@
         </div>
       </li>
       <li class="accordion-navigation">
-        <a href="#panel14a">Guidelines For Special Event/Late Night Program</a>
+        <a href="#panel14a">Policies For Special Event/Late Night Program</a>
         <div id="panel14a" class="content">
-          1. Major event meetings must be held at least two weeks prior to the event date or the event will be
-          cancelled.
-          2. For student fundraisers/events with external guests participating the following policies apply:
-          • Events in this category require security and must be funded directly by the sponsoring
-          club/organization at the following rates: $18-$23 per hour per officer (avg.$20 per hour)
-          • Events/Dance parties for 300 students will require 4 officers
-          • Events for 400 students will require 5 officers
-          • Events for 500 students will require 6 officers
-          • Events between 100-300 and over 500 will be assessed individually by Public Safety to
-          determine security needs.
-          • Important Note: The maximum # of participants for a dance party is 300
-          3. Changes in projected number of students attending must be provided to Public Safety at least 7 days
-          before the event. These final projected numbers must directly be reflected in the number of tickets
-          available for sale.
-          4. Club/Organization advisors are not required to attend dance parties but must attend major event
-          meetings. This will be evaluated as needed.
-          5. All ticket sales for special events must go through the Student Center Information Desk. Ticket sales
-          must be discussed during your special events meeting and form must be completed at least 5
-          business days in advance of when you want your tickets to go on sale. Tickets must be handed in to
-          the Student Center Administration Office (SC 117a) at least two (2) business days prior to scheduled
-          sale date.
-          6. The group or organization agrees to abide by all rules and regulations of Rowan University. The
-          sponsoring organization is responsible for all guests in attendance.
-          7. Possession or use of contraband and/or controlled substances will be brought to the attention of the
-          on-site event supervisor or advisor and may result in disciplinary action and/or arrest.
-          12
-          8. If the organization and/or advisors anticipate or encounter any particular security needs or problems,
-          they will immediately be brought to the attention of the on-site Public Safety personnel.
-          9. When, in the judgement of Public Safety personnel, a significant danger to the safety of the
-          University community and guests is determined to exist, Public Safety reserves the right to notify the
-          event supervisor or advisor in advance of closing the event, and will cancel the event.
-          10. Any costs that occur as a result of incidences requiring additional Public Safety or local police
-          support will be charged/billed directly to the student organization.
-          11. For all dance parties that require paid admission and/or have non-Rowan students in attendance,
-          there will be no re-entry once students have entered the facility; doors will close at 12 midnight.
-          12. When required, all attendees must present a valid college or university ID card for admittance.
-          Anyone not cooperating with procedures will be asked to leave the premises. Typically, events that
-          have at least 25% non-Rowan students in attendance will require ID’s.
-          13. University representatives in supervisory roles will be responsible for advising the sponsoring group
-          when the event is nearing completion. This will occur 15 minutes prior to the scheduled end time,
-          which will be no later than 2am (when approved in advance). The sponsoring group must insure that
-          the music stops at the scheduled ending time of the event.
-          14. The sponsoring group must usher event attendees out of the building at the end of the event through
-          the main entrance of the room.
-          15. The sponsoring organization is responsible for returning the facility to its original conditions;
-          including trash pick-up and general cleaning of areas used.
-          16. A meeting may be required by Student Center Administration to follow-up after an event to discuss
-          event details if problems or concerns arise. The sponsoring organization may also request a followup
-          meeting with Student Center Administration.
-          17. If an event needs to be cancelled, Public Safety needs to be cancelled within 48 hours in advance of
-          the event or the organization will still have to cover the cost of the officers scheduled. In order to
-          cancel Public Safety, please contact your Student Center event contact or email
-          studentcenter@rowan.edu.
+          <ol>
+            <li>Major event meetings must be held at least two weeks prior to the event date or the event will be
+            cancelled.</li>
+            <li>For student fundraisers/events with external guests participating the following policies apply:
+              <ul>
+                <li>Events in this category require security and must be funded directly by the sponsoring
+                club/organization at the following rates: $18-$23 per hour per officer (avg.$20 per hour)</li>
+                <li>Events/Dance parties for 300 students will require 4 officers</li>
+                <li>Events for 400 students will require 5 officers</li>
+                <li>Events for 500 students will require 6 officers</li>
+                <li>Events between 100-300 and over 500 will be assessed individually by Public Safety to
+                determine security needs.</li>
+                <li><b>Important Note: The maximum # of participants for a dance party is 300</b></li>
+              </ul>
+            </li>
+            <li>Changes in projected number of students attending must be provided to Public Safety at least 7 days
+            before the event. These final projected numbers must directly be reflected in the number of tickets
+            available for sale.</li>
+            <li>Club/Organization advisors are not required to attend dance parties but must attend major event
+            meetings. This will be evaluated as needed.</li>
+            <li>All ticket sales for special events must go through the Student Center Information Desk. Ticket sales
+            must be discussed during your special events meeting and form must be completed at least 5
+            business days in advance of when you want your tickets to go on sale. Tickets must be handed in to
+            the Student Center Administration Office (SC 117a) at least two (2) business days prior to scheduled
+            sale date.</li>
+            <li>The group or organization agrees to abide by all rules and regulations of Rowan University. The
+            sponsoring organization is responsible for all guests in attendance.
+            <li>Possession or use of contraband and/or controlled substances will be brought to the attention of the
+            on-site event supervisor or advisor and may result in disciplinary action and/or arrest.</li>
+            <li>If the organization and/or advisors anticipate or encounter any particular security needs or problems,
+            they will immediately be brought to the attention of the on-site Public Safety personnel.</li>
+            <li>When, in the judgement of Public Safety personnel, a significant danger to the safety of the
+            University community and guests is determined to exist, Public Safety reserves the right to notify the
+            event supervisor or advisor in advance of closing the event, and will cancel the event.</li>
+            <li>Any costs that occur as a result of incidences requiring additional Public Safety or local police
+            support will be charged/billed directly to the student organization.</li>
+            <li>For all dance parties that require paid admission and/or have non-Rowan students in attendance,
+            there will be no re-entry once students have entered the facility; doors will close at 12 midnight.</li>
+            <li>When required, all attendees must present a valid college or university ID card for admittance.
+            Anyone not cooperating with procedures will be asked to leave the premises. Typically, events that
+            have at least 25% non-Rowan students in attendance will require ID’s.</li>
+            <li>University representatives in supervisory roles will be responsible for advising the sponsoring group
+            when the event is nearing completion. This will occur 15 minutes prior to the scheduled end time,
+            which will be no later than 2am (when approved in advance). The sponsoring group must insure that
+            the music stops at the scheduled ending time of the event.</li>
+            <li>The sponsoring group must usher event attendees out of the building at the end of the event through
+            the main entrance of the room.</li>
+            <li>The sponsoring organization is responsible for returning the facility to its original conditions;
+            including trash pick-up and general cleaning of areas used.</li>
+            <li>A meeting may be required by Student Center Administration to follow-up after an event to discuss
+            event details if problems or concerns arise. The sponsoring organization may also request a followup
+            meeting with Student Center Administration.</li>
+            <li>If an event needs to be cancelled, Public Safety needs to be cancelled within 48 hours in advance of
+            the event or the organization will still have to cover the cost of the officers scheduled. In order to
+            cancel Public Safety, please contact your Student Center event contact or email
+            studentcenter@rowan.edu.</li>
+          </ol>
         </div>
       </li>
       <li class="accordion-navigation">
         <a href="#panel15a">Responsibilities of Public Safety Officers</a>
         <div id="panel15a" class="content">
-          1. At events where Public Safety officers are required, one (1) officer shall be stationed at the main
-          entrance and conduct periodic checks of the immediate surrounding areas of the event and shall insure
-          that the stated admission policy is enforced.
-          2. Remaining officers shall be responsible for roving inside the facility and will make periodic checks
-          around the outside perimeter of the area.
-          3. Public Safety officers must be scheduled a half-hour before event begins and remain until the event
-          is over and the doors are secured.
-          4. There will be a meeting for all event staff, sponsoring organization members and the organization’s
-          advisors (when required) with Public Safety ½ hour before the start of the event. At this meeting, event
-          details will be provided by Public Safety.
-          5. Student organizations may request through the Department of Public Safety, officer(s)
-          from the Glassboro Police Department to assist Public Safety Officers. The requesting organization
-          will incur all expense of Glassboro Police Department officers.
+          <ol>
+            <li>At events where Public Safety officers are required, one (1) officer shall be stationed at the main
+            entrance and conduct periodic checks of the immediate surrounding areas of the event and shall insure
+            that the stated admission policy is enforced.</li>
+            <li>Remaining officers shall be responsible for roving inside the facility and will make periodic checks
+            around the outside perimeter of the area.</li>
+            <li>Public Safety officers must be scheduled a half-hour before event begins and remain until the event
+            is over and the doors are secured.</li>
+            <li>There will be a meeting for all event staff, sponsoring organization members and the organization’s
+            advisors (when required) with Public Safety ½ hour before the start of the event. At this meeting, event
+            details will be provided by Public Safety.</li>
+            <li>Student organizations may request through the Department of Public Safety, officer(s)
+            from the Glassboro Police Department to assist Public Safety Officers. The requesting organization
+            will incur all expense of Glassboro Police Department officers.</li>
+          </ol>
         </div>
       </li>
     </ul>

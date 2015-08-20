@@ -33,7 +33,8 @@
 #event_page .accordion #panel11a ol {
   margin-left: 0; }
 #event_page .accordion .level1 {
-  list-style-type: none; }
+  list-style-type: none;
+  margin-left: 0; }
   #event_page .accordion .level1 li:before {
     content: "Level I:";
     padding-right: 40px;
@@ -41,7 +42,8 @@
   #event_page .accordion .level1 p {
     margin-left: 50px; }
 #event_page .accordion .level2 {
-  list-style-type: none; }
+  list-style-type: none;
+  margin-left: 0; }
   #event_page .accordion .level2 li:before {
     content: "Level II:";
     padding-right: 40px;
@@ -49,12 +51,19 @@
   #event_page .accordion .level2 p {
     margin-left: 50px; }
 #event_page .accordion .level3 {
-  list-style-type: none; }
+  list-style-type: none;
+  margin-left: 0; }
   #event_page .accordion .level3 li:before {
     content: "Level III:";
     padding-right: 40px;
     font-weight: bold; }
   #event_page .accordion .level3 p {
     margin-left: 50px; }
+#event_page .accordion .examples {
+  margin-left: 25px; }
+  #event_page .accordion .examples ul {
+    margin-left: 130px; }
+#event_page .accordion #panel14a li {
+  margin-left: 10px; }
 
 /*# sourceMappingURL=event.css.map */

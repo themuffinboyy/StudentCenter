@@ -68,6 +68,7 @@
 
 		.level1 {
 			list-style-type: none;
+			margin-left: 0;
 
 			li:before {
 				content: "Level I:";
@@ -82,6 +83,7 @@
 
 		.level2 {
 			list-style-type: none;
+			margin-left: 0;
 
 			li:before {
 				content: "Level II:";
@@ -96,6 +98,7 @@
 
 		.level3 {
 			list-style-type: none;
+			margin-left: 0;
 
 			li:before {
 				content: "Level III:";
@@ -105,6 +108,20 @@
 
 			p {
 				margin-left: 50px;
+			}
+		}
+
+		.examples {
+			margin-left: 25px;
+
+			ul {
+				margin-left: 130px;
+			}
+		}
+
+		#panel14a {
+			li {
+				margin-left: 10px;
 			}
 		}
 	}
