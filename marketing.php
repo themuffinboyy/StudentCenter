@@ -48,7 +48,7 @@
             <li>Exceptions to any posting policy listed above must be proposed in writing and approved by the
             administrative staff of the Student Center.</li>
             <li>Violations of any of the above policies may result in sanctions.</li>
-          </ol>
+          </ol><br>
 
           <strong>Pre-Approval</strong>
           <ol>
@@ -60,7 +60,7 @@
             <li>Flier size for bulletin boards is limited to 81/2 by 11" or 81/2 by 14" for all postings. Exceptions:
             university sponsored or external events that have pre-printed posters size 11 by 17".</li>
             <li>Postings not approved by the appropriate University personnel will be removed immediately.</li>
-          </ol>
+          </ol><br>
 
           <strong>Posting Procedures</strong>
           <ol>
@@ -79,10 +79,10 @@
             <li>In the event of “Flier overload” (more fliers or posters than the bulletin board space available), the
             following set of posting priorities may be applied in date order:
             <ul>
-              • Rowan University student clubs/organizations and/or academic and administrative
-              departments
-              • Individuals affiliated with Rowan University
-              • All others
+              <li>Rowan University student clubs/organizations and/or academic and administrative
+              departments</li>
+              <li>Individuals affiliated with Rowan University</li>
+              <li>All others</li>
             </ul>
             </li>
           </ol>
@@ -98,7 +98,8 @@
             <li>Fliers can only be posted for a maximum of fourteen (14) days.</li>
             <li>Flier size for bulletin boards is limited to 81/2 by 11" or 81/2 by 14" for all postings. Exceptions:
             University/Dept. sponsored events that have pre-printed posters 11” by 17".</li>
-          </ol>
+          </ol><br>
+
           <strong>Bulletin Board Posting and Approval Procedures</strong>
           <ol>
             <li>Complete a “Posting Request Form” along with a copy of the flier and submit both of them to the
@@ -119,7 +120,7 @@
             <li>External groups (outside of the campus community, i.e. vendors) and individual advertisements (i.e.
             “roommate needed”) can only be posted on the second floor of the Student Center.</li>
             <li>Postings are limited to a size of 81/2 by 11" or 81/2 by 14" for all postings.</li>
-          </ol>
+          </ol><br>
 
           <strong>Posting Strips Approval Process</strong>
           <ol>
@@ -154,6 +155,16 @@
             determine what content is displayed at which Digital Signage location(s) and determine the duration,
             dates, and times content is displayed.</li>
           </ol>
+
+          <ul class="button-group">
+              <li><a href="#" class="button">Register</a></li>
+              <li><a href="#" class="button">Login</a></li>
+            </ul>
+
+          <ul class="button-group">
+            <li><a href="#" class="button">Policies</a></li>
+            <li><a href="#" class="button">Help</a></li>
+          </ul>
         </div>
       </li>
       <li class="accordion-navigation">

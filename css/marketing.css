@@ -65,5 +65,9 @@
     margin-left: 130px; }
 #marketing_page .accordion #panel14a li {
   margin-left: 10px; }
+#marketing_page .accordion .button-group li {
+  width: 50%; }
+#marketing_page .accordion .button-group a {
+  width: 100%; }
 
 /*# sourceMappingURL=marketing.css.map */
