@@ -35,6 +35,7 @@
       <li class="accordion-navigation">
         <a href="#panel1a">General Student Center Posting Guidelines</a>
         <div id="panel1a" class="content">
+          <strong>General Student Center Posting Guidelines</strong>
           <ol>
             <li>Posting may occur on designated bulletin boards and posting strips only, not on walls, doors or
             columns on the interior or exterior of the building. Posted materials must be fastened using staples
@@ -91,6 +92,7 @@
       <li class="accordion-navigation">
         <a href="#panel2a">Bulletin Boards</a>
         <div id="panel2a" class="content">
+          <strong>Bulletin Boards on Ground Floor</strong>
           <ol>
             <li>Encased bulletin boards are located on the ground floor;</li>
             <li>Due to limited space, postings will be available on a first-come, first serve basis.</li>
@@ -113,6 +115,7 @@
       <li class="accordion-navigation">
         <a href="#panel3a">Posting Strips</a>
         <div id="panel3a" class="content">
+          <strong>Posting Strips on Main and Second Floor</strong>
           <ol>
             <li>Posting strips are located along the corridor on the main floor and 2nd floor.</li>
             <li>Student organizations may post one flier per event on each floor. Multiple postings will be
@@ -133,6 +136,7 @@
       <li class="accordion-navigation">
         <a href="#panel4a">Digital Signage</a>
         <div id="panel4a" class="content">
+          <strong>Digital Signage on Main Floor</strong>
           <ol>
             <li>Only registered student organizations, and campus departments/offices, are permitted to display
             content on the Digital Signage System. Use of the Digital Signage System is at no cost. Email
@@ -170,6 +174,7 @@
       <li class="accordion-navigation">
         <a href="#panel5a">Banners/Posters</a>
         <div id="panel5a" class="content">
+          <strong>Banners/Posters in Pit Lounge Area</strong>
           <ol>
             <li>Any banners or posters placed in the Pit Lounge area must be cleared by the Student Center
             Director or his/her designee.</li>
@@ -198,6 +203,7 @@
       <li class="accordion-navigation">
         <a href="#panel6a">Free Speech and Peaceful Assembly Policy</a>
         <div id="panel6a" class="content">
+          <strong>Free Speech and Peaceful Assembly Policy</strong>
           <p>The entire Free Speech and Peaceful Assembly policy can be found in the Rowan Student Handbook and
           Employee handbook. The full policy and demonstration request form can be found at
           www.rowan.edu/freespeechpolicy. This policy complies with all applicable federal constitutional and State
