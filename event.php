@@ -38,9 +38,10 @@
           <p>25Live is the campus wide web-based scheduling system used for room/space reservations in the Student
           Center. Reservations are required for all space within the Student Center including outdoor patios. All
           requests for use of any Student Center facility are made through 25 Live and confirmed by the Student
-          Center Main Administrative office (Susan Chard at chards@rowan.edu or x4602). Reservations, schedule
-          of events and information regarding how to reserve a room can be found at www.rowan.edu/25live or a
-          Student Center staff member can assist with questions.<p>
+          Center Main Administrative office (Susan Chard at <em class="email"><a class="live_link" href="mailto:chards@rowan.edu">
+          chards@rowan.edu</a></em> or x4602). Reservations, schedule of events and information regarding how to reserve a room can
+          be found at <a class="live_link" href="http://www.rowan.edu/25live">www.rowan.edu/25live</a> or a Student Center staff member can 
+          assist with questions.<p>
           <p>The Student Center Office Staff is trained to familiarize patrons with the facilities and services as well as
           provide assistance with event planning and logistics. In an effort to meet the needs of our diverse clientele,
           the staff makes every effort to maximize facility usage. The staff will work with you to deliver the highest
@@ -54,12 +55,10 @@
         <a href="#panel2a">General Reservation Procedures</a>
         <div id="panel2a" class="content">
           <ol>
-            <li>To reserve rooms/space in the Student Center go to www.rowan.edu/studentcenter and click the
-            “plan an event” button. This page will walk you through the steps for event planning and reserving
-            a space using 25live. Login to 25Live will require your Rowan University username and password.
+            <li>Login to 25Live will require your Rowan University username and password.
             If you are having problems, please contact the Student Center Office and someone can assist you
-            with the process. For more information about 25Live, visit
-            http://www.rowan.edu/ces/25live/index.cfm. Please note that phone and email reservations will not
+            with the process. For more information about 25Live, click on this
+            <a class="live_link"href="http://www.rowan.edu/ces/25live/index.cfm">link</a>. Please note that phone and email reservations will not
             be accepted.</li>
             <li>Space assignments are received and confirmed on a first come, first serve basis within the priority
             categories (see Scheduling Priority). A confirmation will be emailed to the individual identified on

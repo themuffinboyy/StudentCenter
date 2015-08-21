@@ -26,5 +26,10 @@
   width: 33.33%; }
   #info_page .tabs .tab-title.active a {
     background-color: #ffcf44; }
+@media only screen and (max-width: 40em) {
+  #info_page .tabs-content {
+    margin-bottom: 0; }
+    #info_page .tabs-content .content {
+      padding-bottom: 0; } }
 
 /*# sourceMappingURL=info.css.map */

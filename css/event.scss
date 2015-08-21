@@ -126,5 +126,17 @@
 				margin-left: 10px;
 			}
 		}
+
+		.live_link {
+			background-color: white;
+			color: #008CBA;
+			font-size: 15px;
+			text-decoration: underline;
+			padding: 0;
+
+			&:hover {
+				background-color: white;
+			}
+		}
 	}
 }

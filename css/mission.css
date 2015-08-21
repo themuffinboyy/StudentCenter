@@ -20,22 +20,19 @@
   width: 100%; }
 @media only screen and (min-width: 40.0625em) {
   #mission_page .medium-12 {
-    width: 100%; } }
+    width: 100%; }
+  #mission_page .large-6 {
+    width: 45%; } }
 @media only screen and (min-width: 64.0625em) {
   #mission_page .large-4 {
     width: 31.8%; }
   #mission_page .large-7 {
     width: 66.2%; } }
-#mission_page table {
-  border: none;
-  background: none; }
-  #mission_page table tr {
-    background: none; }
-  #mission_page table td {
-    vertical-align: top;
-    font-size: 100%;
-    line-height: 1.5; }
-    #mission_page table td strong {
-      font-size: 22px; }
+@media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+  #mission_page .banner {
+    width: 63.66667%; } }
+@media only screen and (max-width: 40em) {
+  #mission_page .logo {
+    margin-bottom: 15px; } }
 
 /*# sourceMappingURL=mission.css.map */

@@ -36,7 +36,7 @@
     </div>
 
     <div class="row">
-      <div class="large-4 columns">
+      <div class="large-4 medium-5 columns">
         <div class="label">Hours of Operation</div>
 
         <ul class="tabs" data-tab>
@@ -64,7 +64,7 @@
         </div>
       </div>
 
-    	<div class="large-8 columns">
+    	<div class="large-8 medium-7 columns">
         <div class="panel">
           <p>The mission of the Information Desk, located on main floor of the Chamberlain Student Center,
           is to help provide accurate information about campus events, community resources, and activities to 

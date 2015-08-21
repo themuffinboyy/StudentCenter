@@ -32,10 +32,10 @@
 ?>
 <section id="mission_page">
     <div class="row mission_header">
-      <div class="large-4 columns">
+      <div class="large-4 medium-4 logo columns">
       	<img src="images/mission_logo.png">
       </div>
-      <div class="large-8 columns">
+      <div class="large-8 medium-8 banner columns">
         <img src="images/mission_banner.png">
       </div>
     </div>
@@ -68,7 +68,7 @@
 	    <div class="small-12 medium-12 large-7 columns">
 	    	<div class="label">Core Values</div>
 
-	    	<div class="row nested">
+	    	<!-- <div class="row nested">
 	    		<div class="large-12 columns">
             <div class="panel">
               <table>
@@ -95,7 +95,45 @@
               </table>
             </div>
 	    		</div>
-	    	</div>
+	    	</div> -->
+        <div class="row nested">
+          <div class="large-12 columns">
+            <div class="panel">
+              <div class="row">
+                <div class="large-6 small-12 columns">
+                  <strong>Community Building</strong>
+                  <p>We are dedicated to creating a culture where collaboration, participation, care and 
+                    respect are modeled.</p>
+                </div>
+                <div class="large-6 small-12 columns">
+                  <strong>Student Development</strong>
+                  <p>We strive to create an environment that enhances student learning, self-discovery, 
+                  exploration and leadership development.</p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="large-6 small-12 columns">
+                  <strong>Service Excellence</strong>
+                  <p>We aim to exceed customer expectations by providing the best possible experience to 
+                  those we serve.</p>
+                </div>
+                <div class="large-6 small-12 columns">
+                  <strong>Integrity</strong>
+                  <p>We believe in honesty, accountability and professionalism in all that we do.</p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="large-6 small-12 columns">
+                  <strong>Continuous Improvement</strong>
+                  <p>We are committed to continuously improving our organization and ourselves by embracing 
+                  change and innovation while respecting and valuing tradition.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 	    </div>
     </div>
 

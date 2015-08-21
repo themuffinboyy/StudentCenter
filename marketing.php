@@ -213,11 +213,11 @@
           responsive event. Email studentcenter@rowan.edu to request an event consultation meeting.</p>
         </div>
       </li>
-      <li class="accordion-navigation">
+      <!-- <li class="accordion-navigation">
         <a href="#panel7a">FAQs</a>
         <div id="panel7a" class="content">
         </div>
-      </li>
+      </li> -->
     </ul>
   </div>
 </div>

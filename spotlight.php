@@ -32,10 +32,10 @@
 ?>
 <section id="spotlight_page">
     <div class="row spotlight_header">
-      <div class="large-4 columns">
+      <div class="large-4 medium-4 logo columns">
         <img src="images/spotlight_logo.png">
       </div>
-      <div class="large-8 columns">
+      <div class="large-8 medium-8 banner columns">
         <img src="images/spotlight_page_banner.png">
       </div>
     </div>
@@ -46,17 +46,23 @@
 
         <div class="row nested">
           <div class="large-12 columns">
-            <div class="panel">
+            <div class="panel show-for-large-up">
               The Chamberlain Student Center hosts student vocal, acoustic, and poetry performances in Profs Place. 
               The event, Profs Spotlight, is held on the first Monday of each month during the school year from 9:00 p.m. 
               - 12:00 a.m. Performers will perform sets 10-20 minutes long on the stage in Profs Place. All Rowan students 
               are eligible to perform. If you are interested, please sign up here -------->
             </div>
+            <div class="panel hide-for-large-up">
+              The Chamberlain Student Center hosts student vocal, acoustic, and poetry performances in Profs Place. 
+              The event, Profs Spotlight, is held on the first Monday of each month during the school year from 9:00 p.m. 
+              - 12:00 a.m. Performers will perform sets 10-20 minutes long on the stage in Profs Place. All Rowan students 
+              are eligible to perform. If you are interested, please sign up below
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="small-12 medium-12 large-7 columns right_space">
+      <div class="small-12 medium-8 large-7 columns right_space">
         <div class="label">Sign Up to Perform</div>
 
         <div class="row nested">
@@ -67,7 +73,7 @@
         </div>
       </div>
 
-      <div class="small-12 medium-12 large-2 columns end">
+      <div class="small-12 medium-4 large-2 shows columns end">
         <div class="label">Upcoming Shows</div>
 
         <div class="row nested">

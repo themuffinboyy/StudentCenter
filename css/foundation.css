@@ -1,3 +1,30 @@
+/*
+  //small screens.
+  @media only screen and (max-width: 40em) {
+
+  }
+
+  //medium screens.
+  @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+
+  }
+
+  //desktops.
+  @media only screen and (min-width: 64.0625em) {
+
+  }
+
+  //small and medium screens.
+  @media only screen and (max-width: 64em) {
+    
+  }
+
+  //medium screens and desktops.
+  @media only screen and (min-width: 40.0625em) {
+    
+  }
+
+*/
 meta.foundation-version {
   font-family: "/5.5.2/"; }
 

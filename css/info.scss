@@ -42,4 +42,15 @@
 			}
 		}
 	}
+
+	//small screens.
+	@media only screen and (max-width: 40em) {
+		.tabs-content {
+			margin-bottom: 0;
+
+			.content {
+				padding-bottom: 0;
+			}
+		}
+	}
 }

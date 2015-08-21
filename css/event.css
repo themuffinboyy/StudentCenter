@@ -67,5 +67,13 @@
       margin-left: 130px; }
   #event_page .accordion #panel14a li {
     margin-left: 10px; }
+  #event_page .accordion .live_link {
+    background-color: white;
+    color: #008CBA;
+    font-size: 15px;
+    text-decoration: underline;
+    padding: 0; }
+    #event_page .accordion .live_link:hover {
+      background-color: white; }
 
 /*# sourceMappingURL=event.css.map */

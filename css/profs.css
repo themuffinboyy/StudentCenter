@@ -26,5 +26,10 @@
   width: 33.33%; }
   #profs_page .tabs .tab-title.active a {
     background-color: #ffcf44; }
+@media only screen and (max-width: 40em) {
+  #profs_page .tabs-content {
+    margin-bottom: 0; }
+    #profs_page .tabs-content .content {
+      padding-bottom: 0; } }
 
 /*# sourceMappingURL=profs.css.map */

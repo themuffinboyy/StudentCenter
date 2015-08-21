@@ -29,5 +29,13 @@
   margin-right: 15px; }
 #spotlight_page .no_padding {
   padding: 0; }
+@media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+  #spotlight_page .banner {
+    width: 64.66667%; }
+  #spotlight_page .shows {
+    width: 31.33333%; } }
+@media only screen and (max-width: 40em) {
+  #spotlight_page .logo {
+    margin-bottom: 15px; } }
 
 /*# sourceMappingURL=spotlight.css.map */

@@ -36,7 +36,7 @@
     </div>
 
     <div class="row">
-      <div class="large-4 columns">
+      <div class="large-4 medium-5 columns">
         <div class="label">Hours of Operation</div>
 
         <ul class="tabs" data-tab>
@@ -64,7 +64,7 @@
         </div>
       </div>
 
-    	<div class="large-8 columns">
+    	<div class="large-8 medium-7 columns">
         <div class="panel">
           <p>CSC offers laundry facilities on the Ground Floor. The Laundry Room includes 10 washers, 10 dryers 
           and Boro Bucks access to allow you to pay for your laundry.<br>
