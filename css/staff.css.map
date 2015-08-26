@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AACC,wCAAyC;EACxC,oBAAS;IACR,UAAU,EAAE,MAAM",
+"mappings": "AACC,wCAAyC;EACxC,oBAAS;IACR,UAAU,EAAE,MAAM;AAIpB,gBAAK;EACJ,SAAS,EAAE,MAAM;EACjB,UAAU,EAAE,IAAI",
 "sources": ["staff.scss"],
 "names": [],
 "file": "staff.css"

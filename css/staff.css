@@ -1,5 +1,8 @@
 @media only screen and (max-width: 40em) {
   #staff_page .large-9 {
     text-align: center; } }
+#staff_page .row {
+  max-width: 1190px;
+  margin-top: 15px; }
 
 /*# sourceMappingURL=staff.css.map */

@@ -8,6 +8,10 @@
     font-size: 1.4rem; }
     #marketing_page .accordion a:hover, #marketing_page .accordion a[aria-expanded=true] {
       background-color: #3B3131; }
+    #marketing_page .accordion a.nested_button {
+      background-color: #5A180A; }
+      #marketing_page .accordion a.nested_button:hover {
+        background-color: #800517; }
   #marketing_page .accordion .content {
     margin-bottom: 6px; }
   #marketing_page .accordion ul {

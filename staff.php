@@ -6,7 +6,6 @@
 <link rel="icon" href="images/csc_favicon.png" type="image/png" sizes="16x16">
 <title>Chamberlain Student Center | Rowan University</title>
 <link rel="stylesheet" href="css/foundation.css" />
-<link rel="stylesheet" href="css/styles.css" />
 <link rel="stylesheet" href="css/banner.css" />
 <link rel="stylesheet" href="css/rowanheader.css" />
 <link rel="stylesheet" href="css/staff.css" />
@@ -32,129 +31,131 @@
   include("header.html");
 ?>
   <section id="staff_page">
-    <div class="large-9 large-centered column">
-      <div class="panel">
-              <h1 id="top-bar">Meet the Staff</h1>
-              <hr>
-              <div class="row">
-                <div class="large-2 columns">
+    <div class="row">
+      <div class="large-12 large-centered column">
+        <div class="panel">
+          <h1 id="top-bar">Meet the Staff</h1>
+          <hr>
+          <div class="row">
+            <div class="large-2 medium-3 columns">
               <a class="th" href="./images/staff/Tina.jpg"><img src="./images/staff/Tina.jpg"></a>
             </div>
-              <div class="large-10 columns">
+            <div class="large-10 medium-9 end columns">
               <p><strong>Tina Pinocci</strong><br>
-              <em>Assistant VP for Student Life</em><br>
+              <em>Associate VP for Campus Recreation and Student Center</em><br>
               <em>856-256-4604</em><br>
               <em class="email"><a href="mailto:pinocci@rowan.edu">pinocci@rowan.edu</a></em></p>
             </div>
-            </div>
+          </div>
 
-            <hr>
+          <hr>
 
-            <div class="row">
-                <div class="large-2 columns">
+          <div class="row">
+            <div class="large-2 medium-3 columns">
               <a class="th" href="./images/staff/Rio.jpg"><img src="./images/staff/Rio.jpg"></a>
             </div>
-              <div class="large-10 columns">
+            <div class="large-10 medium-9 end columns">
               <p><strong>Rhiannon Napoli</strong><br>
               <em>Assistant Director, Chamberlain Student Center</em><br>
               <em>856-256-4756</em><br>
               <em class="email"><a href="mailto:napoli@rowan.edu">napoli@rowan.edu</a></em></p>
             </div>
-            </div>
+          </div>
 
-            <hr>
+          <hr>
 
-            <div class="row">
-                <div class="large-2 columns">
+          <div class="row">
+            <div class="large-2 medium-3 columns">
               <a class="th" href="./images/staff/Vinnie.jpg"><img src="./images/staff/Vinnie.jpg"></a>
             </div>
-              <div class="large-10 columns">
+            <div class="large-10 medium-9 end columns">
               <p><strong>Vinnie Surace</strong><br>
               <em>Facilities/Operations Coordinator, Chamberlain Student Center</em><br>
               <em>856-256-4634</em><br>
               <em class="email"><a href="mailto:surace@rowan.edu">surace@rowan.edu</a></em></p>
             </div>
-            </div>
+          </div>
 
-            <hr>
-              
-             <div class="row">
-                <div class="large-2 columns">
+          <hr>
+            
+           <div class="row">
+            <div class="large-2 medium-3 columns">
               <a class="th" href="./images/staff/Kait.jpg"><img src="./images/staff/Kait.jpg"></a>
             </div>
-              <div class="large-10 columns">
+            <div class="large-10 medium-9 end columns">
               <p><strong>Kaitlin Shaginaw</strong><br>
               <em>Program Assistant, Chamberlain Student Center</em><br>
               <em>856-256-4607</em><br>
               <em class="email"><a href="mailto:shaginaw@rowan.edu">shaginaw@rowan.edu</a></em></p>
             </div>
-            </div>
+          </div>
 
-            <hr>
-              
-            <div class="row">
-                <div class="large-2 columns">
+          <hr>
+            
+          <div class="row">
+            <div class="large-2 medium-3 columns">
               <a class="th" href="./images/staff/Susan.png"><img src="./images/staff/Susan.png"></a>
             </div>
-              <div class="large-10 columns">
+            <div class="large-10 medium-9 end columns">
               <p><strong>Susan Chard</strong><br>
               <em>Administrative Secretary</em><br>
               <em>856-256-4602</em><br>
               <em class="email"><a href="mailto:chards@rowan.edu">chards@rowan.edu</a></em></p>
             </div>
-            </div>
+          </div>
 
-            <hr>
-              
-             <div class="row">
-                <div class="large-2 columns">
-              <a class="th" href="./images/staff/NaQuan.jpg"><img src="./images/staff/NaQuan.jpg"></a>
-            </div>
-              <div class="large-10 columns">
-              <p><strong>NaQuan Redd</strong><br>
-              <em>Graduate Coordinator, Facilities</em><br>
-              <em>856-256-4605</em><br>
-              <em class="email"><a href="mailto:redd@rowan.edu">redd@rowan.edu</a></em></p>
-            </div>
-            </div>
+          <hr>
+            
+           <div class="row">
+              <div class="large-2 medium-3 columns">
+            <a class="th" href="./images/staff/NaQuan.jpg"><img src="./images/staff/NaQuan.jpg"></a>
+          </div>
+            <div class="large-10 medium-9 end columns">
+            <p><strong>NaQuan Redd</strong><br>
+            <em>Graduate Coordinator, Facilities</em><br>
+            <em>856-256-4605</em><br>
+            <em class="email"><a href="mailto:redd@rowan.edu">redd@rowan.edu</a></em></p>
+          </div>
+          </div>
 
-            <hr>
+          <hr>
 
-            <div class="row">
-                <div class="large-2 columns">
-              <a class="th" href="./images/staff/Jeff.jpg"><img src="./images/staff/Jeff.jpg"></a>
-            </div>
-              <div class="large-10 columns">
-              <p><strong>Jeff Williams</strong><br>
-              <em>Graduate Coordinator, Marketing & Special Events</em><br>
-              <em>856-256-4605</em><br>
-              <em class="email"><a href="mailto:williamsje@rowan.edu">williamsje@rowan.edu</a></em></p>
-            </div>
-            </div>
+          <div class="row">
+              <div class="large-2 medium-3 columns">
+            <a class="th" href="./images/staff/Jeff.jpg"><img src="./images/staff/Jeff.jpg"></a>
+          </div>
+            <div class="large-10 medium-9 end columns">
+            <p><strong>Jeff Williams</strong><br>
+            <em>Graduate Coordinator, Marketing & Special Events</em><br>
+            <em>856-256-4605</em><br>
+            <em class="email"><a href="mailto:williamsje@rowan.edu">williamsje@rowan.edu</a></em></p>
+          </div>
+          </div>
 
-            <hr>
+          <hr>
 
-            <div class="row">
-                <div class="large-2 columns">
-              <a class="th" href="./images/staff/Amy.png"><img src="./images/staff/Amy.png"></a>
-            </div>
-              <div class="large-10 columns">
-              <p><strong>Amy Stehman</strong><br>
-              <em>Event Specialist</em><br>
-              <em>856-256-4605</em><br>
-              <em class="email"><a href="mailto:stehma46@rowan.edu">stehma46@rowan.edu</a></em></p>
-            </div>
-            </div>
+          <div class="row">
+              <div class="large-2 medium-3 columns">
+            <a class="th" href="./images/staff/Amy.png"><img src="./images/staff/Amy.png"></a>
+          </div>
+            <div class="large-10 medium-9 end columns">
+            <p><strong>Amy Stehman</strong><br>
+            <em>Event Specialist</em><br>
+            <em>856-256-4605</em><br>
+            <em class="email"><a href="mailto:stehma46@rowan.edu">stehma46@rowan.edu</a></em></p>
+          </div>
+          </div>
 
-            <hr>
+          <hr>
 
-            <div class="row" style="text-align: center;">
-              <div class="large-12 columns">
-                <a href="./images/staff/Group.jpg"><img style="width: 450px;" src="./images/staff/Group.jpg"></a>
-              </div>
+          <div class="row" style="text-align: center;">
+            <div class="large-12 columns">
+              <a href="./images/staff/Group.jpg"><img style="width: 450px;" src="./images/staff/Group.jpg"></a>
             </div>
-</div>
-  </div>
+          </div>
+        </div>
+      </div>
+    </div>
 </section>
 
 <?php 

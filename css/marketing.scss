@@ -12,6 +12,14 @@
 			&:hover,&[aria-expanded=true] {
 				background-color: #3B3131;
 			}
+
+		&.nested_button {
+			background-color: #5A180A;
+
+			&:hover {
+				background-color: #800517;
+			}
+		}
 		}
 
 		.content {

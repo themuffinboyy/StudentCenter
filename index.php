@@ -68,7 +68,7 @@
     </div>
   </div>
 
-  <div class="row no_top">
+  <div class="row no_top mobile_down">
     <div class="large-4 medium-4 small-12 columns">
       <div clsss="row nested">
         <ul class="tabs" data-tab>
@@ -102,7 +102,7 @@
       <div class="row no_top">
         <ul class="tabs" data-tab>
           <li class="tab-title active"><a href="#panel1">Regular</a></li>
-          <li class="tab-title"><a href="#panel4">Special</a></li>
+          <li class="tab-title"><a href="#panel2">Special</a></li>
         </ul>
       </div>
 
@@ -110,10 +110,10 @@
         <div class="tabs-content">
           <div class="content active" id="panel1">
             <ul class="tabs" data-tab>
-              <li class="tab-title fifth active"><a href="#panel1a">Building</a></li>
-              <li class="tab-title fourth"><a href="#panel1b">Info Desk</a></li>
-              <li class="tab-title fourth"><a href="#panel1c">Gameroom</a></li>
-              <li class="tab-title big"><a href="#panel1d">Profs Place</a></li>
+              <li class="names tab-title fifth active"><a href="#panel1a">Building</a></li>
+              <li class="names tab-title fourth"><a href="#panel1b">Info Desk</a></li>
+              <li class="names tab-title fourth"><a href="#panel1c">Gameroom</a></li>
+              <li class="names tab-title big"><a href="#panel1d">Profs Place</a></li>
             </ul>
 
             <div class="tabs-content">
@@ -140,12 +140,37 @@
             </div>
           </div>
 
-          <div class="content" id="panel4">
-            <div class="panel special_hours">
-              <a href="images/winter_hours.pdf">Winter Hours</a><br>
-              <a href="images/summer_hours.pdf">Summer Hours</a><br>
-              <a href="construction.php">Thanksgiving Hours</a><br>
-              <a href="construction.php">Finals Week Hours</a><br>
+          <div class="content" id="panel2">
+             <ul class="tabs" data-tab>
+              <li class="names tab-title super active"><a href="#panel2a">Welcome Weekend</a></li>
+              <li class="names tab-title fifth"><a href="#panel2b">Summer</a></li>
+              <li class="names tab-title fifth"><a href="#panel2c">Winter</a></li>
+              <li class="names tab-title fifth"><a href="#panel2d">All</a></li>
+            </ul>
+
+            <div class="tabs-content">
+              <div class="content add_top active" id="panel2a">
+                <div class="panel">
+                  <?php include("_hours/welcome_weekend.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel2b">
+                <div class="panel">
+                  <?php include("_hours/summer.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel2c">
+                <div class="panel">
+                  <?php include("_hours/winter.html"); ?>
+                </div>
+              </div>
+              <div class="content add_top" id="panel2d">
+                <div class="panel">
+                  <a href="images/welcome_weekend_hours.pdf">Welcome Weekend Hours</a><br>
+                  <a href="images/winter_hours.pdf">Winter Hours</a><br>
+                  <a href="images/summer_hours.pdf">Summer Hours</a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -164,7 +189,7 @@
             <input  type="text" name="last_name" maxlength="50" placeholder="Last Name">
             <input  type="text" name="email" maxlength="80" placeholder="Email Address">
             <input  type="text" name="telephone" maxlength="30" placeholder="Phone Number">
-            <textarea  name="comments" maxlength="1000" cols="25" rows="11" placeholder="Comments"></textarea>
+            <textarea  name="comments" maxlength="1000" cols="25" rows="3" placeholder="Comments"></textarea>
             <input type="submit" value="Submit">
           </form>
 
@@ -173,6 +198,9 @@
             <a href="#" class="close">&times;</a>
           </div>
         </div>
+      </div>
+      <div class="row no_top place_center">
+        <a href="http://www.rowan.edu/studentaffairs/main_office/publications/Handbook_Planner.cfm"><img class="help" src="images/help_button.png"></a>
       </div>
     </div>
   </div>

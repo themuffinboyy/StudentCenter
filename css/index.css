@@ -16,6 +16,11 @@
 #homepage img {
   width: 100%;
   height: 415px; }
+#homepage .help {
+  height: auto;
+  width: 70%; }
+#homepage .place_center {
+  text-align: center; }
 #homepage .logo {
   height: 310px; }
 #homepage .label {
@@ -43,6 +48,8 @@
     width: 20%; }
   #homepage .tabs .tab-title.big {
     width: 30%; }
+  #homepage .tabs .tab-title.super {
+    width: 40%; }
   #homepage .tabs .tab-title.active a {
     background-color: #ffcf44; }
 #homepage .tabs-content {
@@ -79,6 +86,8 @@
   width: 100%; }
 #homepage .panel p {
   margin-bottom: 10px; }
+#homepage .panel .special {
+  margin-bottom: 0; }
 #homepage .panel textarea {
   resize: none; }
 #homepage .alert-box.hidden {
@@ -87,5 +96,15 @@
   display: block; }
 #homepage .special_hours {
   margin-top: 15px; }
+@media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+  #homepage .names a {
+    font-size: 0.55rem; }
+  #homepage .event {
+    font-size: 1.8rem; } }
+@media only screen and (max-width: 40em) {
+  #homepage .mobile_down {
+    margin-top: 15px; }
+  #homepage .names a {
+    font-size: 0.55rem; } }
 
 /*# sourceMappingURL=index.css.map */

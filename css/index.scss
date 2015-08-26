@@ -29,6 +29,15 @@
     height: 415px;
   }
 
+  .help {
+    height: auto;
+    width: 70%;
+  }
+
+  .place_center {
+    text-align: center;
+  }
+
   .logo {
     height: 310px;
   }
@@ -70,6 +79,10 @@
 
       &.big {
         width: 30%;
+      }
+
+      &.super{
+        width: 40%;
       }
 
       &.active a {
@@ -137,6 +150,10 @@
       margin-bottom: 10px;
     }
 
+    .special {
+      margin-bottom: 0;
+    }
+
     textarea {
       resize: none;
     }
@@ -154,5 +171,31 @@
 
   .special_hours {
     margin-top: 15px;
+  }
+
+  //medium screens.
+  @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
+    .names {
+      a{
+        font-size: 0.55rem;
+      }
+    }
+
+    .event {
+      font-size: 1.8rem;
+    }
+  }
+
+  //small screens.
+  @media only screen and (max-width: 40em) {
+    .mobile_down {
+      margin-top: 15px;
+    }
+
+    .names {
+      a{
+        font-size: 0.55rem;
+      }
+    }
   }
 }

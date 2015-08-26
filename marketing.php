@@ -22,6 +22,7 @@
 <script src="js/foundation/foundation.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
 <script src="js/foundation/foundation.accordion.js"></script>
+<script src="js/foundation/foundation.reveal.js"></script>
 </head>
 <body>
 <?php 
@@ -159,15 +160,16 @@
             determine what content is displayed at which Digital Signage location(s) and determine the duration,
             dates, and times content is displayed.</li>
           </ol>
+          <br>
 
           <ul class="button-group">
-              <li><a href="#" class="button">Register</a></li>
-              <li><a href="#" class="button">Login</a></li>
+              <li><a href="http://www.jotform.co/form/32485307654862" class="nested_button button">Register</a></li>
+              <li><a href="http://visix2" class="nested_button button">Login</a></li>
             </ul>
 
           <ul class="button-group">
-            <li><a href="#" class="button">Policies</a></li>
-            <li><a href="#" class="button">Help</a></li>
+            <li><a href="images/digital_signage_policy.pdf" class="nested_button button">Policies</a></li>
+            <li><a href="mailto:williamsje@rowan.edu" class="nested_button button">Help</a></li>
           </ul>
         </div>
       </li>
