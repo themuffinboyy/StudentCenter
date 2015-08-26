@@ -1,5 +1,9 @@
 #event_page {
   overflow: hidden; }
+  #event_page .row {
+    max-width: 1190px; }
+    #event_page .row.top {
+      margin-top: 15px; }
   #event_page .accordion a {
     padding: 0 0 0 5px;
     margin-bottom: 6px;
