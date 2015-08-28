@@ -101,14 +101,14 @@
 
       <div class="row no_top">
         <ul class="tabs" data-tab>
-          <li class="tab-title active"><a href="#panel1">Regular</a></li>
-          <li class="tab-title"><a href="#panel2">Special</a></li>
+          <li class="tab-title"><a href="#panel1">Regular</a></li>
+          <li class="tab-title active"><a href="#panel2">Special</a></li>
         </ul>
       </div>
 
       <div class="row no_top">
         <div class="tabs-content">
-          <div class="content active" id="panel1">
+          <div class="content" id="panel1">
             <ul class="tabs" data-tab>
               <li class="names tab-title fifth active"><a href="#panel1a">Building</a></li>
               <li class="names tab-title fourth"><a href="#panel1b">Info Desk</a></li>
@@ -140,7 +140,7 @@
             </div>
           </div>
 
-          <div class="content" id="panel2">
+          <div class="content active" id="panel2">
              <ul class="tabs" data-tab>
               <li class="names tab-title super active"><a href="#panel2a">Welcome Weekend</a></li>
               <li class="names tab-title fifth"><a href="#panel2b">Summer</a></li>
