@@ -24,6 +24,7 @@
 <script src="js/foundation/foundation.accordion.js"></script>
 </head>
 <body>
+  <?php include_once("analyticstracking.php") ?>
 <?php 
   include("header.html");
 ?>

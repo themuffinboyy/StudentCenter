@@ -24,6 +24,7 @@
 <script src="js/foundation/foundation.topbar.js"></script>
 </head>
 <body>
+  <?php include_once("analyticstracking.php") ?>
 
 <?php include("header.html"); ?>
   <section id="employment_page">
