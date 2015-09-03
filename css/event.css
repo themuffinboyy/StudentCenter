@@ -79,7 +79,29 @@
     padding: 0; }
     #event_page .accordion .live_link:hover {
       background-color: white; }
+  #event_page .subnav hr {
+    margin: .5rem 0 .5rem; }
+  #event_page .subnav .accordion {
+    border-color: black;
+    border-style: solid; }
   #event_page .subnav .accordion-navigation {
-    background-color: none; }
+    background-color: #f2f2f2;
+    color: black; }
+    #event_page .subnav .accordion-navigation:hover {
+      color: white; }
+  #event_page .subnav a {
+    background-color: #f2f2f2;
+    color: black;
+    padding-bottom: 0;
+    margin-bottom: 0; }
+    #event_page .subnav a:hover {
+      color: white; }
+  #event_page .subnav .content {
+    background-color: #f2f2f2; }
+    #event_page .subnav .content a {
+      background-color: #f2f2f2; }
+      #event_page .subnav .content a:hover {
+        text-decoration: underline;
+        color: black; }
 
 /*# sourceMappingURL=event.css.map */

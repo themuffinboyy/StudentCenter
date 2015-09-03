@@ -39,14 +39,29 @@
               <li class="accordion-navigation">
                 <a href="#panel16">Club and Organization Resources</a>
                 <div id="panel16" class="content">
-                  <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf">Rowan Recreation Center Equipment Checkout Form</a><br>
-                  <a href="https://rowan.collegiatelink.net/form/start/76062">SGA Fundraising Form</a><br>
-                  <a href="images/resources/who_to_contact.pdf">Who to Contact</a><br>
-                  <a href="images/resources/booking_speaker.pdf">Questions to Ask When Booking a Speaker</a><br>
-                  <a href="images/resources/planning_timeline.pdf">Event Planning Timeline</a><br>
-                  <a href="images/resources/event_evaluation.pdf">Event Evaluation Form</a><br>
-                  <a href="images/resources/event_budget.pdf">Event Budget Planning Worksheet</a><br>
+                  <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf">Sports Equipment Checkout</a><br><hr>
+                  <a href="https://rowan.collegiatelink.net/form/start/76062">SGA Fundraising</a><br><hr>
+                  <a href="images/resources/who_to_contact.pdf">Who to Contact</a><br><hr>
+                  <a href="images/resources/booking_speaker.pdf">Questions to Ask When Booking a Speaker</a><br><hr>
+                  <a href="images/resources/planning_timeline.pdf">Event Planning Timeline</a><br><hr>
+                  <a href="images/resources/event_evaluation.pdf">Event Evaluation</a><br><hr>
+                  <a href="images/resources/event_budget.pdf">Event Budget Planning Worksheet</a><br><hr>
                   <a href="images/resources/day_of_event.pdf">Day of Event Checklist</a><br>
+                </div>
+              </li>
+              <li class="accordion-navigation">
+                <a href="#panel17">Room Diagrams</a>
+                <div id="panel17" class="content">
+                  <a href="images/room_diagrams/127_diagram.pdf">Room 127</a><br><hr>
+                  <a href="images/room_diagrams/128_diagram.pdf">Room 128</a><br><hr>
+                  <a href="images/room_diagrams/129_diagram.pdf">Room 129</a><br><hr>
+                  <a href="images/room_diagrams/221_diagram.pdf">Room 221</a><br><hr>
+                  <a href="images/room_diagrams/221a_diagram.pdf">Room 221a</a><br><hr>
+                  <a href="images/room_diagrams/221b_diagram.pdf">Room 221b</a><br><hr>
+                  <a href="images/room_diagrams/221c_diagram.pdf">Room 221c</a><br><hr>
+                  <a href="images/room_diagrams/ballroom_diagram.pdf">Ballroom</a><br><hr>
+                  <a href="images/room_diagrams/patio_diagram.pdf">Patio</a><br><hr>
+                  <a href="images/room_diagrams/pit_diagram.pdf">Pit</a><br>
                 </div>
               </li>
             </ul>

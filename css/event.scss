@@ -149,8 +149,45 @@
 	}
 
 	.subnav {
+		hr {
+			margin: .5rem 0 .5rem;
+		}
+		.accordion {
+			border-color: black;
+			border-style: solid;
+		}
+
 		.accordion-navigation {
-			background-color: none;
+			background-color: #f2f2f2;
+			color: black;
+
+			&:hover {
+				color: white;
+			}
+		}
+
+		a {
+			background-color: #f2f2f2;
+			color: black;
+			padding-bottom: 0;
+			margin-bottom: 0;
+
+			&:hover {
+				color: white;
+			}
+		}
+
+		.content {
+			background-color: #f2f2f2;
+
+			a {
+				background-color: #f2f2f2;
+
+				&:hover {
+					text-decoration: underline;
+					color: black;
+				}
+			}
 		}
 	}
 }
