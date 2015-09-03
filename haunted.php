@@ -40,7 +40,7 @@
           <div class="label">About the Event</div>
 
           <div class="panel">
-            <p>The 13th Annual Haunted Student Center will take place on Friday, October 30th from 4pm-6pm throughout 
+            <p>The 13th Annual Haunted Student Center will take place on Friday, October 30th from 4:00pm-5:30pm throughout 
             the Chamberlain Student Center.  The Haunted Student Center is a free event that provides children, in 
             grades K-5, the opportunity to trick-or-treat room to room throughout the Chamberlain Student Center. 
             The event allows children and their parents to have a fun, safe and friendly environment to trick-or-treat in.
@@ -54,7 +54,7 @@
           <div class="panel">
             <p>This is event is made successful through the voluntary efforts of student clubs & organizations.
             Participating organizations will be responsible for decorating their assigned room or table from 
-            1pm-4pm and distributing candy to children from 4pm-6pm.<br>
+            1pm-4pm and distributing candy to children from 4:00pm-5:30pm.<br>
             *If your organization is assigned a room, candy will be provided for you to distribute to the children.
             If you are assigned a table, your organization must provide at least 10 bags of candy in order for you to 
             receive a service letter.  It is the responsibility of your organization to decorate the space that you are 

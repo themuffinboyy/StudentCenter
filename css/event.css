@@ -79,5 +79,7 @@
     padding: 0; }
     #event_page .accordion .live_link:hover {
       background-color: white; }
+  #event_page .subnav .accordion-navigation {
+    background-color: none; }
 
 /*# sourceMappingURL=event.css.map */

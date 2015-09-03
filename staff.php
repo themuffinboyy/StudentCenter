@@ -113,7 +113,7 @@
             <div class="large-10 medium-9 end columns">
             <p><strong>NaQuan Redd</strong><br>
             <em>Graduate Coordinator, Facilities</em><br>
-            <em>856-256-4605</em><br>
+            <em>856-256-5229</em><br>
             <em class="email"><a href="mailto:redd@rowan.edu">redd@rowan.edu</a></em></p>
           </div>
           </div>
@@ -127,7 +127,7 @@
             <div class="large-10 medium-9 end columns">
             <p><strong>Jeff Williams</strong><br>
             <em>Graduate Coordinator, Marketing & Special Events</em><br>
-            <em>856-256-4605</em><br>
+            <em>856-256-5230</em><br>
             <em class="email"><a href="mailto:williamsje@rowan.edu">williamsje@rowan.edu</a></em></p>
           </div>
           </div>

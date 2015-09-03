@@ -33,7 +33,7 @@
       <div class="panel">
         <h1> Plan an Event </h1><br>
         <div class="row">
-          <div class="large-3 columns">
+          <div class="subnav large-3 columns">
             <ul class="accordion" data-accordion>
               <a class="accordion-navigation" href="http://www.rowan.edu/25live">25Live</a>
               <li class="accordion-navigation">
