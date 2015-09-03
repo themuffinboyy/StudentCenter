@@ -164,6 +164,16 @@
 			&:hover {
 				color: white;
 			}
+
+			&:active {
+				color: white;
+			}
+		}
+
+		.minus {
+			display: none;
+			float: right;
+			margin-right: 5px;
 		}
 
 		a {
@@ -173,7 +183,21 @@
 			margin-bottom: 0;
 
 			&:hover {
+				background-color: #ffcf44;
 				color: white;
+			}
+
+			&[aria-expanded=true] {
+				color: white;
+				background-color: #ffcf44;
+
+				.minus {
+					display: initial;
+				}
+
+				.plus {
+					display: none;
+				}
 			}
 		}
 
@@ -190,4 +214,22 @@
 			}
 		}
 	}
+
+	.plus {
+		float: right;
+		margin-right: 5px;
+	}
+
+	hr {
+		&.no_space {
+			margin: 0;
+		}
+	}
+
+  //small and medium screens.
+  @media only screen and (max-width: 64em) {
+    .accordion {
+  		margin-bottom: 30px;
+  	}
+  }
 }

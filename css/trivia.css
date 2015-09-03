@@ -28,5 +28,8 @@
     width: 48%; }
   #trivia_page .large-7 {
     width: 66.2%; } }
+@media only screen and (max-width: 40em) {
+  #trivia_page img {
+    margin-bottom: 30px; } }
 
 /*# sourceMappingURL=trivia.css.map */
