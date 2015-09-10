@@ -102,9 +102,20 @@
   #homepage .event {
     font-size: 1.8rem; } }
 @media only screen and (max-width: 40em) {
+  #homepage .event {
+    font-size: 1.7rem;
+    padding-top: 1.9rem; }
+  #homepage .tabs .tab-title.fifth {
+    width: 20%; }
+  #homepage .tabs .tab-title.fourth {
+    width: 26%; }
+  #homepage .tabs .tab-title.big {
+    width: 28%; }
   #homepage .mobile_down {
     margin-top: 15px; }
   #homepage .names a {
-    font-size: 0.55rem; } }
+    font-size: 0.5rem; }
+  #homepage .help {
+    margin-bottom: 30px; } }
 
 /*# sourceMappingURL=index.css.map */

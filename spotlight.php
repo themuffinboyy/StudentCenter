@@ -80,9 +80,8 @@
         <div class="row nested">
           <div class="large-12 columns">
             <div class="panel center">
-              September 7th<br>
-              October 6th<br>
-              November 3rd<br>
+              October 5th<br>
+              November 2rd<br>
               
             </div>
           </div>

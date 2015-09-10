@@ -24,6 +24,12 @@
   height: 30px;
 }
 
+@media only screen and (max-width: 40em) {
+  #footer .rowan {
+    height: 24px;
+  }
+}
+
 /*CSS for the header*/
 .construction_mobile {
   text-align: center;

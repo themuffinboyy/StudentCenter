@@ -188,14 +188,37 @@
 
   //small screens.
   @media only screen and (max-width: 40em) {
+    .event {
+      font-size: 1.7rem;
+      padding-top: 1.9rem;
+    }
+
+    .tabs {
+      .tab-title.fifth {
+        width: 20%;
+      }
+
+      .tab-title.fourth {
+        width: 26%;
+      }
+
+      .tab-title.big {
+        width: 28%;
+      }
+    }
+
     .mobile_down {
       margin-top: 15px;
     }
 
     .names {
       a{
-        font-size: 0.55rem;
+        font-size: 0.5rem;
       }
+    }
+
+    .help {
+      margin-bottom: 30px;
     }
   }
 }

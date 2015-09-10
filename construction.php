@@ -34,6 +34,7 @@
       <div class="large-12 columns">
       	<div class="panel">
 	        <img src="images/construction.png">
+          <iframe src="https://docs.google.com/spreadsheets/d/1t-C4vIK7zcoBQUafcKR1BxQlsf6Jf1Glsbm3RyIuiFQ/pubhtml?widget=true&amp;headers=false"></iframe>
       	</div>
       </div>
     </div>
