@@ -39,7 +39,7 @@
               <li class="accordion-navigation">
                 <a href="#panel18">Reserve a Space <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel18" class="content">
-                  <a href="http://www.rowan.edu/25live">25Live</a><br><hr>
+                  <a href="http://www.rowan.edu/25live">Access 25Live</a><br><hr>
                   <a href="images/resources/25live_reference.pdf">25Live Reference Guide</a><br>
                 </div>
               </li>
