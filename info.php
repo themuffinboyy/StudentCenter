@@ -72,10 +72,12 @@
           students, families, faculty/staff, alumni, prospective students and visitors.  In addition, our staff 
           supplies travel directions to and from the campus and directions to the Chamberlain Student Center 
           facilities and other campus buildings.  The staff disburses maps and bus schedules, sells tickets 
-          for student organization events, schedules table reservations for the ground floor vending areas 
-          and maintains the University Lost & Found.  The Information desk also houses the RowanCard processing 
+          for student organization events and maintains the University Lost & Found.  The Information desk also houses the RowanCard processing 
           center for all students and employees.</p>
         </div>
+
+        <a href="http://rowan.edu/ph/" class="button">Rowan Directory</a>
+        <a href="https://www.rowan.edu/home/map/about/visiting-rowan-university/main-glassboro-campus" class="button">Campus Maps</a>
     	</div>
     </div>
 

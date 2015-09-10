@@ -68,10 +68,11 @@
 
     	<div class="large-8 medium-7 columns">
         <div class="panel">
-          <p>Prof's Place, located on the Ground Floor of CSC, offers a place to enjoy music, games, big screen 
-          TV’s and great food. Yella’s Deli serves up delicious and hearty sandwiches, made or grilled to order.
-          Yella's Deli featurs Thumann’s best deli meats, you can chose one of their signature sandwiches or create 
-          your own. Or check out Yella’s Grill for delicious cheese steaks and much more.</p>
+          <p>Located on the ground floor of the Chamberlain Student Center, Prof’s Place 
+          provides a location to enjoy music, television, billiards and great food. 
+          Profs Place offers students, faculty and staff their favorite breakfast, 
+          lunch, and dinner selections with two dining venues: Grill Nation and Jersey 
+          Mikes Subs.</p>
         </div>
     	</div>
     </div>
