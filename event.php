@@ -36,7 +36,13 @@
         <div class="row">
           <div class="subnav large-4 columns">
             <ul class="accordion" data-accordion>
-              <a class="accordion-navigation" href="http://www.rowan.edu/25live">25Live</a><hr class="no_space">
+              <li class="accordion-navigation">
+                <a href="#panel18">Reserve a Space <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
+                <div id="panel18" class="content">
+                  <a href="http://www.rowan.edu/25live">25Live</a><br><hr>
+                  <a href="images/resources/25live_reference.pdf">25Live Reference Guide</a><br>
+                </div>
+              </li>
               <li class="accordion-navigation">
                 <a href="#panel16">Club and Organization Forms <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel16" class="content">

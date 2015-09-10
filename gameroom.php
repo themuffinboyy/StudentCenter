@@ -41,18 +41,18 @@
         <div class="label">Hours of Operation</div>
 
         <ul class="tabs" data-tab>
-          <li class="tab-title"><a href="#panel1">Regular</a></li>
-          <li class="tab-title active"><a href="#panel2">Summer</a></li>
+          <li class="tab-title active"><a href="#panel1">Regular</a></li>
+          <li class="tab-title"><a href="#panel2">Summer</a></li>
           <li class="tab-title"><a href="#panel3">Winter</a></li>
         </ul>
 
         <div class="tabs-content">
-          <div class="content" id="panel1">
+          <div class="content active" id="panel1">
             <div class="panel">
               <?php include("_hours/gameroom_regular.html"); ?>
             </div>
           </div>
-          <div class="content active" id="panel2">
+          <div class="content" id="panel2">
             <div class="panel">
               <?php include("_hours/gameroom_summer.html"); ?>
             </div>
@@ -65,7 +65,35 @@
         </div>
       </div>
 
-    	<div class="large-8 medium-7 columns">
+      <div class="large-4 medium-5 columns">
+        <div class="label">Game List</div>
+
+        <ul class="tabs" data-tab>
+          <li class="tab-title active"><a href="#panel4">Playstation</a></li>
+          <li class="tab-title"><a href="#panel5">Xbox</a></li>
+          <li class="tab-title"><a href="#panel6">Wii</a></li>
+        </ul>
+
+        <div class="tabs-content">
+          <div class="content active" id="panel4">
+            <div class="panel game">
+              <?php include("_gamelist/sony.html"); ?>
+            </div>
+          </div>
+          <div class="content" id="panel5">
+            <div class="panel game">
+              <?php include("_gamelist/microsoft.html"); ?>
+            </div>
+          </div>
+          <div class="content" id="panel6">
+            <div class="panel game">
+              <?php include("_gamelist/nintendo.html"); ?>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    	<div class="large-4 medium-7 columns">
         <div class="panel">
           <p>The Food Court has a very rich history. In 1974, when CSC first opened its doors, the Food Court 
           was actually a game room. Years later it was transformed into the Food Court. In February 2011 the 

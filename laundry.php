@@ -68,9 +68,9 @@
     	<div class="large-8 medium-7 columns">
         <div class="panel">
           <p>CSC offers laundry facilities on the Ground Floor. The Laundry Room includes 10 washers, 10 dryers 
-          and Boro Bucks access to allow you to pay for your laundry.<br>
-          ***Please note that because CSC closes at 1am, the last load of laundry must be started by 11:30pm.<br>
-          ***Do not leave articles unattended as CSC does not assume responsibility for lost or stolen items.</p>
+          and Boro Bucks access to allow you to pay for your laundry.</p>
+          <p>- Please note that because CSC closes at 1am, the last load of laundry must be started by 11:30pm.</p>
+          <p>- Do not leave articles unattended as CSC does not assume responsibility for lost or stolen items.</p>
         </div>
     	</div>
     </div>
