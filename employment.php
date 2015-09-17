@@ -25,9 +25,9 @@
 </head>
   <body>
     <?php include_once("analyticstracking.php") ?>
-
+    <?php include_once("stattracking.php") ?>
+    <?php include("header.html") ?>
     <div id="employment_page">
-      <?php include("header.html"); ?>
       <div class="row">
         <div class="large-12 columns">
         	<div class="panel">

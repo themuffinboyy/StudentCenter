@@ -27,6 +27,7 @@
 </head>
 <body>
   <?php include_once("analyticstracking.php") ?>
+  <?php include_once("stattracking.php") ?>
   
 <?php include("header.html"); ?>
 
@@ -42,18 +43,18 @@
         <div class="label">Hours of Operation</div>
 
         <ul class="tabs" data-tab>
-          <li class="tab-title"><a href="#panel1">Regular</a></li>
-          <li class="tab-title active"><a href="#panel2">Summer</a></li>
+          <li class="tab-title active"><a href="#panel1">Regular</a></li>
+          <li class="tab-title"><a href="#panel2">Summer</a></li>
           <li class="tab-title"><a href="#panel3">Winter</a></li>
         </ul>
 
         <div class="tabs-content">
-          <div class="content" id="panel1">
+          <div class="content active" id="panel1">
             <div class="panel">
               <?php include("_hours/profs_regular.html"); ?>
             </div>
           </div>
-          <div class="content active" id="panel2">
+          <div class="content" id="panel2">
             <div class="panel">
               <?php include("_hours/profs_summer.html"); ?>
             </div>

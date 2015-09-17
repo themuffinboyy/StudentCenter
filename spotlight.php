@@ -27,6 +27,7 @@
 </head>
 <body>
 <?php include_once("analyticstracking.php") ?>
+<?php include_once("stattracking.php") ?>
 
 <?php 
   include("header.html");

@@ -33,6 +33,8 @@
   #gameroom_page .tabs-content {
     margin-bottom: 0; }
     #gameroom_page .tabs-content .content {
-      padding-bottom: 0; } }
+      padding-bottom: 0; }
+  #gameroom_page img {
+    height: inherit; } }
 
 /*# sourceMappingURL=gameroom.css.map */

@@ -27,6 +27,7 @@
 </head>
 <body>
 <?php include_once("analyticstracking.php") ?>
+<?php include_once("stattracking.php") ?>
 
 <?php 
   include("header.html");
@@ -143,7 +144,7 @@
             <p><strong>Amy Stehman</strong><br>
             <em>Event Specialist</em><br>
             <em>856-256-4605</em><br>
-            <em class="email"><a href="mailto:stehma46@rowan.edu">stehma46@rowan.edu</a></em></p>
+            <em class="email"><a href="mailto:studentcenterevents@rowan.edu">studentcenterevents@rowan.edu</a></em></p>
           </div>
           </div>
 

@@ -52,4 +52,11 @@
 			width: 100%;
 		}
 	}
+
+	//small screens.
+	@media only screen and (max-width: 40em) {
+		img {
+			height: inherit;
+		}
+	}
 }

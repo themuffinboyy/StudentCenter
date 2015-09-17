@@ -25,9 +25,8 @@
 </head>
 <body>
   <?php include_once("analyticstracking.php") ?>
-<?php 
-  include("header.html");
-?>
+  <?php include_once("stattracking.php") ?>
+  <?php include("header.html"); ?>
 <section id="event_page">
   <div class="row top">
     <div class="large-12 columns">
@@ -46,6 +45,7 @@
               <li class="accordion-navigation">
                 <a href="#panel16">Club and Organization Forms <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel16" class="content">
+                  <a href="https://docs.google.com/spreadsheets/d/12HZJcMNXq_zri_ttsrmTBC3WH_IXwbgw9D8BKgLz7UU/edit#gid=1420117037">Event Consultant List</a><br><hr>
                   <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf">Rec Center Equipment Checkout</a><br><hr>
                   <a href="https://rowan.collegiatelink.net/form/start/76062">SGA Fundraising</a><br><hr>
                   <a href="images/resources/who_to_contact.pdf">Who to Contact</a><br><hr>

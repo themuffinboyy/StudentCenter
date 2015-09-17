@@ -27,7 +27,8 @@
 </head>
 <body>
   <?php include_once("analyticstracking.php") ?>
-<?php include("header.html"); ?>
+  <?php include_once("stattracking.php") ?>
+  <?php include("header.html"); ?>
 
   <section id="gameroom_page">
     <div class="row gameroom_header">
@@ -37,7 +38,7 @@
     </div>
 
     <div class="row">
-      <div class="large-4 medium-5 columns">
+      <div class="large-4 medium-6 columns">
         <div class="label">Hours of Operation</div>
 
         <ul class="tabs" data-tab>
@@ -65,7 +66,7 @@
         </div>
       </div>
 
-      <div class="large-4 medium-5 columns">
+      <div class="large-4 medium-6 columns">
         <div class="label">Game List</div>
 
         <ul class="tabs" data-tab>
@@ -93,7 +94,7 @@
         </div>
       </div>
 
-    	<div class="large-4 medium-7 columns">
+    	<div class="large-4 medium-12 columns">
         <div class="panel">
           <p>The Food Court has a very rich history. In 1974, when CSC first opened its doors, the Food Court 
           was actually a game room. Years later it was transformed into the Food Court. In February 2011 the 

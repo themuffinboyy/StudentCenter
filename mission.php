@@ -27,6 +27,7 @@
 </head>
 <body>
   <?php include_once("analyticstracking.php") ?>
+  <?php include_once("stattracking.php") ?>
 
 <?php 
   include("header.html");
@@ -34,10 +35,11 @@
 <section id="mission_page">
     <div class="row mission_header">
       <div class="large-4 medium-4 logo columns">
-      	<img src="images/mission_logo.png">
+      	<img class="show-for-medium-up" src="images/mission_logo.png">
+        <img class="show-for-small-only" src="images/mobile/mission_logo.png">
       </div>
       <div class="large-8 medium-8 banner columns">
-        <img src="images/mission_banner.png">
+        <img class="banner" src="images/mission_banner.png">
       </div>
     </div>
 

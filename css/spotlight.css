@@ -36,6 +36,8 @@
     width: 31.33333%; } }
 @media only screen and (max-width: 40em) {
   #spotlight_page .logo {
-    margin-bottom: 15px; } }
+    margin-bottom: 15px; }
+  #spotlight_page img {
+    height: inherit; } }
 
 /*# sourceMappingURL=spotlight.css.map */

@@ -14,15 +14,12 @@
   margin-top: 0;
   padding: 0; }
 #homepage img {
-  width: 100%;
-  height: 415px; }
+  width: 100%; }
 #homepage .help {
   height: auto;
   width: 70%; }
 #homepage .place_center {
   text-align: center; }
-#homepage .logo {
-  height: 310px; }
 #homepage .label {
   font-size: 1.5em;
   line-height: 1.5;
@@ -101,6 +98,13 @@
     font-size: 0.55rem; }
   #homepage .event {
     font-size: 1.8rem; } }
+@media only screen and (min-width: 40.0625em) {
+  #homepage img {
+    height: 415px; }
+  #homepage .logo {
+    height: 310px; }
+  #homepage .extra_padding {
+    padding-right: 1.1375rem; } }
 @media only screen and (max-width: 40em) {
   #homepage .event {
     font-size: 1.7rem;

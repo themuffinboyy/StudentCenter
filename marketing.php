@@ -26,9 +26,9 @@
 </head>
 <body>
   <?php include_once("analyticstracking.php") ?>
-<?php 
-  include("header.html");
-?>
+  <?php include_once("stattracking.php") ?>
+  <?php include("header.html"); ?>
+  
 <section id="marketing_page">
 <div class="large-9 large-centered column">
   <div class="panel">

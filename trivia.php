@@ -27,16 +27,17 @@
 </head>
 <body>
 <?php include_once("analyticstracking.php") ?>
+<?php include_once("stattracking.php") ?>
 
 <?php 
   include("header.html");
 ?>
 <section id="trivia_page">
     <div class="row trivia_header">
-      <div class="large-4 medium-4 columns">
+      <div class="large-4 medium-4 extra_padding columns">
         <img src="images/trivia_logo.png">
       </div>
-      <div class="large-8 medium-7 columns">
+      <div class="large-8 medium-8 columns">
         <img src="images/trivia_page_banner.png">
       </div>
     </div>
@@ -46,11 +47,11 @@
         <div class="label">Meet Our Hosts</div>
 
         <div class="row nested">
-          <div class="large-6 columns">
+          <div class="large-6 medium-5 columns">
             <div class="panel"><strong>Coming Soon</strong>
             </div>
           </div>
-          <div class="large-6 columns">
+          <div class="large-6 medium-5 columns">
             <div class="panel"><strong>Coming Soon</strong>
             </div>
           </div>

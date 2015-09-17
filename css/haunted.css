@@ -30,5 +30,8 @@
   width: 50%; }
 #haunted_page .button-group a {
   width: 100%; }
+@media only screen and (max-width: 40em) {
+  #haunted_page img {
+    height: inherit; } }
 
 /*# sourceMappingURL=haunted.css.map */

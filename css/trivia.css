@@ -16,13 +16,13 @@
   font-size: 1.5em;
   line-height: 1.5;
   width: 100%; }
-#trivia_page .small-12 {
-  width: 100%; }
-@media only screen and (min-width: 40.0625em) {
+@media only screen and (min-width: 40.0625em) and (max-width: 64em) {
   #trivia_page .medium-12 {
-    width: 100%; } }
+    width: 100%; }
+  #trivia_page .extra_padding {
+    width: 31.8%; } }
 @media only screen and (min-width: 64.0625em) {
-  #trivia_page .large-4 {
+  #trivia_page .extra_padding {
     width: 31.8%; }
   #trivia_page .large-6 {
     width: 48%; }
@@ -30,6 +30,7 @@
     width: 66.2%; } }
 @media only screen and (max-width: 40em) {
   #trivia_page img {
-    margin-bottom: 30px; } }
+    margin-bottom: 30px;
+    height: inherit; } }
 
 /*# sourceMappingURL=trivia.css.map */

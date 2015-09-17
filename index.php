@@ -28,10 +28,8 @@
 </head>
 <body>
   <?php include_once("analyticstracking.php") ?>
-  
-<?php 
-  include("header.html");
-?>
+  <?php include_once("stattracking.php") ?>
+  <?php include("header.html"); ?>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -46,7 +44,8 @@
   <div class="row home_header">
     <div class="large-4 medium-4 small-12 columns">
       <div class="row no_top">
-        <img class="logo" src="images/csc_logo.png">
+        <img class="logo show-for-medium-up" src="images/csc_logo.png">
+        <img class="logo show-for-small-only" src="images/mobile/csc_logo.png">
 
         <div class="row nested">
           <a href="event.php" class="event button">PLAN AN EVENT</a>
@@ -172,7 +171,7 @@
       </div>      
     </div>
 
-    <div class="large-4 medium-4 small-12 columns">
+    <div class="large-4 medium-4 small-12 columns extra_padding">
       <div class="row no_top">
         <div class="label">Contact Us</div>
       </div>

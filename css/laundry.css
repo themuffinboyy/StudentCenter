@@ -30,6 +30,8 @@
   #laundry_page .tabs-content {
     margin-bottom: 0; }
     #laundry_page .tabs-content .content {
-      padding-bottom: 0; } }
+      padding-bottom: 0; }
+  #laundry_page img {
+    height: inherit; } }
 
 /*# sourceMappingURL=laundry.css.map */

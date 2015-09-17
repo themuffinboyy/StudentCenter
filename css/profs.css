@@ -30,6 +30,8 @@
   #profs_page .tabs-content {
     margin-bottom: 0; }
     #profs_page .tabs-content .content {
-      padding-bottom: 0; } }
+      padding-bottom: 0; }
+  #profs_page img {
+    height: inherit; } }
 
 /*# sourceMappingURL=profs.css.map */

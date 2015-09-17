@@ -33,6 +33,8 @@
     width: 63.66667%; } }
 @media only screen and (max-width: 40em) {
   #mission_page .logo {
-    margin-bottom: 15px; } }
+    margin-bottom: 15px; }
+  #mission_page img {
+    height: inherit; } }
 
 /*# sourceMappingURL=mission.css.map */
