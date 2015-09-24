@@ -33,14 +33,35 @@
         	<div class="panel">
             <h1>Frequently Asked Questions</h1>
             <strong>How do I apply additional funds to my RowanCard?</strong>
-            <p>Students cannot add Dining Dollars to their accounts, however, students, faculty, and staff can add money to their 'Boro Bucks account. To do so,you have the option of doing this on-line through Banner Self-Service if using financial aid credit, through your smart phone via the eAccounts app (in order to make a deposit from your smart phone, you must first do an initial deposit through the on-line system and save your payment method), in person at the Bursar's Office, by sending a check payment to the office (see below), or by going to <a href="myrowancard.rowan.edu">myrowancard.rowan.edu</a>.
-            The RowanCard Office accepts cash, checks or credit cards. Please mail 'Boro Bucks deposits to the address below. Be sure to include the students Rowan ID number in the memo section of the check.
-
-            Bursar’s Office
-            Savtiz Hall
-            201 Mullica Hill Road
+            <p>Students cannot add Dining Dollars to their accounts, however, students, faculty, and staff can add money to their 'Boro Bucks account. To do so,you have the option of doing this on-line through Banner Self-Service if using financial aid credit, through your smart phone via the eAccounts app (in order to make a deposit from your smart phone, you must first do an initial deposit through the on-line system and save your payment method), in person at the Bursar's Office, by sending a check payment to the office (see below), or by going to <a href="myrowancard.rowan.edu">myrowancard.rowan.edu</a>.</p>
+            <p>The RowanCard Office accepts cash, checks or credit cards. Please mail 'Boro Bucks deposits to the address below. Be sure to include the students Rowan ID number in the memo section of the check.</p>
+            <p>Bursar’s Office<br>
+            Savtiz Hall<br>
+            201 Mullica Hill Road<br>
             Glassboro, NJ  08028</p>
-            <p>
+
+            <strong>Can I let someone borrow my card?</strong>
+            <p>Rights and privileges associated with the card are non-transferable.  Students, faculty, and staff should not lend their cards to friends or give them any passwords associated with the card accounts.  You will be held accountable for all financial and business transactions conducted with their RowanCard.</p>
+            <p>Students, faculty, and staff should always carry their RowanCard with them as proof of who they are and their affiliation with the university.</p>
+
+            <strong>What if I find someone else's card?</strong>
+            <p>Found cards should be returned to the Student Center Information Desk, just outside of the MarketPlace, or call 856-256-GONE for further instructions.  Attempting to use a lost/stolen card, for any purpose, can be considered theft.</p>
+
+            <strong>What if I lose my card?</strong>
+            <p>You can freeze your RowanCard accounts on-line through the myrowancard site, from your smart phone via the eAccounts app or by calling 856-256-GONE to prevent unauthorized use of your card.</p>
+            <p>To replace a RowanCard, simply go to the Student Center Information Desk during normal business hours to have a card reprinted.  There is a student card replacement fee of $25. Contact the Bursar’s Office to reactivate accounts after receiving the new card.</p>
+
+            <strong>Who is eligible?</strong>
+            <p>The RowanCard is required for all Rowan students, faculty and staff as their identification card.</p>
+
+            <strong>If I'm on a meal plan can I still use the RowanCard?</strong>
+            <p>Absolutely! You can draw upon three accounts when using the RowanCard—the Meal Plan, Dining Dollars account and 'Boro Bucks account. Please be aware that Dining Dollars can only be used for food purchases on-campus and at seven Rowan Boulevard food locations. 'Boro Bucks can be used for food as well as any other purchase wherever the RowanCard is accepted.</p>
+
+            <strong>How do I open my 'Boro Bucks account?</strong>
+            <p>Every person who is issued a RowanCard also has the option of using his or her RowanCard 'Boro Bucks.  There is no need to “open” this account, simply make a deposit and then use your card at any of the participating merchants.  Not sure on how to make a deposit? Click here.</p>
+
+            <strong>How do I close my account?</strong>
+            <p>The funds in the 'Boro Bucks Account automatically roll over from one semester to the next.  Upon withdrawal from school or termination of employment, the RowanCard 'Boro Bucks account will be closed and a refund will be issued for balances over $10.00.  Graduating students with balances over $10.00 will receive a refund check during the summer months.</p>
         	</div>
         </div>
       </div>

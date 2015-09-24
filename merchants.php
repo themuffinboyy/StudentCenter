@@ -75,13 +75,13 @@
             <div class="large-4 columns">
               <ul class="side-nav">
                 <li><a href="rowancard.php">RowanCard Home</a></li>
-                <li><a href="#">Add funds via...</a></li>
-                <li><a href="#">Find your ISO...</a></li>
+                <li><a href="https://eacct-rowancard-sp.blackboard.com/eaccounts/AnonymousHome.aspx" target="_blank">Add funds via...</a></li>
+                <li><a href="https://id.rowan.edu/" target="_blank">Find your ISO number</a></li>
                 <li><a class="active" href="#">Where can I use my card?</a></li>
                 <li><a href="#">Meal plans/Dining dollars</a></li>
                 <li><a href="#">Boro bucks</a></li>
                 <li><a href="#">Contact us</a></li>
-                <li><a href="#">FAQs</a></li>
+                <li><a href="faqs.php">FAQs</a></li>
                 <li><a href="#">Sign up to be a merchant</a></li>
                 <li><a href="#">Account info</a></li>
               </ul>
