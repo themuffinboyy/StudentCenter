@@ -78,8 +78,8 @@
           center for all students and employees.</p>
         </div>
 
-        <a href="http://rowan.edu/ph/" class="button">Rowan Directory</a>
-        <a href="https://www.rowan.edu/home/map/about/visiting-rowan-university/main-glassboro-campus" class="button">Campus Maps</a>
+        <a href="http://rowan.edu/ph/" class="button" target="_blank">Rowan Directory</a>
+        <a href="https://www.rowan.edu/home/map/about/visiting-rowan-university/main-glassboro-campus" class="button" target="_blank">Campus Maps</a>
     	</div>
     </div>
 

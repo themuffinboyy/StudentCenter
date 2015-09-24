@@ -38,38 +38,43 @@
               <li class="accordion-navigation">
                 <a href="#panel18">Reserve a Space <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel18" class="content">
-                  <a href="http://www.rowan.edu/25live">Access 25Live</a><br><hr>
-                  <a href="images/resources/25live_reference.pdf">25Live Reference Guide</a><br>
+                  <a href="http://www.rowan.edu/25live" target="_blank">Access 25Live</a><br><hr>
+                  <a href="images/resources/25live_reference.pdf" target="_blank">25Live Reference Guide</a><br>
                 </div>
               </li>
               <li class="accordion-navigation">
                 <a href="#panel16">Club and Organization Forms <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel16" class="content">
-                  <a href="https://docs.google.com/spreadsheets/d/12HZJcMNXq_zri_ttsrmTBC3WH_IXwbgw9D8BKgLz7UU/edit#gid=1420117037">Event Consultant List</a><br><hr>
-                  <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf">Rec Center Equipment Checkout</a><br><hr>
-                  <a href="https://rowan.collegiatelink.net/form/start/76062">SGA Fundraising</a><br><hr>
-                  <a href="images/resources/who_to_contact.pdf">Who to Contact</a><br><hr>
-                  <a href="images/resources/booking_speaker.pdf">Questions to Ask When Booking a Speaker</a><br><hr>
-                  <a href="images/resources/planning_timeline.pdf">Event Planning Timeline</a><br><hr>
-                  <a href="images/resources/event_evaluation.pdf">Event Evaluation</a><br><hr>
-                  <a href="images/resources/event_budget.pdf">Event Budget Planning Worksheet</a><br><hr>
-                  <a href="images/resources/day_of_event.pdf">Day of Event Checklist</a><br>
+                  <a href="https://docs.google.com/spreadsheets/d/12HZJcMNXq_zri_ttsrmTBC3WH_IXwbgw9D8BKgLz7UU/edit#gid=1420117037" target="_blank">Event Consultant List</a><br><hr>
+                  <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf" target="_blank">Rec Center Equipment Checkout</a><br><hr>
+                  <a href="https://rowan.collegiatelink.net/form/start/76062" target="_blank">SGA Fundraising</a><br><hr>
+                  <a href="images/resources/who_to_contact.pdf" target="_blank">Who to Contact</a><br><hr>
+                  <a href="images/resources/booking_speaker.pdf" target="_blank">Questions to Ask When Booking a Speaker</a><br><hr>
+                  <a href="images/resources/planning_timeline.pdf" target="_blank">Event Planning Timeline</a><br><hr>
+                  <a href="images/resources/event_evaluation.pdf" target="_blank">Event Evaluation</a><br><hr>
+                  <a href="images/resources/event_budget.pdf" target="_blank">Event Budget Planning Worksheet</a><br><hr>
+                  <a href="images/resources/day_of_event.pdf" target="_blank">Day of Event Checklist</a><br>
                 </div>
               </li>
               <li class="accordion-navigation">
                 <a href="#panel17">Room Diagrams<span class="plus">+</span><span class="minus">-</span></a>
                 <div id="panel17" class="content">
-                  <a href="images/room_diagrams/127_diagram.pdf">Room 127</a><br><hr>
-                  <a href="images/room_diagrams/128_diagram.pdf">Room 128</a><br><hr>
-                  <a href="images/room_diagrams/129_diagram.pdf">Room 129</a><br><hr>
-                  <a href="images/room_diagrams/221_diagram.pdf">Room 221</a><br><hr>
-                  <a href="images/room_diagrams/221a_diagram.pdf">Room 221a</a><br><hr>
-                  <a href="images/room_diagrams/221b_diagram.pdf">Room 221b</a><br><hr>
-                  <a href="images/room_diagrams/221c_diagram.pdf">Room 221c</a><br><hr>
-                  <a href="images/room_diagrams/ballroom_diagram.pdf">Ballroom</a><br><hr>
-                  <a href="images/room_diagrams/patio_diagram.pdf">Patio</a><br><hr>
-                  <a href="images/room_diagrams/pit_diagram.pdf">Pit</a><br>
+                  <a href="images/room_diagrams/127_diagram.pdf" target="_blank">Room 127</a><br><hr>
+                  <a href="images/room_diagrams/128_diagram.pdf" target="_blank">Room 128</a><br><hr>
+                  <a href="images/room_diagrams/129_diagram.pdf" target="_blank">Room 129</a><br><hr>
+                  <a href="images/room_diagrams/144_diagram.pdf" target="_blank">Room 144</a><br><hr>
+                  <a href="images/room_diagrams/221_diagram.pdf" target="_blank">Room 221</a><br><hr>
+                  <a href="images/room_diagrams/221a_diagram.pdf" target="_blank">Room 221a</a><br><hr>
+                  <a href="images/room_diagrams/221b_diagram.pdf" target="_blank">Room 221b</a><br><hr>
+                  <a href="images/room_diagrams/221c_diagram.pdf" target="_blank">Room 221c</a><br><hr>
+                  <a href="images/room_diagrams/ballroom_diagram.pdf" target="_blank">Ballroom</a><br><hr>
+                  <a href="images/room_diagrams/patio_diagram.pdf" target="_blank">Patio</a><br><hr>
+                  <a href="images/room_diagrams/pit_diagram.pdf" target="_blank">Pit</a><br>
                 </div>
+              </li>
+              <li>
+                <p>Please submit room diagrams at least five (5) business days in advance of your event to CSC room 117a or email them to 
+                <a class="email" href="mailto:studentcenterevents@rowan.edu">studentcenterevents@rowan.edu</a></p>
               </li>
             </ul>
           </div>
@@ -84,7 +89,7 @@
               requests for use of any Student Center facility are made through 25 Live and confirmed by the Student
               Center Main Administrative office (Susan Chard at <em class="email"><a class="live_link" href="mailto:chards@rowan.edu">
               chards@rowan.edu</a></em> or x4602). Reservations, schedule of events and information regarding how to reserve a room can
-              be found at <a class="live_link" href="http://www.rowan.edu/25live">www.rowan.edu/25live</a> or a Student Center staff member can 
+              be found at <a class="live_link" href="http://www.rowan.edu/25live" target="_blank">www.rowan.edu/25live</a> or a Student Center staff member can 
               assist with questions.<p>
               <p>The Student Center Office Staff is trained to familiarize patrons with the facilities and services as well as
               provide assistance with event planning and logistics. In an effort to meet the needs of our diverse clientele,
@@ -102,7 +107,7 @@
                 <li>Login to 25Live will require your Rowan University username and password.
                 If you are having problems, please contact the Student Center Office and someone can assist you
                 with the process. For more information about 25Live, click on this
-                <a class="live_link"href="http://www.rowan.edu/ces/25live/index.cfm">link</a>. Please note that phone and email reservations will not
+                <a class="live_link"href="http://www.rowan.edu/ces/25live/index.cfm" target="_blank">link</a>. Please note that phone and email reservations will not
                 be accepted.</li>
                 <li>Space assignments are received and confirmed on a first come, first serve basis within the priority
                 categories (see Scheduling Priority). A confirmation will be emailed to the individual identified on

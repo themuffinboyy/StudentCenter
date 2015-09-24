@@ -40,7 +40,7 @@
           <hr>
           <div class="row">
             <div class="large-2 medium-3 columns">
-              <a class="th" href="./images/staff/Tina.jpg"><img src="./images/staff/Tina.jpg"></a>
+              <a class="th" href="./images/staff/Tina.jpg" target="_blank"><img src="./images/staff/Tina.jpg"></a>
             </div>
             <div class="large-10 medium-9 end columns">
               <p><strong>Tina Pinocci</strong><br>
@@ -54,7 +54,7 @@
 
           <div class="row">
             <div class="large-2 medium-3 columns">
-              <a class="th" href="./images/staff/Rio.jpg"><img src="./images/staff/Rio.jpg"></a>
+              <a class="th" href="./images/staff/Rio.jpg" target="_blank"><img src="./images/staff/Rio.jpg"></a>
             </div>
             <div class="large-10 medium-9 end columns">
               <p><strong>Rhiannon Napoli</strong><br>
@@ -68,7 +68,7 @@
 
           <div class="row">
             <div class="large-2 medium-3 columns">
-              <a class="th" href="./images/staff/Vinnie.jpg"><img src="./images/staff/Vinnie.jpg"></a>
+              <a class="th" href="./images/staff/Vinnie.jpg" target="_blank"><img src="./images/staff/Vinnie.jpg"></a>
             </div>
             <div class="large-10 medium-9 end columns">
               <p><strong>Vinnie Surace</strong><br>
@@ -82,7 +82,7 @@
             
            <div class="row">
             <div class="large-2 medium-3 columns">
-              <a class="th" href="./images/staff/Kait.jpg"><img src="./images/staff/Kait.jpg"></a>
+              <a class="th" href="./images/staff/Kait.jpg" target="_blank"><img src="./images/staff/Kait.jpg"></a>
             </div>
             <div class="large-10 medium-9 end columns">
               <p><strong>Kaitlin Shaginaw</strong><br>
@@ -96,7 +96,7 @@
             
           <div class="row">
             <div class="large-2 medium-3 columns">
-              <a class="th" href="./images/staff/Susan.png"><img src="./images/staff/Susan.png"></a>
+              <a class="th" href="./images/staff/Susan.png" target="_blank"><img src="./images/staff/Susan.png"></a>
             </div>
             <div class="large-10 medium-9 end columns">
               <p><strong>Susan Chard</strong><br>
@@ -110,7 +110,7 @@
             
            <div class="row">
               <div class="large-2 medium-3 columns">
-            <a class="th" href="./images/staff/NaQuan.jpg"><img src="./images/staff/NaQuan.jpg"></a>
+            <a class="th" href="./images/staff/NaQuan.jpg" target="_blank"><img src="./images/staff/NaQuan.jpg"></a>
           </div>
             <div class="large-10 medium-9 end columns">
             <p><strong>NaQuan Redd</strong><br>
@@ -124,7 +124,7 @@
 
           <div class="row">
               <div class="large-2 medium-3 columns">
-            <a class="th" href="./images/staff/Jeff.jpg"><img src="./images/staff/Jeff.jpg"></a>
+            <a class="th" href="./images/staff/Jeff.jpg" target="_blank"><img src="./images/staff/Jeff.jpg"></a>
           </div>
             <div class="large-10 medium-9 end columns">
             <p><strong>Jeff Williams</strong><br>
@@ -138,7 +138,7 @@
 
           <div class="row">
               <div class="large-2 medium-3 columns">
-            <a class="th" href="./images/staff/Amy.png"><img src="./images/staff/Amy.png"></a>
+            <a class="th" href="./images/staff/Amy.png" target="_blank"><img src="./images/staff/Amy.png"></a>
           </div>
             <div class="large-10 medium-9 end columns">
             <p><strong>Amy Stehman</strong><br>
@@ -152,7 +152,7 @@
 
           <div class="row" style="text-align: center;">
             <div class="large-12 columns">
-              <a href="./images/staff/Group.jpg"><img style="width: 450px;" src="./images/staff/Group.jpg"></a>
+              <a href="./images/staff/Group.jpg" target="_blank"><img style="width: 450px;" src="./images/staff/Group.jpg"></a>
             </div>
           </div>
         </div>

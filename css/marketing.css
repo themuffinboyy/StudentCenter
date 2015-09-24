@@ -12,6 +12,12 @@
       background-color: #5A180A; }
       #marketing_page .accordion a.nested_button:hover {
         background-color: #800517; }
+    #marketing_page .accordion a.live_link {
+      color: #008CBA;
+      background-color: white;
+      font-size: 1rem; }
+      #marketing_page .accordion a.live_link:hover {
+        color: #0078A0; }
   #marketing_page .accordion .content {
     margin-bottom: 6px; }
   #marketing_page .accordion ul {

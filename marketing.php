@@ -142,7 +142,7 @@
           <ol>
             <li>Only registered student organizations, and campus departments/offices, are permitted to display
             content on the Digital Signage System. Use of the Digital Signage System is at no cost. Email
-            studentcenter@rowan.edu to register for an account.</li>
+            <a class="live_link" href="mailto:studentcenter@rowan.edu">studentcenter@rowan.edu</a> to register for an account.</li>
             <li>The creation of content for display on the Digital Signage System is the responsibility of the group
             presenting the information to the campus community.</li>
             <li>Content must be submitted electronically a minimum of five (5) business days prior to the first date
@@ -164,13 +164,13 @@
           <br>
 
           <ul class="button-group">
-              <li><a href="http://www.jotform.co/form/32485307654862" class="nested_button button">Register</a></li>
-              <li><a href="http://visix2" class="nested_button button">Login</a></li>
+              <li><a href="http://www.jotform.co/form/32485307654862" class="nested_button button" target="_blank">Register</a></li>
+              <li><a href="http://visix2" class="nested_button button" target="_blank">Login</a></li>
             </ul>
 
           <ul class="button-group">
-            <li><a href="images/digital_signage_policy.pdf" class="nested_button button">Policies</a></li>
-            <li><a href="mailto:williamsje@rowan.edu" class="nested_button button">Help</a></li>
+            <li><a href="images/digital_signage_policy.pdf" class="nested_button button" target="_blank">Policies</a></li>
+            <li><a href="mailto:williamsje@rowan.edu" class="nested_button button" target="_blank">Help</a></li>
           </ul>
         </div>
       </li>
@@ -209,7 +209,7 @@
           <strong>Free Speech and Peaceful Assembly Policy</strong>
           <p>The entire Free Speech and Peaceful Assembly policy can be found in the Rowan Student Handbook and
           Employee handbook. The full policy and demonstration request form can be found at
-          www.rowan.edu/freespeechpolicy. This policy complies with all applicable federal constitutional and State
+          <a class="live_link" href="//www.rowan.edu/freespeechpolicy" target="_blank">www.rowan.edu/freespeechpolicy</a>. This policy complies with all applicable federal constitutional and State
           laws. Please refer to this policy for additional details.</p>
 
           <p>Note: The Chamberlain Student Center staff can assist you with planning a successful demonstration or

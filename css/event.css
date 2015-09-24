@@ -10,6 +10,9 @@
     background-color: darkgray;
     color: white;
     font-size: 1.4rem; }
+    #event_page .accordion a.email {
+      font-size: 1rem;
+      color: #008CBA; }
     #event_page .accordion a:hover, #event_page .accordion a[aria-expanded=true] {
       background-color: #3B3131; }
   #event_page .accordion .content {
@@ -75,9 +78,9 @@
     background-color: white;
     color: #008CBA;
     font-size: 15px;
-    text-decoration: underline;
     padding: 0; }
     #event_page .accordion .live_link:hover {
+      color: #0078A0;
       background-color: white; }
   #event_page .subnav hr {
     margin: .5rem 0 .5rem; }
@@ -100,6 +103,9 @@
     #event_page .subnav a:hover {
       background-color: #ffcf44;
       color: white; }
+      #event_page .subnav a:hover.email {
+        background-color: #f2f2f2;
+        color: #0078A0; }
     #event_page .subnav a[aria-expanded=true] {
       color: white;
       background-color: #ffcf44; }
