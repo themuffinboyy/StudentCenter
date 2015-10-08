@@ -1,0 +1,165 @@
+<?xml version='1.0' standalone='yes'?>
+<rowancard>
+  <oncampus name="Bunce Hall">
+    <polygons levels="PCCGBBGDBCEDBBDCADCACIEEDDDDDDIDBCEDBBDG@BBGCCGP" location="Bunce Hall" points="kijqFt}niMXL?DZNHc@A?FYJF@A@@?EDB?B@@A@D@?A@AB@?@?@FDGVGCQr@FBGVECQr@FDGVQIA@AA?DEC?CAA@AMEDO@G@?Jc@[MADYOTeA" />
+	<types>
+      <Services name="Printing Services" dd="0" href="http://www.rowan.edu/toolbox/computer_labs/Uniprint/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Bookstore">
+    <polygons levels="PEEEEGIDDCCFFBBDDHFEEFDDP" location="Bookstore" points="cojqFjjniMYKBMUKDM[OLq@LF@CFB?BDBBOTH??ZLABLFI`@OIEPKEERJDER" />
+    <types>
+      <Services name="Barnes and Noble Book Store" dd="0" href="http://rowanbookstore.bncollege.com/" mp="0" />
+    </types>
+  </oncampus>
+  <oncampus name="Campbell Library">
+    <polygons levels="P@@B@@D@@B@@CEEBBCCHFCCECDDFFDHDCCDHDCFDEP" location="Campbell Library" points="qvjqF`uniM?C?E?C?E@C?C@E@C@C@ABC@CDOIA@GC?BQ@??E`@FAFB?CPAA?FKC?D`Br@CPD@Op@CAABAAALwAo@?@KA@COGDO" />
+    <types>
+      <Services name="Circulation Desk" dd="0" href="http://www.lib.rowan.edu/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Chamberlain Student Center">
+    <polygons levels="PCCGCCGDDHEEIDDEDHEFFCCFBBP" location="Chamberlain Student Center" points="cqjqFlqniM}@_@?@QIF]DBDWm@WADGCTeALFTiAFBAF\N@Et@\CFKEWhAPH@ETJGVA?YnA" />
+    <types>
+      <Dining name="Prof&apos;s Place" dd="1" href="http://www.rowan.edu/studentaffairs/studentcenter/services/gameroom.html" mp="1" />
+      <Dining name="Rowan Marketplace" dd="1" href="http://rowandining.com/locations.html" mp="1" />
+      <Dining name="The Press" dd="1" href="http://rowandining.com/locations.html" mp="1" />
+      <Dining name="The Market Basket" dd="1" href="http://rowandining.com/locations.html" mp="1" />
+      <Dining name="Jazzman&apos;s" dd="1" href="http://rowandining.com/locations.html" mp="1" />
+      <Dining name="Owls Nest" dd="1" href="http://rowandining.com/locations.html" mp="1" />
+      <Laundry dd="0" href="http://www.rowan.edu/studentaffairs/studentcenter/services/laundryroom.html" mp="0" />
+      <Services name="Mailroom" dd="0" href="http://www.rowan.edu/adminfinance/mailroom/" mp="0" />
+      <Services name="Information Desk" dd="0" href="http://www.rowan.edu/studentaffairs/studentcenter/services/infodesk.html" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Chestnut Hall">
+    <polygons levels="PHDDDDIHDDBBHFBBCDCCFDCBDCACCHHCCEECCEGDCBDCBCCGCCDDBBFGBBDDP" location="Chestnut Hall" points="cyjqFnxmiMq@eADGCCpBkCBBDGp@dAEFBBa@h@?AEFKODG??BEACBE@BNSEIABCC?@KQ??AC@CEGe@l@?@ABBDORCECB?Ae@l@DHBC@B??LNA?BBCBFFNQACBE@BDG?@DEJLEF?@_@h@CEGF" />
+    <types>
+      <Laundry dd="0" href="http://www.rowan.edu/studentaffairs/reslife/reshalls/index.html" mp="0" />
+    </types>
+  </oncampus>
+  <oncampus name="Education Hall">
+    <polygons levels="PEDDEHDDCCIEEFEHP" location="Education Hall" points="udkqFd{niMg@UAJGCCH]Ox@{DBBBMCADW^RBMDBCLd@X{@`E" />
+    <types>
+      <Dining name="Pronto Express" dd="1" href="http://rowandining.com/locations.html" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Linden Hall">
+    <polygons levels="PGBBCCAACBBBCCIHFGFFFFDDP" location="Linden Hall" points="ujjqFrpniM^NIZ??CJ?@GV@?CLA?EVAACL@@IXs@[FY^NHa@[ODS\NHc@KEHY" />
+    <types>
+      <Services name="Health Center" dd="0" href="http://www.rowan.edu/open/studentaffairs2/healthcenter/" mp="0" />
+    </types>
+  </oncampus>
+  <oncampus name="Memorial Hall">
+    <polygons levels="PBBCCCCFDEFGFAAFGDDHCCDDDBGDECCCCHCCECEEBBHCCCCBBAAHDDFCCFGAAGGECP" location="Memorial Hall" points="snjqFvyniMBMA?@I@?Je@AA@E@@DMNHF[XLGX??I^PHPu@B@H]XL?Bb@P@EDB??TJADFBCN@@CJAAENMGABKE@CMGBO_@O?@GCADAA?DB@Mf@??EJ@@ERKEAFIE@ECADUSII^@?GZw@]DSJD@A" />
+    <types>
+      <Services name="Duplicating" dd="0" href="http://www.rowan.edu/printcenter" mp="0" />
+    </types>
+  </oncampus>
+  <oncampus name="Mimosa Hall">
+    <polygons levels="PFFGEEHFGDDGP" location="Mimosa Hall" points="{yjqFjiniMV@Ap@h@@?VH?CjBW?BqASA?Da@ABiB" />
+    <types>
+	  <Services name="Printing Services" dd="0" href="http://www.rowan.edu/toolbox/computer_labs/Uniprint/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Rec Center/Gym">
+    <polygons levels="PEEEEHDDCEEJCCFEICCGEGGP" location="Rec Center/Gym" points="y~jqFjwniMWK@KKGCJk@Wh@eCC?FYAELE\}At@ZA@VJH^\LK`@B@_@bBIEOl@c@QS~@" />
+    <types>
+      <Dining name="Juice Bar" dd="1" href="http://www.rowan.edu/studentaffairs/rec/reccafe.cfm" mp="0" />
+      <Services name="Rec Center" dd="0" href="http://www.rowan.edu/studentaffairs/rec/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Robinson Hall">
+    <polygons levels="PBBBBBBBBBBBBBBCCIHCCBCCBCCCBCCCBDDHP" location="Robinson Hall" points="w_kqFf~niMNq@AA?A@@BKAA@A@@@M???A@?BKA??AB@Ns@`Ab@Op@@@?@A?CJ@??@A?CJ@?A@A?CJB@A@CAOp@aAc@" />
+    <types>
+      <Dining name="Cafe A La Cart" dd="1" href="http://rowandining.com/locations.html" mp="0" />
+	  <Services name="Printing Services" dd="0" href="http://www.rowan.edu/toolbox/computer_labs/Uniprint/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Rowan Hall">
+    <polygons levels="PBFBGEEHGEDDEG@BA@D@@C@@HEEDDEDDHEDGEE@@C@AP" location="Rowan Hall" points="}fkqFdjoiMQEA?@@cAnAOUGHEC~@kAGKEFCCC@WKDEBCBE@EBGBE@G@E@G?G@GPBAPFB@GDBDBAD~Ar@IZNFAFYGCFCAECGCECGCGA" />
+    <types>
+	  <Services name="Printing Services" dd="0" href="http://www.rowan.edu/toolbox/computer_labs/Uniprint/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Savitz Hall">
+    <polygons levels="PHCCEEIDDHP" location="Savitz Hall" points="awjqFxvniMjAh@Ml@CACNNLIPKKCFgAe@Z{A" />
+    <types>
+      <Services name="Bursar&apos;s Office" dd="0" href="http://www.rowan.edu/adminfinance/bursar/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Science Hall">
+    <polygons levels="PFAAHBBHBBCCCCIHGBBGD@A@C@B@@E@@B@D@AB@EP" location="Science Hall" points="{xjqFp}niMUKAa@A?A_@NF??pAj@GX??i@bCCAADB@GT_Bs@Pu@LF?AZNBKA?AA?AAA?AAC?A?A@A?C@A?A@A@?@A@?@?@?@@Jc@" />
+    <types>
+	  <Services name="Printing Services" dd="0" href="http://www.rowan.edu/toolbox/computer_labs/Uniprint/" mp="0" />
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Townhouses">
+    <polygons levels="PCCCCEBDDCCGCCFCCDDBECCDDFEP" location="Townhouses" points="mojqFfmoiMBECCFMCCBG??BEB@FMB@BEFD@CFFEJAAGLCACF?ACFB@GN@@GNOOBG" />
+    <polygons levels="PDDDEAACCAAGFDDBEDDFP" location="Townhouses" points="mrjqF`ooiMB?CMLEAEFA??DA@BDA?@DCDXKDAEE@??E@?DOFCM" />
+    <polygons levels="PBBCCGGCCGP" location="Townhouses" points="yrjqFbioiMDOC?BG@?BMn@XI`@CA?Bm@W" />
+    <polygons levels="PAACCEBDDGEAACCFP" location="Townhouses" points="}sjqFhfoiM@GA?DQCA@G??BGHB?CHDCJ??CFD@GXQI" />
+    <polygons levels="PDDDEAACCAAGFDDBEDDFP" location="Townhouses" points="etjqFxooiMB?CMLEAEFA??DA@BDA?@DCFXMBACE@??E@@DQFCM" />
+    <polygons levels="PFDDAAEDFCCFDDEBCCAAP" location="Townhouses" points="qtjqFrgoiMFYJF?BDB?@D@@ENFCLCACJKEADGC@?GC@CEC?AEA" />
+    <polygons levels="PAACCDEAADDGCCFDDAAEDCCFP" location="Townhouses" points="cujqFnjoiMDCA?DEACJIAEDC??DC@BJGDJBCBJMJACEBA?CB@DKF@DKFIU" />
+    <polygons levels="PCCCCGFAACCDEAACCFDDCCFCCCCBP" location="Townhouses" points="aujqFteoiMBGEADOCADQPHAF??AHB@END@CH?ACFCACPCAAFIEADIEBMB@DOB@@G??" />
+    <polygons levels="PCCDEAADDGCCFDDAAEDDFEP" location="Townhouses" points="sujqFdsoiMDCACLEAEFC?@DA@BLE@LBABJQFACE@?AEB@DMD@BGBEY" />
+    <polygons levels="PFCCDGAACCECCHCCAAEDCCP" location="Townhouses" points="wujqFxooiMRG@HBABNDA@HA?@FC@DPIB?BIBEUBAAG@?AGE@CQC@AI" />
+    <polygons levels="PCCCCFGCCDEAADDGDDCCGCCDDBP" location="Townhouses" points="eujqF~moiMDCAEJE?CDCFXGB@BMD@DEB?AGB?EMDAEEBCMC@AKHE@DJE@BDA@@" />
+    <polygons levels="PCCCCFFCCDFAACCEDDDGECCCCBP" location="Townhouses" points="{ujqFlhoiM@GECDOCABGRHCFB@ENDBCF??CFAAENCAAHIEABICBMB@DOB@@I@@" />
+    <polygons levels="PDDAAFDDDCCDCCGCCAAEDDDGEAADP" location="Townhouses" points="kvjqFhjoiMJF@EDD??DDABDBCJ@@AD@??BAAABIE@EEC??EEADKGABKIHUBB@?DB@C" />
+    <polygons levels="PDDCCGCCAADDCCGFCCDDAAP" location="Townhouses" points="awjqFrpoiMB@?IH@?EJ@ALC??HAA?HB??PB?AHSA?IC?@QEA@G??@I" />
+    <polygons levels="PCCDEAADDGDDCCGDDDDBECCCCGP" location="Townhouses" points="{wjqF|soiMFCACLEAEDC@@DC@DJE@DDCBLBA@JIDAEKDACE@?AEB?DKD?BEBGY" />
+    <polygons levels="PCDEDAAEDDDGCCCCGDDDDAAFDDDCBBP" location="Townhouses" points="_xjqF`noiM@?@CHDABFBA?FB?ELD@CDBABB@ABAAENEAABKEADGC?AEA@EECBKCA@CAA?A" />
+    <polygons levels="PCCCCFFCCDFAACCEDDDGECCCCBP" location="Townhouses" points="kxjqFvpoiM@GCABQCABGRHCFB@CNBBAFA?AFCAENAACHIE?BICBMB@BOB@@I@@" />
+    <polygons levels="PECFCCAAEDDDGECCAAEDCCP" location="Townhouses" points="iyjqFtroiMT@AFB??PD??HA??HCA?RIAADI??WB?@I???GC??QC??I" />
+    <types>
+      <Laundry dd="0" href="http://www.rowan.edu/studentaffairs/reslife/apt/" mp="0" />
+    </types>
+  </oncampus>
+  <oncampus name="Triad">
+    <polygons levels="PGFFIGHGGP" location="Triad" points="wbkqFv|oiMT\s@~@LrA_@HMuA_AWHg@~@Xr@_A" />
+    <types>
+      <Laundry dd="0" href="http://www.rowan.edu/studentaffairs/reslife/apt/" mp="0" />
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+  <oncampus name="Wilson Hall">
+	<polygons location="Wilson Hall" levels="PAAA@@@@@@B@@@@@E@@@@@BAAA@BAD@@@@C@@@@@C@@@@@@@B@@@@DA@@@@A@@@E@B@@@@A@A@@@@P" points="uekqF`doiMZ{AJDBK@IE@AOBA?MB??IBABG@BFEPCL?@B?FFHBNB??JEZGHIG@BKNNFI`@DB@CJB?Av@ZDQAAABGCBUPw@B?@GD@?BB@@EH@?CDB?BDDADJ@O`AKTEA@CCAENFBEVB@AFC?GVq@YA@e@Q@EQGCHE@OIAEMGCBYQ" />
+	<types>
+	  <Services name="Printing Services" dd="0" href="http://www.rowan.edu/toolbox/computer_labs/Uniprint/" mp="0" />
+	</types>
+  </oncampus>
+  <oncampus name="Bozorth Hall">
+	<polygons location="Bozorth Hall" levels="P@BCB@AA@@A@@@AAC@@CE@@CAAABA@D@@C@@@@CAAA@AB@P" points="kkjqFzboiM@ATJOp@OIGBDNQHAAA??GKDB@?HSHAIMDBLFCTbAc@TWgAFAIYGCEP[MAHUKBMECLi@DBDWNFENb@PAFJFPICKRI?GGGNOVIVB" />
+	<types>
+	  <Services name="Printing Services" dd="0" href="http://www.rowan.edu/toolbox/computer_labs/Uniprint/" mp="0" />
+	</types>
+  </oncampus>
+
+  <oncampus name="West Campus Tech Center">
+    <polygons levels="PGHGFFFFP" location="West Campus Tech Center" points="ewlqFf~siMi@Wf@eCn@Va@`BTJEPUKEP" />
+    <types>
+      <Amenities>Soda Vending</Amenities>
+      <Amenities>Snack Vending</Amenities>
+    </types>
+  </oncampus>
+</rowancard>

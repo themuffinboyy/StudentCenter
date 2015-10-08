@@ -55,7 +55,7 @@
           <div class="label">Register your Organization</div>
 
           <div class="panel">
-            <p>This is event is made successful through the voluntary efforts of student clubs & organizations.
+            <p>This is event is made successful through the voluntary efforts of Rowan student clubs & organizations.
             Participating organizations will be responsible for decorating their assigned room or table from 
             1pm-4pm and distributing candy to children from 4:00pm-5:30pm.<br>
             *If your organization is assigned a room, candy will be provided for you to distribute to the children.

@@ -59,6 +59,8 @@
               <li class="accordion-navigation">
                 <a href="#panel17">Room Diagrams<span class="plus">+</span><span class="minus">-</span></a>
                 <div id="panel17" class="content">
+                  <p>Please submit room diagrams at least five (5) business days in advance of your event to CSC room 117a or email them to 
+                <a class="email" href="mailto:studentcenterevents@rowan.edu">studentcenterevents@rowan.edu</a></p>
                   <a href="images/room_diagrams/127_diagram.pdf" target="_blank">Room 127</a><br><hr>
                   <a href="images/room_diagrams/128_diagram.pdf" target="_blank">Room 128</a><br><hr>
                   <a href="images/room_diagrams/129_diagram.pdf" target="_blank">Room 129</a><br><hr>
@@ -71,10 +73,6 @@
                   <a href="images/room_diagrams/patio_diagram.pdf" target="_blank">Patio</a><br><hr>
                   <a href="images/room_diagrams/pit_diagram.pdf" target="_blank">Pit</a><br>
                 </div>
-              </li>
-              <li>
-                <p>Please submit room diagrams at least five (5) business days in advance of your event to CSC room 117a or email them to 
-                <a class="email" href="mailto:studentcenterevents@rowan.edu">studentcenterevents@rowan.edu</a></p>
               </li>
             </ul>
           </div>

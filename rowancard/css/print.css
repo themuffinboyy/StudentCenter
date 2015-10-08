@@ -1,0 +1,102 @@
+/* CSS Document 
+Rowan Brown:330000
+Rowan Yellow:FFCC00
+*/
+
+	
+#page {
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:0px;
+	background-color: #FFFFFF;
+	}
+
+#header {
+	display: none;
+	}
+
+#search {
+	display: none;
+	}
+
+#printHeader {
+/* For print only */
+	display: block;
+	margin-bottom: 20px;
+	}
+	
+#banner {
+	display: none;	
+	}
+	
+#topImage {
+	display: none;	
+	}	
+
+a.bannerLinks{ color: #FFFFFF; text-decoration: none;} 
+a.bannerLinks:visited{ color: #FFFFFF; text-decoration: none; } 
+a.bannerLinks:hover{ color: #FFCC00; text-decoration: underline}
+	
+
+
+
+#navigation {
+display: none;
+	}
+
+
+
+#contentBody {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	
+	}
+
+#footer {
+	margin-top:20px;
+	border-top: 1px solid black;
+	padding: 5px 0px;
+	clear:both;
+	background-color: #FFFFFF;
+	}
+
+#footerImage {
+	float: left;
+	width: 200px;
+	}	
+
+#footerText{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	text-align:left;
+	margin-left: 220px;
+	}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight: bold;
+	color: #330000;
+	}
+
+.subTitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight: bold;
+	color: #000000;
+	}
+
+.bodyText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+p 	{
+	margin-top:0px;
+	}
+
+	
+a{ color: #000099; text-decoration: none;} 
+a:visited{ color: #0000FF; text-decoration: underline; } 
+a:hover{ color: #000000; text-decoration: underline}
