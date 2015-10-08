@@ -34,7 +34,7 @@
   <section id="profs_page">
     <div class="row profs_header">
       <div class="large-12 columns">
-      	<img src="images/profs_header.jpg">
+      	<img src="images/profs/profs_header.jpg">
       </div>
     </div>
 

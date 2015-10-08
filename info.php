@@ -33,7 +33,7 @@
   <section id="info_page">
     <div class="row info_header">
       <div class="large-12 columns">
-      	<img class="show-for-medium-up" src="images/info_header.jpg">
+      	<img class="show-for-medium-up" src="images/infodesk/info_header.jpg">
         <img class="show-for-small-only" src="images/mobile/info_header.png">
       </div>
     </div>

@@ -33,7 +33,7 @@
   <section id="gameroom_page">
     <div class="row gameroom_header">
       <div class="large-12 columns">
-      	<img src="images/gameroom_header.jpg">
+      	<img src="images/gameroom/gameroom_header.jpg">
       </div>
     </div>
 
