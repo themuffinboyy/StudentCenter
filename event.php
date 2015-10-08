@@ -38,23 +38,23 @@
               <li class="accordion-navigation">
                 <a href="#panel18">Reserve a Space <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel18" class="content">
-                  <a href="http://www.rowan.edu/25live" target="_blank">Access 25Live</a><br><hr>
-                  <a href="images/resources/25live_reference.pdf" target="_blank">25Live Reference Guide</a><br>
+                  <a href="images/resources/25live_reference.pdf" target="_blank">25Live Reference Guide</a><br><hr>
+                  <a href="http://www.rowan.edu/25live" target="_blank">Access 25Live</a><br>
                 </div>
               </li>
               <li class="accordion-navigation">
                 <a href="#panel16">Club and Organization Forms <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel16" class="content">
-                  <a href="http://rowan.e-cater.com/default.php">Gourmet Dining Catering</a><br><hr>
+                  <a href="images/resources/day_of_event.pdf" target="_blank">Day of Event Checklist</a><br><hr>
+                  <a href="images/resources/event_budget.pdf" target="_blank">Event Budget Planning Worksheet</a><br><hr>
                   <a href="https://docs.google.com/spreadsheets/d/12HZJcMNXq_zri_ttsrmTBC3WH_IXwbgw9D8BKgLz7UU/edit#gid=1420117037" target="_blank">Event Consultant List</a><br><hr>
+                  <a href="images/resources/event_evaluation.pdf" target="_blank">Event Evaluation</a><br><hr>
+                  <a href="images/resources/planning_timeline.pdf" target="_blank">Event Planning Timeline</a><br><hr>
+                  <a href="http://rowan.e-cater.com/default.php">Gourmet Dining Catering</a><br><hr>
+                  <a href="images/resources/booking_speaker.pdf" target="_blank">Questions to Ask When Booking a Speaker</a><br><hr>
                   <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf" target="_blank">Rec Center Equipment Checkout</a><br><hr>
                   <a href="https://rowan.collegiatelink.net/form/start/76062" target="_blank">SGA Fundraising</a><br><hr>
-                  <a href="images/resources/who_to_contact.pdf" target="_blank">Who to Contact</a><br><hr>
-                  <a href="images/resources/booking_speaker.pdf" target="_blank">Questions to Ask When Booking a Speaker</a><br><hr>
-                  <a href="images/resources/planning_timeline.pdf" target="_blank">Event Planning Timeline</a><br><hr>
-                  <a href="images/resources/event_evaluation.pdf" target="_blank">Event Evaluation</a><br><hr>
-                  <a href="images/resources/event_budget.pdf" target="_blank">Event Budget Planning Worksheet</a><br><hr>
-                  <a href="images/resources/day_of_event.pdf" target="_blank">Day of Event Checklist</a><br>
+                  <a href="images/resources/who_to_contact.pdf" target="_blank">Who to Contact</a><br>
                 </div>
               </li>
               <li class="accordion-navigation">
@@ -62,6 +62,9 @@
                 <div id="panel17" class="content">
                   <p>Please submit room diagrams at least five (5) business days in advance of your event to CSC room 117a or email them to 
                 <a class="email" href="mailto:studentcenterevents@rowan.edu">studentcenterevents@rowan.edu</a></p>
+                  <a href="images/room_diagrams/ballroom_diagram.pdf" target="_blank">Ballroom</a><br><hr>
+                  <a href="images/room_diagrams/patio_diagram.pdf" target="_blank">Patio</a><br><hr>
+                  <a href="images/room_diagrams/pit_diagram.pdf" target="_blank">Pit</a><br><hr>
                   <a href="images/room_diagrams/127_diagram.pdf" target="_blank">Room 127</a><br><hr>
                   <a href="images/room_diagrams/128_diagram.pdf" target="_blank">Room 128</a><br><hr>
                   <a href="images/room_diagrams/129_diagram.pdf" target="_blank">Room 129</a><br><hr>
@@ -69,10 +72,7 @@
                   <a href="images/room_diagrams/221_diagram.pdf" target="_blank">Room 221</a><br><hr>
                   <a href="images/room_diagrams/221a_diagram.pdf" target="_blank">Room 221a</a><br><hr>
                   <a href="images/room_diagrams/221b_diagram.pdf" target="_blank">Room 221b</a><br><hr>
-                  <a href="images/room_diagrams/221c_diagram.pdf" target="_blank">Room 221c</a><br><hr>
-                  <a href="images/room_diagrams/ballroom_diagram.pdf" target="_blank">Ballroom</a><br><hr>
-                  <a href="images/room_diagrams/patio_diagram.pdf" target="_blank">Patio</a><br><hr>
-                  <a href="images/room_diagrams/pit_diagram.pdf" target="_blank">Pit</a><br>
+                  <a href="images/room_diagrams/221c_diagram.pdf" target="_blank">Room 221c</a><br>
                 </div>
               </li>
             </ul>
