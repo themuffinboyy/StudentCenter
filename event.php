@@ -31,7 +31,7 @@
   <div class="row top">
     <div class="large-12 columns">
       <div class="panel">
-        <h1> Plan an Event </h1><br>
+        <h1> Plan an Event </h1><hr>
         <div class="row">
           <div class="subnav large-4 columns">
             <ul class="accordion" data-accordion>
@@ -45,6 +45,7 @@
               <li class="accordion-navigation">
                 <a href="#panel16">Club and Organization Forms <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel16" class="content">
+                  <a href="http://rowan.e-cater.com/default.php">Gourmet Dining Catering</a><br><hr>
                   <a href="https://docs.google.com/spreadsheets/d/12HZJcMNXq_zri_ttsrmTBC3WH_IXwbgw9D8BKgLz7UU/edit#gid=1420117037" target="_blank">Event Consultant List</a><br><hr>
                   <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf" target="_blank">Rec Center Equipment Checkout</a><br><hr>
                   <a href="https://rowan.collegiatelink.net/form/start/76062" target="_blank">SGA Fundraising</a><br><hr>

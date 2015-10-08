@@ -44,7 +44,7 @@
   <div class="row home_header">
     <div class="large-4 medium-4 small-12 columns">
       <div class="row no_top">
-        <img class="logo show-for-medium-up" src="images/csc_logo.png">
+        <img class="logo show-for-medium-up" src="images/homepage/csc_logo.png">
         <img class="logo show-for-small-only" src="images/mobile/csc_logo.png">
 
         <div class="row nested">
@@ -56,13 +56,13 @@
     <div class="large-8 medium-8 small-12 columns">
         <ul class="example_orbit" data-orbit>
           <li>
-            <a href="event.php"><img src="images/make_it_happen_home_banner.png" alt="slide 1" /></a>
+            <a href="event.php"><img src="images/homepage/make_it_happen_banner.png" alt="slide 1" /></a>
           </li>
           <li class="active">
-            <a href="trivia.php"><img src="images/trivia_home_banner.png" alt="slide 2" /></a>
+            <a href="trivia.php"><img src="images/homepage/trivia_banner.png" alt="slide 2" /></a>
           </li>
           <li>
-           <a href="spotlight.php"><img src="images/spotlight_home_banner.png" alt="slide 3" /></a>
+           <a href="spotlight.php"><img src="images/homepage/spotlight_banner.png" alt="slide 3" /></a>
           </li>
         </ul>
     </div>
@@ -194,7 +194,7 @@
         </div>
       </div>
       <div class="row no_top place_center">
-        <a href="http://www.rowan.edu/studentaffairs/main_office/publications/Handbook_Planner.cfm"><img class="help" src="images/help_button.png"></a>
+        <a href="http://www.rowan.edu/studentaffairs/main_office/publications/Handbook_Planner.cfm"><img class="help" src="images/homepage/help_button.png"></a>
       </div>
     </div>
   </div>

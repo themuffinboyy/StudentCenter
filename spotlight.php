@@ -35,10 +35,10 @@
 <section id="spotlight_page">
     <div class="row spotlight_header">
       <div class="large-4 medium-4 logo columns">
-        <img src="images/spotlight_logo.png">
+        <img src="images/spotlight/spotlight_logo.png">
       </div>
       <div class="large-8 medium-8 banner columns">
-        <img src="images/spotlight_page_banner.png">
+        <img src="images/spotlight/spotlight_page_banner.png">
       </div>
     </div>
 
@@ -81,7 +81,6 @@
         <div class="row nested">
           <div class="large-12 columns">
             <div class="panel center">
-              October 5th<br>
               November 2rd<br>
               
             </div>

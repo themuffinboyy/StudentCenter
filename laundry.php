@@ -33,7 +33,7 @@
   <section id="laundry_page">
     <div class="row laundry_header">
       <div class="large-12 columns">
-      	<img src="images/laundry_header.jpg">
+      	<img src="images/laundry/laundry_header.jpg">
       </div>
     </div>
 

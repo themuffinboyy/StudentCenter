@@ -31,7 +31,7 @@
       <div class="row">
         <div class="large-12 columns">
         	<div class="panel">
-            <h1>Looking for an On-Campus Job?</h1>
+            <h1>Looking for an On-Campus Job?</h1><hr>
             <p>
               The Chamberlain Student Center offers employment opportunities at the Information Desk
               & Prof's Place, as well as the Game Room & Profs Place. If you are interested in applying,

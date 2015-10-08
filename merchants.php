@@ -5,31 +5,31 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="icon" href="images/csc_favicon.png" type="image/png" sizes="16x16">
 <title>Chamberlain Student Center | Rowan University</title>
-<link rel="stylesheet" href="../css/foundation.css" />
-<link rel="stylesheet" href="../css/banner.css" />
-<link rel="stylesheet" href="../css/rowanheader.css" />
-<link rel="stylesheet" href="../css/merchants.css" />
+<link rel="stylesheet" href="css/foundation.css" />
+<link rel="stylesheet" href="css/banner.css" />
+<link rel="stylesheet" href="css/rowanheader.css" />
+<link rel="stylesheet" href="css/merchants.css" />
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js"></script>
-<script type="text/javascript" src="../js/js_jnv80YOwCwlPiNZ0W1fOaWsUliw1fl3r-iYl0nsElnY.js"></script>
-<script type="text/javascript" src="../js/js_jckA-4t9p22mBBR89owx6Ksvb40v5gsspPqsDK3Q0oM.js"></script>
-<script type="text/javascript" src="../js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
-<script type="text/javascript" src="../js/js_6tUAv_hfkMxyYfPGNFOzEz92zxJy6vNy2_-n8RWvupM.js"></script>
-<script type="text/javascript" src="../js/js_IDBX5SzkJ9gGNq7x-qOE_2DZsexqguTJQGMKvi4w-Uw.js"></script>
-<script type="text/javascript" src="../js/js_q7cpEY7s0Al6EkhNnFajyKCyiVdTKqAcAvZS1arQ-D8.js"></script>
-<script type="text/javascript" src="../js/js_lpa3ttN1nRqoLlwqFJjkpfFvmjM6Z09FecPa_kywAeM.js"></script>
-<script src="../js/vendor/jquery.js"></script>
-<script src="../js/vendor/modernizr.js"></script>
-<script src="../js/foundation/foundation.js"></script>
-<script src="../js/foundation/foundation.orbit.js"></script>
-<script src="../js/foundation/foundation.accordion.js"></script>
-<script src="../js/foundation/foundation.tab.js"></script>
-<script src="../js/foundation/foundation.topbar.js"></script>
-<script src="../js/foundation/foundation.magellan.js"></script>
+<script type="text/javascript" src="js/js_jnv80YOwCwlPiNZ0W1fOaWsUliw1fl3r-iYl0nsElnY.js"></script>
+<script type="text/javascript" src="js/js_jckA-4t9p22mBBR89owx6Ksvb40v5gsspPqsDK3Q0oM.js"></script>
+<script type="text/javascript" src="js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
+<script type="text/javascript" src="js/js_6tUAv_hfkMxyYfPGNFOzEz92zxJy6vNy2_-n8RWvupM.js"></script>
+<script type="text/javascript" src="js/js_IDBX5SzkJ9gGNq7x-qOE_2DZsexqguTJQGMKvi4w-Uw.js"></script>
+<script type="text/javascript" src="js/js_q7cpEY7s0Al6EkhNnFajyKCyiVdTKqAcAvZS1arQ-D8.js"></script>
+<script type="text/javascript" src="js/js_lpa3ttN1nRqoLlwqFJjkpfFvmjM6Z09FecPa_kywAeM.js"></script>
+<script src="js/vendor/jquery.js"></script>
+<script src="js/vendor/modernizr.js"></script>
+<script src="js/foundation/foundation.js"></script>
+<script src="js/foundation/foundation.orbit.js"></script>
+<script src="js/foundation/foundation.accordion.js"></script>
+<script src="js/foundation/foundation.tab.js"></script>
+<script src="js/foundation/foundation.topbar.js"></script>
+<script src="js/foundation/foundation.magellan.js"></script>
 </head>
 <body>
-<?php include_once("../analyticstracking.php") ?>
-<?php include_once("../stattracking.php") ?>
-<?php include("../header.html"); ?>
+<?php include_once("analyticstracking.php") ?>
+<?php include_once("stattracking.php") ?>
+<?php include("header.html"); ?>
 
   <section id="merchants_page">
     <div class="row">
@@ -38,6 +38,7 @@
           <h1 id="top-bar">Merchants</h1>
           <div>
             <dl class="sub-nav">
+              <a name="number"></a>
               <dd data-magellan-arrival="number"><a href="#number">#</a></dd>
               <dd data-magellan-arrival="A"><a href="#A">A</a></dd>
               <dd data-magellan-arrival="B"><a href="#B">B</a></dd>
@@ -68,12 +69,9 @@
             </dl>
           </div>
           <hr>
-
           <div class="row">
-            <a name="number"></a>
-            <a name="A"></a>
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="//www.7-eleven.com/"><img src="../images/merchants/7eleven_logo.png"></a>
+              <a class="th" href="//www.7-eleven.com/"><img src="images/merchants/7eleven_logo.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
               <p><strong>7 Eleven</strong><br>
@@ -83,6 +81,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="A"></a>
               <a class="th" href="http://www.alesautoservice.com/"><img src="http://www.alesautoservice.com/image/76096848.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -124,8 +123,8 @@
               <em>(856) 347-3720</em></p>
             </div>
 
-            <a name="B"></a>
             <div class="large-2 medium-2 columns picture">
+              <a name="B"></a>
               <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1910489_342852682562710_7719827880313359716_n.jpg?oh=af56cd1a9fb36c9098cc81fab0e163c9&oe=568FAACE">
             </div>
             <div class="large-2 medium-2 end columns">
@@ -170,6 +169,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
+              <a name="C"></a>
               <a class="th" href="http://www.tccyclist.com/"><img src="http://www.tccyclist.com/wp-content/uploads/page-pics/cafe_team_2012.jpg"></a>
             </div>
             <div class="large-2 medium-2 columns">
@@ -179,7 +179,6 @@
               <em>(856) 256-1414</em></p>
             </div>
           
-            <a name="C"></a>
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="https://checkers.com/"><img src="http://www.grayflannelsuit.net/blog/wp-content/uploads/2014/04/checkers-burgers-logo.jpg"></a>
             </div>
@@ -254,9 +253,8 @@
               <em>(856) 863-2200</em></p>
             </div>
           
-            <a name="D"></a>
-            <a name="E"></a>
             <div class="large-2 medium-2 columns picture">
+              <a name="D"></a>
               <a class="th" href="https://www.dominos.com/en/"><img src="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0017/0103/brand.gif?itok=4RtFw22X"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -279,6 +277,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="E"></a>
               <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/379791_265653203501747_513329399_n.jpg?oh=9b1b97b004515c84ed62dd90556dc90d&oe=568F13C4">
             </div>
             <div class="large-2 medium-2 columns">
@@ -288,7 +287,6 @@
               <em>(856) 218-8818</em></p>
             </div>
           
-            <a name="F"></a>
             <div class="large-2 medium-2 columns picture">
               <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/1964869_301657936666562_3869115845604941205_n.jpg?oh=32e0832c735389f92ed0ac51da4b5616&oe=568CCFE5">
             </div>
@@ -302,6 +300,7 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
+              <a name="F"></a>
               <a class="th" href="http://www.fitnessfuels.net/"><img src="https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11188240_707957789314060_4057654899962798032_n.jpg?oh=17de256cf9102d46bac5d2beb52864c3&oe=56A5149D"></a>
             </div>
             <div class="large-2 medium-2 columns">
@@ -333,8 +332,8 @@
           </div>
 
           <div class="row">
-            <a name="G"></a>
             <div class="large-2 medium-2 columns picture">
+              <a name="G"></a>
               <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xfl1/v/t1.0-9/303689_484516974898924_669046112_n.jpg?oh=46d308f116d3939036a6fb8220fa6be0&oe=568EFCBF">
             </div>
             <div class="large-2 medium-2 columns">
@@ -398,9 +397,8 @@
           </div>
           
           <div class="row">
-            <a name="H"></a>
-            <a name="I"></a>
             <div class="large-2 medium-2 columns picture">
+              <a name="H"></a>
               <img class="th" src="http://media.merchantcircle.com/10934226/Picture%20245_full.jpeg">
             </div>
             <div class="large-2 medium-2 columns">
@@ -443,7 +441,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="http://images.gasbuddy.com/FetchImage.ashx?key=x2RPLq56wYWL1imd%2fqc3dA%3d%3d&id=vqjO8RF%2fEfFqJ5szHULUUpkZLlIvUgXKgq5lpa%2btdco%3d">
+              <img class="th" src="images/merchants/highwaymart.jpeg">
             </div>
             <div class="large-2 medium-2 columns">
               <p><strong>Highway Mart & Gas</strong><br>
@@ -464,10 +462,9 @@
           </div>
           
           <div class="row">
-            <a name="J"></a>
-            <a name="K"></a>
-            <a name="L"></a>
             <div class="large-2 medium-2 columns picture">
+              <a name="I"></a>
+              <a name="J"></a>
               <a class="th" href="https://online.jimmyjohns.com/"><img src="https://pbs.twimg.com/profile_images/509500169088294912/WYAeaszC_400x400.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
@@ -478,6 +475,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="K"></a>
               <a class="th" href="http://www.kmart.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kmart_logo.svg/2000px-Kmart_logo.svg.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
@@ -488,6 +486,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="L"></a>
               <a class="th" href="http://www.landmarkamericana.com/"><img src="https://phillysphavorites.files.wordpress.com/2012/02/img_1074.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -499,7 +498,6 @@
           </div>
           
           <div class="row">
-            <a name="M"></a>
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="https://www.littlebeefsonline.com/"><img src="https://nebula.wsimg.com/b3dad21eba3944784c828dbc5fecccca?AccessKeyId=2E51EEE9FCAD7AF47022&disposition=0&alloworigin=1"></a>
             </div>
@@ -521,6 +519,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="M"></a>
               <a class="th" href="http://www.mcdonalds.com/us/en/home.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mcdonalds-90s-logo.svg/2000px-Mcdonalds-90s-logo.svg.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -532,7 +531,6 @@
           </div>
           
           <div class="row">
-            <a name="N"></a>
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.meineke.com/"><img src="https://lh3.ggpht.com/Z-r56_Ib7upCVlRVIZA043S8ny9yA6TUKdyb7N7qJa2yaIlDStkO5RE2YQcZgRgW1w=w300"></a>
             </div>
@@ -554,6 +552,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="N"></a>
               <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/1918245_334520130996_718189_n.jpg?oh=fe5abdd30bb70867a226374c3e7cad11&oe=56892A94">
             </div>
             <div class="large-2 medium-2 end columns">
@@ -586,6 +585,8 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="O"></a>
+              <a name="P"></a>
               <a class="th" href="https://www.papajohns.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/PapaJohns.svg/1280px-PapaJohns.svg.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -672,6 +673,8 @@
             </div>
           
             <div class="large-2 medium-2 columns picture">
+              <a name="Q"></a>
+              <a name="R"></a>
               <a class="th" href="http://rowanbookstore.bncollege.com/"><img src="http://claycord.com/wp-content/uploads/2013/09/barnes.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
@@ -704,6 +707,7 @@
             </div>
           
             <div class="large-2 medium-2 columns picture">
+              <a name="S"></a>
               <a class="th" href="http://www.saladworks.com/"><img src="https://online.saladworks.com/Content/themes/saladworks/images/logo.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
@@ -758,7 +762,8 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="//www.tacobell.com"><img src="../images/merchants/tacobell_logo.png"></a>
+              <a name="T"></a>
+              <a class="th" href="//www.tacobell.com"><img src="images/merchants/tacobell_logo.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
               <p><strong>Taco Bell</strong><br>
@@ -810,6 +815,9 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
+              <a name="U"></a>
+              <a name="V"></a>
+              <a name="W"></a>
               <a class="th" href="https://www.wendys.com/"><img src="https://www.marketbeat.com/logos/wendys-co-logo.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">
@@ -822,6 +830,8 @@
 
           <div class="row">
             <div class="large-2 medium-2 columns picture">
+              <a name="X"></a>
+              <a name="Y"></a>
               <a class="th" href="http://www.yogofactory.com/"><img src="http://www.yogofactory.com/images/logo-full-purp-[Converted].png"></a>
             </div>
             <div class="large-2 medium-2 columns">
@@ -832,6 +842,7 @@
             </div>
           
             <div class="large-2 medium-2 columns picture">
+              <a name="Z"></a>
               <a class="th" href="http://www.shoprite.com/"><img src="http://nybc.net/wp-content/uploads/2015/05/ShopRite-Color-Logo.jpg"></a>
             </div>
             <div class="large-2 medium-2 end columns">

@@ -32,7 +32,7 @@
 <section id="marketing_page">
 <div class="large-9 large-centered column">
   <div class="panel">
-    <h1 id="top-bar">Marketing</h1><br>
+    <h1 id="top-bar">Marketing</h1><hr>
     <ul class="accordion" data-accordion>
       <li class="accordion-navigation">
         <a href="#panel1a">General Student Center Posting Guidelines</a>

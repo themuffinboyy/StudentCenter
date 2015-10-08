@@ -35,10 +35,10 @@
 <section id="trivia_page">
     <div class="row trivia_header">
       <div class="large-4 medium-4 extra_padding columns">
-        <img src="images/trivia_logo.png">
+        <img src="images/trivia/trivia_logo.png">
       </div>
       <div class="large-8 medium-8 columns">
-        <img src="images/trivia_page_banner.png">
+        <img src="images/trivia/trivia_page_banner.png">
       </div>
     </div>
 

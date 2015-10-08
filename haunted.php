@@ -33,7 +33,7 @@
     <section id="haunted_page">
       <div class="row haunted_header">
         <div class="large-12 columns">
-          <img class="show-for-medium-up" src="images/haunted_header.png">
+          <img class="show-for-medium-up" src="images/haunted/haunted_header.png">
           <img class="show-for-small-only" src="images/mobile/haunted_header.png">
         </div>
       </div>
