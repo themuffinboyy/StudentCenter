@@ -19,11 +19,7 @@
 <script type="text/javascript" src="js/js_lpa3ttN1nRqoLlwqFJjkpfFvmjM6Z09FecPa_kywAeM.js"></script>
 <script src="js/vendor/jquery.js"></script>
 <script src="js/vendor/modernizr.js"></script>
-<script src="js/foundation/foundation.js"></script>
-<script src="js/foundation/foundation.orbit.js"></script>
-<script src="js/foundation/foundation.accordion.js"></script>
-<script src="js/foundation/foundation.tab.js"></script>
-<script src="js/foundation/foundation.topbar.js"></script>
+<script src="js/foundation.min.js"></script>
 </head>
 <body>
   <?php include_once("analyticstracking.php") ?>
@@ -61,7 +57,7 @@
         <a href="https://id.rowan.edu/" class="button" target="_blank">Find your ISO #</a>
       </div>
       <div class="large-4 columns end">
-        <a href="merchants.php" class="button" target="_blank">Merchants</a>
+        <a href="merchants.php" class="button" target="_blank">Where to use my card</a>
       </div>
     </div>
     <div class="row">

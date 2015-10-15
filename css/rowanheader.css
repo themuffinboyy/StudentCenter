@@ -15,65 +15,73 @@
   background-color: rgba(153, 153, 153, 0.6) !important;
 }
 
-.social {
-  position: relative;
+#navlist {
+    position: relative;
+    height: 33px;
 }
 
-.social li {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  top: 0;
+#navlist li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    top: 0;
 }
 
-.social li, .social a {
-  height: 33px;
-  display: inline-block;
+#navlist li, #navlist a {
+    height: 30px;
+    display: inline-block;
 }
 
 .rowan {
-  width: initial;
-  height: 30px;
-  background: url(../images/footer/rowan_logo.png) no-repeat;
+  left: 0px;
+  width: 210px;
+  background: url(../images/footer/rowan_logo.png);
+  background-size: 210px 30px;
+  background-repeat: no-repeat;
 }
 
-.facebook, .instagram, .twitter{
-  background: url(../images/footer/social_icons.png) no-repeat;
+.rowan a {
+  width: 210px;
 }
 
-.facebook{
-  background-position: 0 0;
+.facebook {
+    left: 230px;
+    width: 30px;
+    background: url(../images/footer/social_icons.png) 0 0;
+}
+
+.twitter {
+    left: 270px;
+    width: 30px;
+    background: url(../images/footer/social_icons.png) -100px 0;
+}
+
+.instagram {
+    left: 310px;
+    width: 30px;
+    background: url(../images/footer/social_icons.png) -50px 0;
+}
+
+.facebook a, .twitter a, .instagram a {
   width: 30px;
-  height: 30px;
 }
 
-.facebook a:hover{
-  background-position: 0 -50px;
+.facebook a:hover {
+    background: url(../images/footer/social_icons.png) 0 -50px;
 }
 
-.instagram{
-  background-position: -50px 0;
-  width: 30px;
-  height: 30px;
+.twitter a:hover {
+    background: url(../images/footer/social_icons.png) -100px -50px;
 }
 
-.instagram a:hover{
-  background-position: -50px -50px;
-}
-
-.twitter{
-  background-position: -100px 0;
-  width: 30px;
-  height: 30px;
-}
-
-.twitter a:hover{
-  background-position: -100px -50px;
+.instagram a:hover {
+    background: url(../images/footer/social_icons.png) -50px -50px;
 }
 
 @media only screen and (max-width: 40em) {
   #footer .rowan {
-    height: 24px;
+    height: 33px;
   }
 }
 
