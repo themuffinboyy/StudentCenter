@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AACC,qBAAK;EACJ,SAAS,EAAE,MAAM",
+"mappings": "AACC,mBAAK;EACJ,SAAS,EAAE,MAAM",
 "sources": ["employment.scss"],
 "names": [],
 "file": "employment.css"

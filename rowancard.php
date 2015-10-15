@@ -68,7 +68,7 @@
         <a href="about.php" class="button" target="_blank">About the Card</a>
       </div>
       <div class="large-4 columns end">
-        <a href="contact.html" class="button" target="_blank">Contact us</a>
+        <a href="contact.php" class="button" target="_blank">Contact us</a>
       </div>
     </div>
     <div class="row">
@@ -79,7 +79,7 @@
         <a href="#" class="button">Become a merchant</a>
       </div>
       <div class="large-4 columns end">
-        <a href="rowancard/account.html" class="button" target="_blank">Account info</a>
+        <a href="account.php" class="button" target="_blank">Account info</a>
       </div>
     </div>
 

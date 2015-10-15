@@ -30,27 +30,23 @@
 ?>
   <section id="contact_page">
     <div class="row">
-      <div class="large-12 large-centered column">
+      <div class="large-12 columns">
         <div class="panel">
-          <h1 id="top-bar">Contact Us</h1>
-          <p>Service is our top priority. Please contact the RowanCard Office with any questions or concerns.</p>
+          <h1 id="top-bar">Online Application</h1>
           <hr>
           <div class="row">
-            <div class="large-4 medium-9 columns">
-              <p><strong>Christine Noon</strong><br>
-              <em>Director of Card Services</em><br>
-              <em>856-256-4531</em><br>
-              <em class="email"><a href="mailto:rowancard@rowan.edu">rowancard@rowan.edu</a></em><br>
-              <em>Office Hours: M-F from 8:00am - 4:30pm</em></p>
-            </div>
-            <div class="large-6 columns">
-              <h3>Comments or Concerns?</h3>
+            <div class="large-4 large-centered columns">
               <form name="contactform" method="post" action="send_form_rowancard.php">
-                <input  type="text" name="first_name" maxlength="50" placeholder="First Name">
-                <input  type="text" name="last_name" maxlength="50" placeholder="Last Name">
-                <input  type="text" name="email" maxlength="80" placeholder="Email Address">
-                <input  type="text" name="telephone" maxlength="30" placeholder="Phone Number">
-                <textarea  name="comments" maxlength="1000" cols="25" rows="3" placeholder="Comments"></textarea>
+                <input type="text" name="business_name" maxlength="50" placeholder="Name of Business">
+                <input type="text" name="business_address" maxlength="50" placeholder="Business Address">
+                <input type="text" name="business_city" maxlength="50" placeholder="City">
+                <input type="text" name="business_state" maxlength="50" placeholder="State">
+                <input type="text" name="business_zip" maxlength="50" placeholder="Zip">
+                <input type="text" name="website" maxlength="50" placeholder="Website">
+                <input type="text" name="business_email" maxlength="80" placeholder="Email Address">
+                <input type="text" name="business_telephone" maxlength="30" placeholder="Business Phone">
+                <input type="text" name="business_fax" maxlength="30" placeholder="Business Fax">
+                <input type="checkbox" name="alcohol" value="alcohol" />Alcohol Sales<br>
                 <input type="submit" value="Submit">
               </form>
 

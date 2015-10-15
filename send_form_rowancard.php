@@ -4,9 +4,9 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "hollyj71@students.rowan.edu";
+    $email_to = "rowancard@rowan.edu";
  
-    $email_subject = "Testing RowanCard Contact";
+    $email_subject = "RowanCard Website Comment";
  
     function died($error) {
  

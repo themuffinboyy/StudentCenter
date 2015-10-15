@@ -6,7 +6,6 @@
 <link rel="icon" href="images/csc_favicon.png" type="image/png" sizes="16x16">
 <title>Chamberlain Student Center | Rowan University</title>
 <link rel="stylesheet" href="css/foundation.css" />
-<!-- <link rel="stylesheet" href="css/styles.css" /> -->
 <link rel="stylesheet" href="css/banner.css" />
 <link rel="stylesheet" href="css/rowanheader.css" />
 <link rel="stylesheet" href="css/employment.css" />
@@ -26,7 +25,7 @@
     <?php include_once("analyticstracking.php") ?>
     <?php include_once("stattracking.php") ?>
     <?php include("header.html") ?>
-    <div id="faqs_page">
+    <div id="standard_page">
       <div class="row">
         <div class="large-12 columns">
         	<div class="panel">
