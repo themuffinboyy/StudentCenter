@@ -55,14 +55,17 @@
 
     <div class="large-8 medium-8 small-12 columns">
         <ul class="example_orbit" data-orbit>
-          <li>
-            <a href="event.php"><img src="images/homepage/make_it_happen_banner.png" alt="slide 1" /></a>
-          </li>
           <li class="active">
+            <a href="haunted.php"><img src="images/homepage/haunted_banner.png" alt="slide 1" /></a>
+          </li>
+          <li>
             <a href="trivia.php"><img src="images/homepage/trivia_banner.png" alt="slide 2" /></a>
           </li>
           <li>
            <a href="spotlight.php"><img src="images/homepage/spotlight_banner.png" alt="slide 3" /></a>
+          </li>
+          <li>
+            <a href="event.php"><img src="images/homepage/make_it_happen_banner.png" alt="slide 4" /></a>
           </li>
         </ul>
     </div>

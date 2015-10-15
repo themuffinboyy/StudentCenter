@@ -15,13 +15,60 @@
   background-color: rgba(153, 153, 153, 0.6) !important;
 }
 
-#footer img {
-  width: initial;
-  height: initial;
+.social {
+  position: relative;
 }
 
-#footer .rowan {
+.social li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  top: 0;
+}
+
+.social li, .social a {
+  height: 33px;
+  display: inline-block;
+}
+
+.rowan {
+  width: initial;
   height: 30px;
+  background: url(../images/footer/rowan_logo.png) no-repeat;
+}
+
+.facebook, .instagram, .twitter{
+  background: url(../images/footer/social_icons.png) no-repeat;
+}
+
+.facebook{
+  background-position: 0 0;
+  width: 30px;
+  height: 30px;
+}
+
+.facebook a:hover{
+  background-position: 0 -50px;
+}
+
+.instagram{
+  background-position: -50px 0;
+  width: 30px;
+  height: 30px;
+}
+
+.instagram a:hover{
+  background-position: -50px -50px;
+}
+
+.twitter{
+  background-position: -100px 0;
+  width: 30px;
+  height: 30px;
+}
+
+.twitter a:hover{
+  background-position: -100px -50px;
 }
 
 @media only screen and (max-width: 40em) {
