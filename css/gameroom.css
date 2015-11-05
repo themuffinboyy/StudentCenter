@@ -12,6 +12,9 @@
   line-height: 1.5;
   width: 100%;
   margin-bottom: 10px; }
+#gameroom_page input {
+  width: 100%;
+  margin-bottom: 10px; }
 #gameroom_page .tabs a {
   width: 100%;
   height: 42px;
@@ -29,6 +32,14 @@
 #gameroom_page .game {
   height: 406px;
   overflow: scroll; }
+  #gameroom_page .game p {
+    margin-bottom: 0; }
+#gameroom_page .alert-box.hidden {
+  display: none; }
+#gameroom_page .alert-box.true {
+  display: block; }
+#gameroom_page .requests {
+  margin-top: 8px; }
 @media only screen and (max-width: 40em) {
   #gameroom_page .tabs-content {
     margin-bottom: 0; }

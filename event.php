@@ -44,6 +44,7 @@
                 <a href="#panel16">Club and Organization Forms <span class="plus">+</span><span class="minus">-</span></a><hr class="no_space">
                 <div id="panel16" class="content">
                   <a href="images/resources/day_of_event.pdf" target="_blank">Day of Event Checklist</a><br><hr>
+                  <a href="images/resources/donation_box.pdf" target="_blank">Donation Box Request</a><br><hr>
                   <a href="images/resources/event_budget.pdf" target="_blank">Event Budget Planning Worksheet</a><br><hr>
                   <a href="https://docs.google.com/spreadsheets/d/12HZJcMNXq_zri_ttsrmTBC3WH_IXwbgw9D8BKgLz7UU/edit#gid=1420117037" target="_blank">Event Consultant List</a><br><hr>
                   <a href="images/resources/event_evaluation.pdf" target="_blank">Event Evaluation</a><br><hr>

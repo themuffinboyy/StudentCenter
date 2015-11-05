@@ -21,6 +21,11 @@
 		margin-bottom: 10px;
 	}
 
+	input {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
 	.tabs {
 		a {
 			width: 100%;
@@ -46,7 +51,25 @@
 	.game {
 		height: 406px;
 		overflow: scroll;
+
+		p {
+			margin-bottom: 0;
+		}
 	}
+
+	.alert-box {
+    &.hidden {
+      display: none;
+    }
+
+    &.true {
+      display: block;
+    }
+  }
+
+  .requests {
+  	margin-top: 8px;
+  }
 
 	//small screens.
 	@media only screen and (max-width: 40em) {

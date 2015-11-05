@@ -31,6 +31,7 @@
       <div class="large-12 column">
         <div class="panel">
           <h1 id="top-bar">Merchants</h1>
+          <strong>(Click on images to see more information)</strong>
           <div>
             <dl class="sub-nav">
               <a name="number"></a>
@@ -371,7 +372,7 @@
             </div>
           
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.goodwill.org/"><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/Goodwill_Industries_Logo.svg"></a>
+              <a class="th" href="http://www.goodwill.org/"><img src="images/merchants/goodwill_logo.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
               <p><strong>Goodwill</strong><br>
@@ -436,7 +437,7 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <img class="th" src="images/merchants/highwaymart.jpeg">
+              <img class="th" src="images/merchants/highwaymart.png">
             </div>
             <div class="large-2 medium-2 columns">
               <p><strong>Highway Mart & Gas</strong><br>
@@ -558,7 +559,7 @@
             </div>
           </div>
           
-          <div class="row"> 
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.nyitaliandelinj.com/"><img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/299386_203213229745891_211906111_n.jpg?oh=b0525c107b2ebebdc15ffdd78fb488b6&oe=56A492EA"></a>
             </div>
@@ -581,6 +582,18 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="O"></a>
+              <img class="th" src="images/merchants/onestop_logo.png">
+            </div>
+            <div class="large-2 medium-2 end columns">
+              <p><strong>One Stop Shoppe</strong><br>
+              <em>36 Delsea Dr.</em><br>
+              <em>Glassboro, NJ 08028</em><br>
+              <em>(856) 863-1442</em></p>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="large-2 medium-2 columns picture">
               <a name="P"></a>
               <a class="th" href="https://www.papajohns.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/PapaJohns.svg/1280px-PapaJohns.svg.png"></a>
             </div>
@@ -590,9 +603,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 863-8383</em></p>
             </div>
-          </div>
-          
-          <div class="row">
+
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.pbsdiner.com/"><img src="https://dmqhjhh1emncv.cloudfront.net/restaurant-logos/8856/large-0084f1fb2a0898f1d66b6c26c6a06429.jpg?1395235088"></a>
             </div>
@@ -606,13 +617,15 @@
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.pekingbuffetnj.com/"><img src="http://media-cdn.tripadvisor.com/media/photo-s/07/8f/21/ff/peking-buffet.jpg"></a>
             </div>
-            <div class="large-2 medium-2 columns">
+            <div class="large-2 medium-2 end columns">
               <p><strong>Peking Buffet</strong><br>
               <em>753 N. Delsea Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-4055</em></p>
             </div>
+          </div>
 
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.pepboys.com/"><img src="http://vertassets.blob.core.windows.net/image/5cda9559/5cda9559-3f91-4e54-bd95-58161cfe9b91/pep_boys_apple_pay.jpg"></a>
             </div>
@@ -622,9 +635,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 256-8000</em></p>
             </div>
-          </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="https://order.pizzahut.com/home?"><img src="http://cdn.mallmaverick.com/system/stores/store_fronts/000/004/415/original/Pizza_Hut.png?1382110580"></a>
             </div>
@@ -636,15 +647,17 @@
             </div>
 
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://popeyes.com/"><img src="http://www.inta.org/INTABulletin/Documents/popeyes.jpg"></a>
+              <a class="th" href="http://popeyes.com/"><img src="http://assets.bizjournals.com/atlanta/popeyes%20logo%20315*500.jpg?v=1"></a>
             </div>
-            <div class="large-2 medium-2 columns">
+            <div class="large-2 medium-2 end columns">
               <p><strong>Popeye's Chicken</strong><br>
               <em>332 N. Delsea Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 243-2447</em></p>
             </div>
+          </div>
           
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <img class="th" src="https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/295459_425964960789520_1447019438_n.jpg?oh=8d46705d74aa683b3d1b5de4333b2145&oe=56A4F70F">
             </div>
@@ -654,9 +667,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 243-2296</em></p>
             </div>
-          </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.primerowan.com/"><img src="http://www.primerowan.com/img/prime-logo.png"></a>
             </div>
@@ -672,13 +683,15 @@
               <a name="R"></a>
               <a class="th" href="http://rowanbookstore.bncollege.com/"><img src="http://claycord.com/wp-content/uploads/2013/09/barnes.png"></a>
             </div>
-            <div class="large-2 medium-2 columns">
+            <div class="large-2 medium-2 end columns">
               <p><strong>Rowan Bookstore Barnes & Noble</strong><br>
               <em>201 Rowan Blvd.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-5960</em></p>
             </div>
+          </div>
 
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <img class="th" src="https://pbs.twimg.com/profile_images/3539420241/a88ce44eed394772b9e68b2684338b61_400x400.jpeg"></a>
             </div>
@@ -688,9 +701,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 270-2575</em></p>
             </div>
-          </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <img class="th" src="https://pbs.twimg.com/profile_images/3539420241/a88ce44eed394772b9e68b2684338b61_400x400.jpeg"></a>
             </div>
@@ -705,13 +716,15 @@
               <a name="S"></a>
               <a class="th" href="http://www.saladworks.com/"><img src="https://online.saladworks.com/Content/themes/saladworks/images/logo.png"></a>
             </div>
-            <div class="large-2 medium-2 columns">
+            <div class="large-2 medium-2 end columns">
               <p><strong>Saladworks</strong><br>
               <em>791 N. Delsea Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 863-2203</em></p>
             </div>
+          </div>
 
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.njsamuraisteakhouse.com/"><img src="http://s3-media1.fl.yelpcdn.com/bphoto/s1v2FHtLCM78EF1mZLAjMQ/o.jpg"></a>
             </div>
@@ -721,9 +734,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-7788</em></p>
             </div>
-          </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://smashburger.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/SmashBurger_logo.jpg"></a>
             </div>
@@ -737,13 +748,15 @@
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.subway.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Subway_restaurant.svg/2000px-Subway_restaurant.svg.png"></a>
             </div>
-            <div class="large-2 medium-2 columns">
+            <div class="large-2 medium-2 end columns">
               <p><strong>Subway</strong><br>
               <em>757 N. Delsea Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 270-2513</em></p>
             </div>
+          </div>
 
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <img class="th" src="https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-0/p240x240/11817184_896894667053005_4716516465491944228_n.jpg?oh=a0264014a7a7a0dc27992a460ec000b7&oe=565EA629&__gda__=1449885703_7180482f127a2d202fe6ca1d3f6b9e9c">
             </div>
@@ -753,9 +766,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 863-3712</em></p>
             </div>
-          </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="T"></a>
               <a class="th" href="//www.tacobell.com"><img src="images/merchants/tacobell_logo.png"></a>
@@ -770,13 +781,15 @@
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.mytantini.com/"><img src="http://mytantini.com/images/tantinilogo.png"></a>
             </div>
-            <div class="large-2 medium-2 columns">
+            <div class="large-2 medium-2 end columns">
               <p><strong>Tantini Tanning</strong><br>
               <em>172 Dalton Dr.</em><br>
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 582-0826</em></p>
             </div>
+          </div>
 
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://thinkgreekgrill.com/"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/v/t1.0-1/c57.57.713.713/s160x160/1001257_293912327413298_996369373_n.jpg?oh=29acd27f3198d3f46e7fd0465d5d68dd&oe=566AF46A&__gda__=1449237201_4dae3d559d5b1c3ea70cafdd4732087b"></a>
             </div>
@@ -786,9 +799,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-0436</em></p>
             </div>
-          </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://tomosushi.menuasian.com/"><img src="https://scontent.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/578715_406289842739422_1489762676_n.jpg?oh=5512aa1c6488ee7e3c8627370453ef2a&oe=56A934B9"></a>
             </div>
@@ -802,13 +813,15 @@
             <div class="large-2 medium-2 columns picture">
               <a class="th" href="http://www.treasuresonbroadway.com/"><img src="https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11058575_1113839458633053_7919616347795251694_n.jpg?oh=23e8ac01e5d10b8ba8a45d13708c569d&oe=56A8C1F5"></a>
             </div>
-            <div class="large-2 medium-2 columns">
+            <div class="large-2 medium-2 end columns">
               <p><strong>Treasures on Broadway</strong><br>
               <em>277 Rowan Blvd.</em><br>
               <em>Glassboro, NJ 08028</em><br>
-              <em>(856) 218--1e</em></p>
+              <em>(856) 218-1414fi</em></p>
             </div>
+          </div>
 
+          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="U"></a>
               <a name="V"></a>
@@ -821,9 +834,7 @@
               <em>Glassboro, NJ 08028</em><br>
               <em>(856) 881-6027</em></p>
             </div>
-          </div>
 
-          <div class="row">
             <div class="large-2 medium-2 columns picture">
               <a name="X"></a>
               <a name="Y"></a>
@@ -833,7 +844,7 @@
               <p><strong>Yogo Factory</strong><br>
               <em>300 Rowan Blvd.</em><br>
               <em>Glassboro, NJ 08028</em><br>
-              <em></em></p>
+              <em>(856) 226-3066</em></p>
             </div>
           
             <div class="large-2 medium-2 columns picture">

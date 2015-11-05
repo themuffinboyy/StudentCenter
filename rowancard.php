@@ -76,7 +76,7 @@
         <a href="faqs.php" class="button" target="_blank">FAQs</a>
       </div>
       <div class="large-4 columns push_right">
-        <a href="#" class="button">Become a merchant</a>
+        <a href="becomemerchant.php" class="button">Become a merchant</a>
       </div>
       <div class="large-4 columns end">
         <a href="account.php" class="button" target="_blank">Account info</a>

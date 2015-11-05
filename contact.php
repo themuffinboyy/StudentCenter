@@ -46,11 +46,11 @@
             <div class="large-6 columns">
               <h3>Comments or Concerns?</h3>
               <form name="contactform" method="post" action="send_form_rowancard.php">
-                <input  type="text" name="first_name" maxlength="50" placeholder="First Name">
-                <input  type="text" name="last_name" maxlength="50" placeholder="Last Name">
-                <input  type="text" name="email" maxlength="80" placeholder="Email Address">
-                <input  type="text" name="telephone" maxlength="30" placeholder="Phone Number">
-                <textarea  name="comments" maxlength="1000" cols="25" rows="3" placeholder="Comments"></textarea>
+                <label>First Name:<input  type="text" name="first_name" maxlength="50" placeholder="John"></label>
+                <label>Last Name:<input  type="text" name="last_name" maxlength="50" placeholder="Doe"></label>
+                <label>Email:<input  type="text" name="email" maxlength="80" placeholder="student@students.rowan.edu"></label>
+                <label>Phone:<input  type="text" name="telephone" maxlength="30" placeholder="123-456-7890"></label>
+                <label>Comments:<textarea  name="comments" maxlength="1000" cols="25" rows="3"></textarea></label>
                 <input type="submit" value="Submit">
               </form>
 

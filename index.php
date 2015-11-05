@@ -51,16 +51,13 @@
     <div class="large-8 medium-8 small-12 columns">
         <ul class="example_orbit" data-orbit>
           <li class="active">
-            <a href="haunted.php"><img src="images/homepage/haunted_banner.png" alt="slide 1" /></a>
+            <a href="event.php"><img src="images/homepage/make_it_happen_banner.png" alt="slide 1" /></a>
           </li>
           <li>
             <a href="trivia.php"><img src="images/homepage/trivia_banner.png" alt="slide 2" /></a>
           </li>
           <li>
            <a href="spotlight.php"><img src="images/homepage/spotlight_banner.png" alt="slide 3" /></a>
-          </li>
-          <li>
-            <a href="event.php"><img src="images/homepage/make_it_happen_banner.png" alt="slide 4" /></a>
           </li>
         </ul>
     </div>
@@ -177,11 +174,11 @@
       <div class="row no_top">
         <div class="panel">
           <form name="contactform" method="post" action="send_form_email.php">
-            <input  type="text" name="first_name" maxlength="50" placeholder="First Name">
-            <input  type="text" name="last_name" maxlength="50" placeholder="Last Name">
-            <input  type="text" name="email" maxlength="80" placeholder="Email Address">
-            <input  type="text" name="telephone" maxlength="30" placeholder="Phone Number">
-            <textarea  name="comments" maxlength="1000" cols="25" rows="3" placeholder="Comments"></textarea>
+            <label>First Name: <input  type="text" name="first_name" maxlength="50" placeholder="John" required></label>
+            <label>Last Name:<input  type="text" name="last_name" maxlength="50" placeholder="Doe" required></label>
+            <label>Email:<input  type="text" name="email" maxlength="80" placeholder="student@students.rowan.edu" required></label>
+            <label>Phone #:<input  type="text" name="telephone" maxlength="30" placeholder="123-456-7890" required></label>
+            <label>Comments<textarea  name="comments" maxlength="1000" cols="25" rows="3" required></textarea></label>
             <input type="submit" value="Submit">
           </form>
 

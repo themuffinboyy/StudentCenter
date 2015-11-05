@@ -99,6 +99,22 @@
           venues, two 55" TV's, and tons of arcade style games, the Food Court is the new hang out spot for all 
           Rowan University students!</p>
         </div>
+
+        <div class="label requests">Game Requests</div>
+
+        <div class="panel">
+          <form name="contactform" method="post" action="send_form_gameroom.php">
+            <label>Console:<input  type="text" name="console" maxlength="50" placeholder="PS4, Xbox One, etc." required></label>
+            <label>Game:<input  type="text" name="game" maxlength="50" placeholder="Black Ops 3" required></label>
+            <label>Email:<input  type="text" name="email" maxlength="80" placeholder="student@students.rowan.edu" required></label>
+            <input type="submit" value="Submit">
+          </form>
+
+          <div data-alert class="alert-box success radius hidden <?php echo htmlspecialchars($_GET["sent"]); ?>">
+            Thank you. Your submission has been received.
+            <a href="#" class="close">&times;</a>
+          </div>
+        </div>
     	</div>
     </div>
 

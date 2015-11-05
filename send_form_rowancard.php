@@ -92,7 +92,7 @@ if(isset($_POST['email'])) {
  
   }
  
-    $email_message = "Form details below.\n\n";
+    $email_message = "";
  
      
  
@@ -139,7 +139,7 @@ $headers = 'From: '.$email_from."\r\n".
 <html>
   <head>
     <title>IU Webmaster redirect</title>
-    <META http-equiv="refresh" content="0;URL=/~hollyj71/StudentCenter/contact.php?sent=true">
+    <META http-equiv="refresh" content="0;URL=/studentaffairs/studentcenter/contact.php?sent=true">
   </head>
 </html>
   

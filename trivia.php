@@ -44,11 +44,21 @@
 
         <div class="row nested">
           <div class="large-6 medium-5 columns">
-            <div class="panel"><strong>Coming Soon</strong>
+            <div class="panel">
+              <img class="host" src="images/trivia/Julia.jpg">
+              <p><strong>Julia Johnson</strong><br>
+              Dual Major English and Elementary Education<br>
+              Favorite Trivia Topic: The Office<br>
+              Fun Fact: I can say the alphabet backwards</p>
             </div>
           </div>
           <div class="large-6 medium-5 columns">
-            <div class="panel"><strong>Coming Soon</strong>
+            <div class="panel">
+              <img class="host" src="images/trivia/April.jpg">
+              <p><strong>April Gambardella</strong><br>
+                Major: Broadcast Journalism<br>
+                Favorite Trivia Topic: Red Hot Chili Peppers<br>
+                Fun Fact: I have been to 16 National Parks</p>
             </div>
           </div>
         </div>
