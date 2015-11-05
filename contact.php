@@ -33,15 +33,24 @@
       <div class="large-12 large-centered column">
         <div class="panel">
           <h1 id="top-bar">Contact Us</h1>
-          <p>Service is our top priority. Please contact the RowanCard Office with any questions or concerns.</p>
+          <p>Service is our top priority. Please contact the Card Services Office with any questions or concerns pertaining
+          to your RowanCard. The office is located on the ground level of the Chamberlain Student Center next to Xpress.</p>
           <hr>
           <div class="row">
-            <div class="large-4 medium-9 columns">
+            <div class="large-3 medium-9 columns">
               <p><strong>Christine Noon</strong><br>
-              <em>Director of Card Services</em><br>
+              <em>Card Services Director</em><br>
               <em>856-256-4531</em><br>
               <em class="email"><a href="mailto:rowancard@rowan.edu">rowancard@rowan.edu</a></em><br>
-              <em>Office Hours: M-F from 8:00am - 4:30pm</em></p>
+              </p>
+            </div>
+
+            <div class="large-3 medium-9 columns">
+              <p><strong>Card Services Office</strong><br>
+              <em>201 Mullica Hill Road</em><br>
+              <em>Glassboro, NJ 08028</em><br>
+              <em>Hours: M-F from 8:30am - 4:30pm </em><br>
+              </p>
             </div>
             <div class="large-6 columns">
               <h3>Comments or Concerns?</h3>

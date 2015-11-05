@@ -36,47 +36,35 @@
 
                 <strong>Identification</strong>
                 <p>The photo on the card identifies the carrier as the owner of the card. The card also identifies a person's 
-                status on campus (i.e., student or employee), entitling him or her to a specific set of privileges. 
-                A swipe of the magnetic stripe on the back will give students access to:</p>
+                status on campus (i.e., student, faculty, staff, affiliate), entitling him or her to a specific set of privileges. 
+                A swipe of the magnetic stripe on the back of the card or tapping the card on some readers will give cardholders
+                access to a multitude of services both on- and off-campus.</p>
 
-                <ol>
-                    <li>RowanCard 'Boro Bucks Account</li>
-                    <li>Meal Plan Account</li>
-                    <li>Dining Dollar Account</li>
-                    <li>University bookstore services</li>
-                    <li>Rec Center privileges</li>
-                    <li>Mail Room privileges</li>
-                    <li>Campbell Library privileges</li>
-                    <li>After-hours building access (where available)</li>
-                    <li>Vending machines</li>
-                    <li>Campus copiers</li>
-                    <li>Print labs</li>
-                    <li>Off-Campus Merchants</li>
-                </ol>
-
-                <p>The RowanCard is the property of Rowan University and is non-transferable. 
-                Only the person whose photo is on the card will be permitted to spend funds from the accounts on the card. 
-                Cards will be confiscated if presented by someone other than the cardholder or if the card is involved in inappropriate 
-                or illegal use. Fraudulent use of another person's card will result in disciplinary action.</p>
+                <p>The RowanCard is the property of Rowan University and is non-transferable. Only the person whose photo is on 
+                the card will be permitted to spend funds from the accounts on the card. Cards will be confiscated if presented
+                by someone other than the cardholder or if the card is involved in inappropriate or illegal use. Fraudulent use
+                of another person's card will result in disciplinary action.</p>
 
                 <strong>Meal Plan/Dining Dollar Account</strong>
-                <p>When students purchase meal plans through dining services, they also receive Dining Dollars and 'Boro Bucks.</p>
+                <p>When students purchase a meal plan, they also receive Dining Dollars and 'Boro Bucks.</p>
 
-                <p>Students can use their meal plan accounts to purchase food in either the Marketplace or from a "meal equivalent" 
-                menu in the Food Court. If they go beyond their allocated meals, the university will automatically draw money from their 
-                Dining Dollar or Boro Bucks account. Dining Dollars can be used to purchase food from any on-campus food location.</p>
+                <p>Students can use their meal plan account to purchase food in either the Marketplace or from a "meal equivalent" 
+                menu in the other food venues around campus. If they go beyond their allocated meals, the university will automatically 
+                draw money from their Dining Dollar or 'Boro Bucks account. Dining Dollars can be used to purchase food at any on-campus 
+                food location in adition to a select number of merchants on Rowan Blvd.</p>
 
-                <p>Setting up a meal plan is easy. Contact the Bursar's Office at (856) 256-4150.  Better yet, stop by in person to purchase a 
-                meal plan. The office is located in Savitz Hall on the ground level. Payment is required at the time of purchase. Meal plans can 
-                be decreased through the second week of classes only.</p>
+                <p>Setting up a meal plan is easy. Contact the Bursar's Office at (856) 256-4150 (option 2). Better yet, stop by in person 
+                to purchase a meal plan. The office is located in Savitz Hall on the ground level. Payment is required at the time of purchase.
+                Meal plans can be decreased through the second week of classes <strong>only</strong>.</p>
 
                 <strong>RowanCard 'Boro Bucks Account</strong>
                 <p>Students can avoid carrying cash or credit cards by depositing money in their RowanCard 'Boro Bucks Account. 
-                The money in this account can be used to purchase a variety of goods and services on campus and at over 80 locations off campus. 
+                The money in this account can be used to purchase a variety of goods and services on campus and at over 80 locations off-campus. 
                 Money deposited into the 'Boro Bucks account is drawn down with each purchase. 'Boro Bucks balances roll over from year to year
                 and do not expire. Upon graduation, withdrawal or termination of employment, refunds will be issued for remaining funds over ten 
-                dollars.  The purchase of pre-paid cards of any kind or gift certificates are NOT permitted using Boro Bucks. Students cannot make
-                cash withdrawals from their RowanCard. Check account balances at <a href="myrowancard.rowan.edu">myrowancard.rowan.edu</a>.</p>
+                dollars.  <strong>The purchase of pre-paid cards of any kind or gift certificates are NOT permitted using Boro Bucks</strong>.
+                Students cannot make cash withdrawals from their RowanCard. Check account balances anytime, anywhere by downloading the eAccounts
+                mobile app.</p>
         	</div>
         </div>
       </div>
