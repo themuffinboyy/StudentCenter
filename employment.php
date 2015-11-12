@@ -30,16 +30,19 @@
         <div class="large-12 columns">
         	<div class="panel">
             <h1>Looking for an On-Campus Job?</h1><hr>
-            <p>
-              The Chamberlain Student Center offers employment opportunities at the Information Desk
-              & Prof's Place, as well as the Game Room & Profs Place. If you are interested in applying,
-              please follow the link below.
-            <p>
-            <p>
-              The hiring process takes place early in the Spring semester,
-              for employment the following Fall semester. We accept applications year-round. Thank you
-              for your interest in joining the Student Center team.
-            <p>
+
+            <p>The Chamberlain Student Center offers employment opportunities at the Information Desk, as well as the 
+            Game Room & Prof's Place. If you are interested in applying, please follow the link below.<p>
+
+            <p>The hiring process takes place early in the Spring semester, for employment the following Fall semester. 
+            We accept applications year-round. Thank you for your interest in joining the Student Center team.<p>
+
+            <p>In order to be interviewed for any position of employment at the Student Center, you must attend an 
+            information session on one of the following dates:<br>
+            - Thursday, December 3rd at 10am in Room 127 of the Student Center<br> 
+            - Friday, December 4th at 4pm in Room 129 of the Student Center<br>
+            Additional dates will be provided early in the Spring semester.</p>
+
   	        <script type="text/javascript" id="rbox-loader-script">
               if(!window._rbox){
               window._rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
@@ -52,6 +55,11 @@
                   }})(document, 'script');
               }
             </script>
+
+            <h2>Available Positions</h2>
+            <a href="#">Information Desk</a><br>
+            <a href="#">Game Room & Prof's Place</a><br>
+            <a href="#">Marketing</a>
         	</div>
         </div>
       </div>
