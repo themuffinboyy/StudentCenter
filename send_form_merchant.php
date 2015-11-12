@@ -4,8 +4,8 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "hollyj71@students.rowan.edu";
-    $email_subject = "Merchant Application";
+    $email_to = "rowancard@rowan.edu";
+    $email_subject = "RowanCard Website Merchant Application";
      
     $business_name = $_POST['business_name'];
     $business_address = $_POST['business_address'];
@@ -119,7 +119,7 @@ $headers = 'From: '.$email_from."\r\n".
 <html>
   <head>
     <title>IU Webmaster redirect</title>
-    <META http-equiv="refresh" content="0;URL=/~hollyj71/StudentCenter/becomemerchant.php?sent=true">
+    <META http-equiv="refresh" content="0;URL=/studentaffairs/studentcenter/becomemerchant.php?sent=true">
   </head>
 </html>
   

@@ -5,7 +5,6 @@ if(isset($_POST['email'])) {
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
     $email_to = "rowancard@rowan.edu";
- 
     $email_subject = "RowanCard Website Comment";
  
     function died($error) {

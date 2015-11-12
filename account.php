@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="css/banner.css" />
 <link rel="stylesheet" href="css/rowanheader.css" />
 <link rel="stylesheet" href="css/employment.css" />
+<link rel="stylesheet" href="css/account.css">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js"></script>
 <script type="text/javascript" src="js/js_jnv80YOwCwlPiNZ0W1fOaWsUliw1fl3r-iYl0nsElnY.js"></script>
 <script type="text/javascript" src="js/js_jckA-4t9p22mBBR89owx6Ksvb40v5gsspPqsDK3Q0oM.js"></script>
@@ -26,31 +27,33 @@
     <?php include_once("analyticstracking.php") ?>
     <?php include_once("stattracking.php") ?>
     <?php include("header.html") ?>
-    <div id="standard_page">
+    <div id="account_page">
       <div class="row">
         <div class="large-12 columns">
         	<div class="panel">
-                <h1>Account Info</h1>
-                <p>You can draw upon three accouns when using the RowanCard -- the Meal Plan, Dining Dollars account and 'Boro Bucks account.
-                    Please be aware that Dining Dollars can only be used for food purchases on-campus and at seven Rowan Boulevard food locations.
-                    'Boro Bucks can be used at any food location as well as any other purchase wherever the RowanCard is accepted.</p>
-                <p>Students cannot add Dining Dollars to their accounts. You can, however, add money to the 'Boro Bucks account. To do so,
-                    you have the option of doing this in person at the Bursar's Office, by sending a check payment to the office (referencing the
-                    student's account number), on-line through student services, or through your smart phone by downloading the eAccounts app.</p>
-                
-                <strong>Checking account balances</strong>
-                <p>There are three ways students can check RowanCard account balances:</p>
-                <ol>
-                    <li>Visit the Bursar's Office and ask for their account spending history</li>
-                    <li><a href="//myrowancard.rowan.edu">The myrowancard site on the web</a></li>
-                    <li>Smart phone eAccounts app</li>
-                </ol>
+            <h1>Account Info</h1>
+            <p>You can draw upon four accouns when using the RowanCard -- the Meal Plan, Dining Dollars account, 'Boro Bucks account, and the
+            Meal SV account (block meal plan holders only). Please be aware that Dining Dollars can only be used for food purchases on-campus 
+            and at select Rowan Boulevard food locations. Dining Dollars expire at the end of each academic year. 'Boro Bucks can be used at 
+            any food location as well as any other purchase wherever the RowanCard is accepted.</p>
 
-                <strong>Unused Balances</strong>
-                <p>Unused balances in the RowanCard 'Boro Bucks account are refundable only at the end of the school year upon written request.
-                    Checks will be issued for balances of $10.00 or more. Otherwise, balances in this account carry forward to the next
-                    school year without penalty.</p>
-                <p>Unused Dining Dollars expire at the end of each academic school year.</p>
+            <p>Students cannot add Dining Dollars to their accounts. You can, however, add money to the 'Boro Bucks account. To do so,
+            you have the option of doing this in person at the Bursar's Office, by sending a check payment to the office (referencing the
+            student's account number), on-line through student services, or through your smart phone by downloading the eAccounts app.</p>
+            
+            <strong>Check RowanCard Account Balances</strong>
+            <p>There are two ways students can check RowanCard account balances:</p>
+            <ol>
+                <li><a href="//myrowancard.rowan.edu" target="_blank">The myrowancard site on the web</a></li>
+                <li>Smart phone eAccounts app</li>
+            </ol>
+
+            <strong>Unused Balances</strong>
+            <p>Unused balances in the RowanCard 'Boro Bucks account are refundable only at the end of the school year upon written request.
+            Checks will be issued for balances of $10.00 or more. Otherwise, balances in this account carry forward to the next
+            school year without penalty.</p>
+            
+            <p>Unused Dining Dollars expire at the end of each academic school year.</p>
             </div>
         </div>
       </div>

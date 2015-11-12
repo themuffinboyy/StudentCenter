@@ -26,6 +26,9 @@
   letter-spacing: -0.5px; }
 #rowancard_page .push_right {
   margin-right: 26px; }
+#rowancard_page .logo {
+  height: 262px;
+  background-color: #ffcc00; }
 @media only screen and (min-width: 40.0625em) {
   #rowancard_page .medium-12 {
     width: 100%; }

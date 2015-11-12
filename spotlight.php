@@ -77,7 +77,9 @@
         <div class="row nested">
           <div class="large-12 columns">
             <div class="panel center">
-              November 2rd<br>
+              February 1st<br>
+              March 7th<br>
+              April 4th<br>
               
             </div>
           </div>

@@ -57,9 +57,10 @@
             </script>
 
             <h2>Available Positions</h2>
-            <a href="#">Information Desk</a><br>
-            <a href="#">Game Room & Prof's Place</a><br>
-            <a href="#">Marketing</a>
+            <a href="images/resources/graphic_designer_job.pdf" target="_blank">Graphic Designer</a><br>
+            <a href="images/resources/info_desk_job.pdf" target="_blank">Information Desk</a><br>
+            <a href="images/resources/videographer_job.pdf" target="_blank">Videographer</a><br>
+            <a href="images/resources/web_designer_job.pdf" target="_blank">Web Designer</a>
         	</div>
         </div>
       </div>

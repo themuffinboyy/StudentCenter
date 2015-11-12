@@ -105,7 +105,7 @@
         <div class="panel">
           <form name="contactform" method="post" action="send_form_gameroom.php">
             <label>Console:<input  type="text" name="console" maxlength="50" placeholder="PS4, Xbox One, etc." required></label>
-            <label>Game:<input  type="text" name="game" maxlength="50" placeholder="Black Ops 3" required></label>
+            <label>Game:<input  type="text" name="game" maxlength="50" placeholder="Black Ops III" required></label>
             <label>Email:<input  type="text" name="email" maxlength="80" placeholder="student@students.rowan.edu" required></label>
             <input type="submit" value="Submit">
           </form>

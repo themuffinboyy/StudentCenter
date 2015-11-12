@@ -28,9 +28,10 @@
 
   <section id="rowancard_page">
     <div class="row card_header">
-      <div class="large-4 medium-4 logo columns">
-      	<img class="show-for-medium-up" src="images/mission/mission_logo.png">
-        <img class="show-for-small-only" src="images/mobile/mission_logo.png">
+      <div class="large-4 medium-4 columns">
+      	<!-- <img class="show-for-medium-up" src="images/mission/mission_logo.png">
+        <img class="show-for-small-only" src="images/mobile/mission_logo.png"> -->
+        <div class="panel logo"></div>
       </div>
       <div class="large-8 medium-8 banner columns">
           <div class="large-12 columns">
@@ -41,8 +42,8 @@
                   the convenience of purchasing power all over campus and around town without cash, checks, or coins. Each time you
                   use the RowanCard, the amount of the purchase is deducted from one of two accounts--Dining Dollars or 'Boro Bucks.</p>
 
-                  <p>Need to have your RowanCard made: Visit the Information Desk located in Chamberlain Student Center to have your
-                  picture taken and to proces your ID card.</p>
+                  <p>Need to have your RowanCard made? Visit the Information Desk located in Chamberlain Student Center to have your
+                  picture taken and to process your ID card.</p>
                 </div>
               </div>
             </div>
@@ -76,7 +77,7 @@
         <a href="faqs.php" class="button" target="_blank">FAQs</a>
       </div>
       <div class="large-4 columns push_right">
-        <a href="becomemerchant.php" class="button">Become a merchant</a>
+        <a href="becomemerchant.php" class="button" target="_blank">Become a merchant</a>
       </div>
       <div class="large-4 columns end">
         <a href="account.php" class="button" target="_blank">Account info</a>

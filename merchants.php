@@ -67,7 +67,7 @@
           <hr>
           <div class="row">
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="//www.7-eleven.com/" target="_blank"><img src="images/merchants/7eleven_logo.png"></a>
+              <a class="th" href="//www.7-eleven.com/" target="_blank"><img src="images/merchants/7eleven.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
               <p><strong>7 Eleven</strong><br>
@@ -372,7 +372,7 @@
             </div>
           
             <div class="large-2 medium-2 columns picture">
-              <a class="th" href="http://www.goodwill.org/" target="_blank"><img src="images/merchants/goodwill_logo.png"></a>
+              <a class="th" href="http://www.goodwill.org/" target="_blank"><img src="images/merchants/goodwill.png"></a>
             </div>
             <div class="large-2 medium-2 columns">
               <p><strong>Goodwill</strong><br>
@@ -582,7 +582,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="O"></a>
-              <img class="th" src="images/merchants/onestop_logo.png">
+              <img class="th" src="images/merchants/onestop.png">
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>One Stop Shoppe</strong><br>
@@ -779,7 +779,7 @@
 
             <div class="large-2 medium-2 columns picture">
               <a name="T"></a>
-              <a class="th" href="//www.tacobell.com" target="_blank"><img src="images/merchants/tacobell_logo.png"></a>
+              <a class="th" href="//www.tacobell.com" target="_blank"><img src="images/merchants/tacobell.png"></a>
             </div>
             <div class="large-2 medium-2 end columns">
               <p><strong>Taco Bell</strong><br>
