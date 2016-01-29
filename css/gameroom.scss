@@ -42,6 +42,14 @@
 		.tab-title {
 			width: 33.33%;
 
+			&.small {
+				width: 20%;
+			}
+
+			&.medium {
+				width: 26.5%;
+			}
+			
 			&.active a {
 				background-color: #ffcf44;
 			}

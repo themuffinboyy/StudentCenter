@@ -83,7 +83,7 @@
         </div>
       </div>
 
-      <?php include("footer.html"); ?>
+      <?php include("rowancard_footer.html"); ?>
     </div>
   </body>
 </html>

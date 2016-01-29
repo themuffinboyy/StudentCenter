@@ -27,6 +27,10 @@
   padding: 0.5rem 1rem; }
 #gameroom_page .tabs .tab-title {
   width: 33.33%; }
+  #gameroom_page .tabs .tab-title.small {
+    width: 20%; }
+  #gameroom_page .tabs .tab-title.medium {
+    width: 26.5%; }
   #gameroom_page .tabs .tab-title.active a {
     background-color: #ffcf44; }
 #gameroom_page .game {

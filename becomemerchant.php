@@ -105,7 +105,7 @@
 </section>
 
 <?php 
-  include("footer.html");
+  include("rowancard_footer.html");
 ?>
 
 </body>

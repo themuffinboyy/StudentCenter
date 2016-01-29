@@ -29,9 +29,7 @@
   <section id="rowancard_page">
     <div class="row card_header">
       <div class="large-4 medium-4 columns">
-      	<!-- <img class="show-for-medium-up" src="images/mission/mission_logo.png">
-        <img class="show-for-small-only" src="images/mobile/mission_logo.png"> -->
-        <div class="panel logo"></div>
+      	<img src="images/rowancard/rowancard_logo.png">
       </div>
       <div class="large-8 medium-8 banner columns">
           <div class="large-12 columns">
@@ -58,7 +56,12 @@
         <a href="https://id.rowan.edu/" class="button" target="_blank">Find your ISO #</a>
       </div>
       <div class="large-4 columns end">
-        <a href="merchants.php" class="button" target="_blank">Where to use my card</a>
+        <button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown">Where to use card</button><br>
+        <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+          <li><a href="oncampus_merchants.php">On-campus</a></li>
+          <li><a href="glassboro_merchants.php">Glassboro</a></li>
+          <li><a href="camden_merchants.php">Camden</a></li>
+        </ul>
       </div>
     </div>
     <div class="row">
@@ -84,7 +87,7 @@
       </div>
     </div>
 
-    <?php include("footer.html"); ?>
+    <?php include("rowancard_footer.html"); ?>
   </section>
 </body>
 </html>

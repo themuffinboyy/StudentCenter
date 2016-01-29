@@ -66,9 +66,10 @@
         <div class="label">Game List</div>
 
         <ul class="tabs" data-tab>
-          <li class="tab-title active"><a href="#panel4">Playstation</a></li>
-          <li class="tab-title"><a href="#panel5">Xbox</a></li>
-          <li class="tab-title"><a href="#panel6">Wii</a></li>
+          <li class="tab-title medium active"><a href="#panel4">Playstation</a></li>
+          <li class="tab-title small"><a href="#panel5">Xbox</a></li>
+          <li class="tab-title small"><a href="#panel6">Wii</a></li>
+          <li class="tab-title"><a href="#panel7">Board Games</a></li>
         </ul>
 
         <div class="tabs-content">
@@ -85,6 +86,11 @@
           <div class="content" id="panel6">
             <div class="panel game">
               <?php include("_gamelist/nintendo.html"); ?>
+            </div>
+          </div>
+          <div class="content" id="panel7">
+            <div class="panel game">
+              <?php include("_gamelist/board_games.html"); ?>
             </div>
           </div>
         </div>

@@ -31,18 +31,22 @@
         	<div class="panel">
             <h1>Looking for an On-Campus Job?</h1><hr>
 
-            <p>The Chamberlain Student Center offers employment opportunities at the Information Desk, as well as the 
-            Game Room & Prof's Place. If you are interested in applying, please follow the link below.<p>
+            <p>The Chamberlain Student Center offers student employment opportunities at the Information Desk,
+            on our marketing team, as well as the Game Room & Profs Place. If you are interested in applying, 
+            please follow the link below.</p>
 
             <p>The hiring process takes place early in the Spring semester, for employment the following Fall semester. 
-            We accept applications year-round. Thank you for your interest in joining the Student Center team.<p>
+            Although We accept applications year-round, for full consideration for Fall 2016 employment please apply by
+            February 4th, 2016. Thank you for your interest in joining the Student Center team.</p>
 
-            <p>In order to be interviewed for any position of employment at the Student Center, you must attend an 
+            <p>In order to be interviewed for any of the undergraduate positions below, you must attend an 
             information session on one of the following dates:<br>
-            - Thursday, December 3rd at 10am in Room 127 of the Student Center<br> 
-            - Friday, December 4th at 4pm in Room 129 of the Student Center<br>
-            Additional dates will be provided early in the Spring semester.</p>
+            - Friday, January 29th at 4pm in Room 221C of the Student Center<br>
+            - Tuesday, February 2nd at 11am in Room 127 of the Student Center<br></p>
 
+            <p>Check out what our employees are saying about us:<br>
+            <a href="http://theodysseyonline.com/rowan/apply-student-center/283511" target="_blank">http://theodysseyonline.com/rowan/apply-student-center/283511</a></p>
+            
   	        <script type="text/javascript" id="rbox-loader-script">
               if(!window._rbox){
               window._rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
@@ -59,8 +63,20 @@
             <h2>Available Positions</h2>
             <a href="images/resources/graphic_designer_job.pdf" target="_blank">Graphic Designer</a><br>
             <a href="images/resources/info_desk_job.pdf" target="_blank">Information Desk</a><br>
+            <a href="images/resources/profs_gameroom_job.pdf" target="_blank">Profs Place & Gameroom</a><br>
             <a href="images/resources/videographer_job.pdf" target="_blank">Videographer</a><br>
             <a href="images/resources/web_designer_job.pdf" target="_blank">Web Designer</a>
+
+            <hr>
+
+            <h2>Graduate Positions</h2>
+            <p>Are you looking for a graduate assistantship? The CSC currently has two positions open for the 2016-2017
+            and 2017-2018 school years, a Graduate Coordinator for Marketing and Special Events and a Graduate Coordinator 
+            for Facilities. Please check out the job descriptions below to learn about each positions's responsibilities, 
+            expectations, and compensation.</p>
+
+            <a href="images/resources/facilities_ga_job.pdf" target="_blank">Graduate Coordinator for Facilities</a><br>
+            <a href="images/resources/marketing_ga_job.pdf" target="_blank">Graduate Coordinator for Marketing and Special Events</a>
         	</div>
         </div>
       </div>

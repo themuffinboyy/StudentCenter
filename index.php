@@ -137,10 +137,10 @@
 
           <div class="content add_top" id="panel2">
            <div class="panel">
-              <a href="images/resources/welcome_weekend_hours.pdf" target="_blank">2015 Welcome Weekend Hours</a><br>
-              <a href="images/resources/thanksgiving_hours_2015.pdf" target="_blank">Thanksgiving Hours</a><br>
-              <a href="images/resources/winter_hours.pdf" target="_blank">Winter Hours</a><br>
-              <a href="images/resources/summer_hours.pdf" target="_blank">Summer Hours</a>
+              <a href="images/resources/welcome_weekend_hours_2015.pdf" target="_blank">2015 Welcome Weekend Hours</a><br>
+              <a href="images/resources/thanksgiving_hours_2015.pdf" target="_blank">2015 Thanksgiving Hours</a><br>
+              <a href="images/resources/winter_hours_2015.pdf" target="_blank">2015 Winter Hours</a><br>
+              <a href="images/resources/summer_hours_2015.pdf" target="_blank">2015 Summer Hours</a>
             </div>
           </div>
         </div>

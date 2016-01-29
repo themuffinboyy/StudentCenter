@@ -62,7 +62,7 @@
         <div class="row nested">
           <div class="large-12 columns">
             <div class="panel">
-              <p>Trivia night will be held every Tuesday night at 9:00 p.m. in Prof's Place, 
+              <p>Trivia night will be held every Tuesday night at 9:00 p.m. in Profs Place, 
               in the Chamberlain Student Center, starting September 8th. Get together with up to five (5) 
               friends to create a team to compete for prizes every week. Trivia topics include current events, 
               sports, music, history, theme nights, and more! Each week you will have the chance to win $50 in 

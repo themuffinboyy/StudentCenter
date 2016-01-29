@@ -41,7 +41,7 @@
               <p><strong>Christine Noon</strong><br>
               <em>Card Services Director</em><br>
               <em>856-256-4531</em><br>
-              <em class="email"><a href="mailto:rowancard@rowan.edu">rowancard@rowan.edu</a></em><br>
+              <em class="email"><a href="mailto:noon@rowan.edu">noon@rowan.edu</a></em><br>
               </p>
             </div>
 
@@ -75,7 +75,7 @@
 </section>
 
 <?php 
-  include("footer.html");
+  include("rowancard_footer.html");
 ?>
 
 </body>
