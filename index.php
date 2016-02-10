@@ -57,7 +57,7 @@
             <a href="trivia.php"><img src="images/homepage/trivia_banner.png" alt="slide 2" /></a>
           </li>
           <li>
-           <a href="spotlight.php"><img src="images/homepage/spotlight_banner.png" alt="slide 3" /></a>
+           <a href="spotlight.php"><img src="images/homepage/spotlight_banner.jpg" alt="slide 3" /></a>
           </li>
         </ul>
     </div>

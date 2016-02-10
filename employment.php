@@ -36,13 +36,8 @@
             please follow the link below.</p>
 
             <p>The hiring process takes place early in the Spring semester, for employment the following Fall semester. 
-            Although We accept applications year-round, for full consideration for Fall 2016 employment please apply by
-            February 4th, 2016. Thank you for your interest in joining the Student Center team.</p>
-
-            <p>In order to be interviewed for any of the undergraduate positions below, you must attend an 
-            information session on one of the following dates:<br>
-            - Friday, January 29th at 4pm in Room 221C of the Student Center<br>
-            - Tuesday, February 2nd at 11am in Room 127 of the Student Center<br></p>
+            Although we accept applications year-round, we are no longer considering applications for Fall 2016 employment.
+            Thank you for your interest in joining the Student Center team.</p>
 
             <p>Check out what our employees are saying about us:<br>
             <a href="http://theodysseyonline.com/rowan/apply-student-center/283511" target="_blank">http://theodysseyonline.com/rowan/apply-student-center/283511</a></p>
@@ -70,13 +65,14 @@
             <hr>
 
             <h2>Graduate Positions</h2>
-            <p>Are you looking for a graduate assistantship? The CSC currently has two positions open for the 2016-2017
-            and 2017-2018 school years, a Graduate Coordinator for Marketing and Special Events and a Graduate Coordinator 
+            <p>Are you looking for a graduate assistantship? The CSC currently has three positions open for the 2016-2017
+            and 2017-2018 school years, an Event Specialist, a Graduate Coordinator for Marketing and Special Projects, and a Graduate Coordinator 
             for Facilities. Please check out the job descriptions below to learn about each positions's responsibilities, 
             expectations, and compensation.</p>
 
+            <a href="images/resources/event_specialist_ga_job.pdf" target="_blank">Event Specialist</a><br>
             <a href="images/resources/facilities_ga_job.pdf" target="_blank">Graduate Coordinator for Facilities</a><br>
-            <a href="images/resources/marketing_ga_job.pdf" target="_blank">Graduate Coordinator for Marketing and Special Events</a>
+            <a href="images/resources/marketing_ga_job.pdf" target="_blank">Graduate Coordinator for Marketing and Special Projects</a>
         	</div>
         </div>
       </div>

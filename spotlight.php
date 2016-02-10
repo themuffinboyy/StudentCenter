@@ -34,7 +34,7 @@
         <img src="images/spotlight/spotlight_logo.png">
       </div>
       <div class="large-8 medium-8 banner columns">
-        <img src="images/spotlight/spotlight_page_banner.png">
+        <img src="images/spotlight/spotlight_page_banner.jpg">
       </div>
     </div>
 
@@ -77,7 +77,6 @@
         <div class="row nested">
           <div class="large-12 columns">
             <div class="panel center">
-              February 1st<br>
               March 7th<br>
               April 4th<br>
               
