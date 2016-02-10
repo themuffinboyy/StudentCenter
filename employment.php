@@ -66,11 +66,11 @@
 
             <h2>Graduate Positions</h2>
             <p>Are you looking for a graduate assistantship? The CSC currently has three positions open for the 2016-2017
-            and 2017-2018 school years, an Event Specialist, a Graduate Coordinator for Marketing and Special Projects, and a Graduate Coordinator 
-            for Facilities. Please check out the job descriptions below to learn about each positions's responsibilities, 
+            and 2017-2018 school years, a Graduate Coordinator for Events, a Graduate Coordinator for Facilities, and a Graduate Coordinator 
+            for Marketing and Special Projects. Please check out the job descriptions below to learn about each positions's responsibilities, 
             expectations, and compensation.</p>
 
-            <a href="images/resources/event_specialist_ga_job.pdf" target="_blank">Event Specialist</a><br>
+            <a href="images/resources/event_specialist_ga_job.pdf" target="_blank">Graduate Coordinator for Events</a><br>
             <a href="images/resources/facilities_ga_job.pdf" target="_blank">Graduate Coordinator for Facilities</a><br>
             <a href="images/resources/marketing_ga_job.pdf" target="_blank">Graduate Coordinator for Marketing and Special Projects</a>
         	</div>
