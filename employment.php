@@ -61,18 +61,6 @@
             <a href="images/resources/profs_gameroom_job.pdf" target="_blank">Profs Place & Gameroom</a><br>
             <a href="images/resources/videographer_job.pdf" target="_blank">Videographer</a><br>
             <a href="images/resources/web_designer_job.pdf" target="_blank">Web Designer</a>
-
-            <hr>
-
-            <h2>Graduate Positions</h2>
-            <p>Are you looking for a graduate assistantship? The CSC currently has three positions open for the 2016-2017
-            and 2017-2018 school years, a Graduate Coordinator for Events, a Graduate Coordinator for Facilities, and a Graduate Coordinator 
-            for Marketing and Special Projects. Please check out the job descriptions below to learn about each positions's responsibilities, 
-            expectations, and compensation.</p>
-
-            <a href="images/resources/event_specialist_ga_job.pdf" target="_blank">Graduate Coordinator for Events</a><br>
-            <a href="images/resources/facilities_ga_job.pdf" target="_blank">Graduate Coordinator for Facilities</a><br>
-            <a href="images/resources/marketing_ga_job.pdf" target="_blank">Graduate Coordinator for Marketing and Special Projects</a>
         	</div>
         </div>
       </div>

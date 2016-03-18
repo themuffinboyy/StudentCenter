@@ -1,0 +1,42 @@
+#club_page .row {
+  padding: 0 5px;
+  margin: 30px auto 0 auto;
+  max-width: 1200px; }
+#club_page h1 {
+  text-align: center; }
+#club_page .club_header {
+  margin-top: 15px; }
+#club_page img {
+  width: 100%; }
+  #club_page img.icon {
+    width: 15%; }
+#club_page .label {
+  font-size: 1.5em;
+  line-height: 1.5;
+  width: 100%;
+  margin-bottom: 10px; }
+#club_page .tabs a {
+  width: 100%;
+  height: 42px;
+  text-align: center;
+  line-height: 2.4;
+  font-weight: bold;
+  outline: none;
+  background-color: rgba(153, 153, 153, 0.6);
+  font-size: 0.75rem;
+  padding: 0.5rem 1rem; }
+#club_page .tabs .tab-title {
+  width: 33.33%; }
+  #club_page .tabs .tab-title.active a {
+    background-color: #ffcf44; }
+#club_page .button {
+  width: 250px; }
+@media only screen and (max-width: 40em) {
+  #club_page .tabs-content {
+    margin-bottom: 0; }
+    #club_page .tabs-content .content {
+      padding-bottom: 0; }
+  #club_page img {
+    height: inherit; } }
+
+/*# sourceMappingURL=club.css.map */

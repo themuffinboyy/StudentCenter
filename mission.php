@@ -66,35 +66,6 @@
 
 	    <div class="small-12 medium-12 large-7 columns">
 	    	<div class="label">Core Values</div>
-
-	    	<!-- <div class="row nested">
-	    		<div class="large-12 columns">
-            <div class="panel">
-              <table>
-                <tr>
-                  <td><strong>Community Building</strong><br>
-                    We are dedicated to creating a culture where collaboration, participation, care and 
-                    respect are modeled.</td>
-                  <td><strong>Student Development</strong><br>
-                  We strive to create an environment that enhances student learning, self-discovery, 
-                  exploration and leadership development.</td>
-                </tr>
-                <tr>
-                  <td><strong>Service Excellence</strong><br>
-                  We aim to exceed customer expectations by providing the best possible experience to 
-                  those we serve.</td>
-                  <td><strong>Integrity</strong><br>
-                  We believe in honesty, accountability and professionalism in all that we do.</td>
-                </tr>
-                <tr>
-                  <td><strong>Continuous Improvement</strong><br>
-                  We are committed to continuously improving our organization and ourselves by embracing 
-                  change and innovation while respecting and valuing tradition.</td>
-                </tr>
-              </table>
-            </div>
-	    		</div>
-	    	</div> -->
         <div class="row nested">
           <div class="large-12 columns">
             <div class="panel">

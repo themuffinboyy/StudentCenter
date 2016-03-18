@@ -49,7 +49,8 @@
                   <a href="https://docs.google.com/spreadsheets/d/12HZJcMNXq_zri_ttsrmTBC3WH_IXwbgw9D8BKgLz7UU/edit#gid=1420117037" target="_blank">Event Consultant List</a><br><hr>
                   <a href="images/resources/event_evaluation.pdf" target="_blank">Event Evaluation</a><br><hr>
                   <a href="images/resources/planning_timeline.pdf" target="_blank">Event Planning Timeline</a><br><hr>
-                  <a href="http://rowan.e-cater.com/default.php">Gourmet Dining Catering</a><br><hr>
+                  <a href="http://rowan.e-cater.com/default.php" target="_blank">Gourmet Dining Catering</a><br><hr>
+                  <a href="http://www.myorderdesk.com/Home.asp?Provider_ID=29525" target="_blank">Printing Services from Duplicating</a><br><hr>
                   <a href="images/resources/booking_speaker.pdf" target="_blank">Questions to Ask When Booking a Speaker</a><br><hr>
                   <a href="http://www.rowan.edu/studentaffairs/rec/facilityhours/recequipmentcheckoutlist.pdf" target="_blank">Rec Center Equipment Checkout</a><br><hr>
                   <a href="https://rowan.collegiatelink.net/form/start/76062" target="_blank">SGA Fundraising</a><br><hr>
