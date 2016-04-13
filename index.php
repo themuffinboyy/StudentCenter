@@ -51,13 +51,10 @@
     <div class="large-8 medium-8 small-12 columns">
         <ul class="example_orbit" data-orbit>
           <li class="active">
-            <a href="https://docs.google.com/a/rowan.edu/forms/d/1hx3Ha0J_GPotC05vfzjaqGgZkAmUsBuL36QT6f_B2Ys/viewform"><img src="images/homepage/cultural_showcase_banner.png" alt="slide 1" /></a>
+            <a href=""><img src="images/homepage/humans_of_rowan.jpg" alt="slide 1" /></a>
           </li>
           <li>
             <a href="trivia.php"><img src="images/homepage/trivia_banner.png" alt="slide 2" /></a>
-          </li>
-          <li>
-           <a href="spotlight.php"><img src="images/homepage/spotlight_banner.jpg" alt="slide 3" /></a>
           </li>
         </ul>
     </div>
